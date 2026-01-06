@@ -1,0 +1,5001 @@
+age,gender,ethnicity,imd_quintile,comorbidity_score,discharge_destination,readmitted_30days
+72,Male,White,2,1,Home,0
+62,Male,White,2,0,Home,0
+74,Male,Black,3,2,Care Home,1
+87,Male,White,2,3,Home,0
+61,Male,White,1,4,Home,1
+61,Female,White,4,3,Home,1
+88,Female,White,4,2,Home,0
+76,Female,Black,4,0,Home,1
+57,Male,White,2,3,Home,0
+73,Male,Mixed,3,2,Home,1
+58,Male,Mixed,2,4,Home,0
+58,Female,White,1,1,Home,0
+68,Female,White,3,0,Home,1
+36,Female,Black,1,2,Home,0
+39,Male,White,1,3,Home,1
+56,Female,White,4,1,Home,0
+49,Male,White,1,4,Home,0
+69,Female,White,5,3,Home,0
+51,Female,Asian,3,4,Home,1
+43,Female,White,5,0,Home,0
+86,Female,White,1,4,Care Home,1
+61,Male,Black,3,6,Home,0
+66,Female,Asian,2,4,Home,0
+43,Female,White,4,1,Home,1
+56,Male,Asian,2,2,Home,0
+66,Male,White,2,2,Home,0
+47,Male,Asian,5,2,Home,1
+70,Male,White,2,1,Home,0
+55,Male,White,1,5,Home,1
+60,Female,White,2,2,Home,1
+55,Male,White,3,2,Home,0
+92,Male,Other,2,1,Care Home,1
+64,Female,White,2,3,Care Home,0
+49,Female,Black,1,1,Deceased,0
+77,Female,Mixed,3,4,Home,0
+46,Male,White,4,2,Care Home,1
+68,Female,Asian,2,2,Care Home,1
+35,Female,White,2,5,Care Home,0
+45,Male,Black,1,1,Home,0
+67,Male,White,1,3,Rehabilitation,0
+76,Female,White,1,0,Home,0
+67,Female,White,2,4,Home,1
+63,Female,White,3,1,Home,0
+60,Female,White,5,2,Care Home,1
+42,Female,White,1,1,Home,0
+54,Female,Asian,3,3,Home,0
+58,Male,White,3,1,Care Home,0
+80,Male,White,3,6,Home,0
+70,Male,White,5,3,Care Home,0
+38,Female,White,1,2,Rehabilitation,1
+69,Female,White,1,5,Home,0
+59,Female,Asian,3,0,Home,0
+54,Male,Other,2,2,Home,0
+74,Female,White,1,2,Deceased,1
+80,Male,White,2,1,Care Home,1
+78,Male,White,2,1,Home,0
+52,Female,White,3,2,Home,1
+60,Female,White,1,1,Home,0
+69,Female,Asian,2,2,Rehabilitation,0
+79,Male,White,2,2,Home,1
+57,Female,Asian,2,2,Home,0
+62,Male,White,5,2,Rehabilitation,1
+48,Male,White,1,5,Home,1
+47,Female,White,5,7,Home,0
+77,Female,White,3,2,Rehabilitation,0
+85,Female,White,4,1,Home,0
+63,Male,Black,2,3,Home,0
+80,Female,White,2,1,Home,1
+70,Male,Asian,5,1,Home,1
+55,Female,White,5,2,Home,0
+70,Male,White,1,2,Care Home,1
+88,Male,White,1,0,Home,0
+64,Female,White,2,1,Home,0
+88,Female,White,5,4,Home,0
+25,Male,White,2,2,Home,0
+77,Male,White,3,2,Home,1
+66,Female,White,4,0,Home,1
+60,Male,White,4,3,Home,1
+66,Male,White,3,1,Home,0
+35,Male,White,2,10,Home,1
+61,Male,Black,5,0,Rehabilitation,0
+70,Female,White,3,0,Home,0
+87,Female,Asian,4,4,Home,1
+57,Female,White,2,2,Home,0
+52,Female,White,3,3,Home,0
+57,Male,White,2,0,Home,0
+78,Male,Mixed,1,0,Home,1
+69,Male,White,4,1,Home,0
+57,Male,Asian,3,3,Home,0
+72,Male,White,3,3,Home,0
+66,Female,White,2,4,Home,0
+79,Female,White,3,1,Home,0
+54,Male,White,2,0,Rehabilitation,1
+60,Female,White,3,2,Home,0
+59,Female,White,2,3,Home,1
+43,Female,White,4,3,Home,0
+69,Female,Other,4,2,Home,0
+68,Female,White,2,3,Care Home,1
+65,Female,Asian,2,1,Care Home,0
+61,Female,White,3,0,Home,0
+43,Female,White,3,3,Home,1
+58,Male,Mixed,4,2,Deceased,0
+59,Male,Black,3,4,Rehabilitation,0
+52,Female,Asian,2,4,Home,0
+62,Male,White,2,1,Home,0
+71,Male,White,2,2,Home,0
+93,Female,White,1,3,Rehabilitation,1
+67,Male,White,3,1,Rehabilitation,0
+68,Female,White,1,3,Home,0
+63,Female,Asian,5,3,Home,1
+36,Female,Black,4,4,Care Home,0
+64,Female,White,5,1,Care Home,0
+65,Male,White,5,6,Home,0
+95,Female,Black,2,5,Home,0
+62,Female,White,4,2,Home,0
+69,Female,White,1,3,Home,0
+64,Male,White,1,1,Home,1
+47,Male,White,4,5,Home,0
+82,Female,Other,1,0,Deceased,1
+76,Male,White,5,6,Care Home,0
+76,Female,White,3,2,Home,0
+51,Male,White,4,0,Care Home,0
+86,Male,Black,1,2,Home,0
+43,Male,Black,3,3,Home,0
+73,Male,White,1,1,Care Home,1
+95,Female,White,4,0,Home,1
+50,Female,White,1,3,Care Home,0
+56,Male,White,3,0,Home,0
+66,Female,White,1,2,Home,0
+57,Male,White,1,3,Home,1
+41,Female,White,2,5,Home,0
+66,Male,White,1,4,Home,0
+49,Female,White,4,0,Care Home,0
+72,Female,Black,1,3,Home,0
+51,Female,White,2,0,Home,0
+88,Female,White,3,6,Home,1
+53,Female,Other,2,4,Care Home,0
+60,Female,White,2,4,Home,0
+77,Female,White,4,4,Home,1
+46,Female,White,1,2,Care Home,0
+68,Female,White,1,1,Care Home,1
+84,Male,White,2,1,Rehabilitation,0
+40,Female,White,2,1,Home,0
+67,Male,Asian,3,1,Home,0
+68,Female,White,2,0,Rehabilitation,0
+76,Female,White,4,2,Care Home,0
+46,Female,White,1,3,Deceased,0
+45,Male,White,2,2,Home,0
+72,Male,White,2,2,Care Home,1
+69,Female,White,3,3,Home,0
+68,Female,White,5,5,Home,0
+70,Male,White,3,2,Home,0
+54,Male,Asian,5,3,Deceased,1
+68,Female,White,2,4,Home,0
+69,Female,Mixed,1,1,Home,0
+54,Male,White,1,0,Care Home,0
+92,Male,White,2,4,Home,1
+72,Male,Asian,2,2,Home,1
+47,Female,White,1,6,Rehabilitation,0
+74,Male,White,2,1,Rehabilitation,1
+50,Male,White,2,2,Home,0
+76,Male,White,1,1,Care Home,0
+82,Male,White,2,1,Home,1
+52,Female,Other,5,3,Care Home,0
+79,Male,White,2,4,Rehabilitation,0
+71,Male,Black,4,4,Home,0
+77,Male,White,3,1,Care Home,1
+93,Male,White,2,4,Home,0
+61,Male,White,1,0,Home,0
+53,Female,Asian,2,1,Care Home,0
+51,Female,Black,3,3,Home,0
+52,Female,White,2,3,Home,0
+63,Female,White,1,3,Home,1
+70,Female,White,1,1,Home,0
+69,Male,White,5,5,Care Home,0
+77,Female,White,2,2,Care Home,1
+65,Female,Black,3,0,Home,0
+86,Female,White,2,2,Home,0
+61,Female,White,5,4,Home,0
+95,Male,White,3,0,Home,1
+74,Female,White,2,3,Home,0
+52,Female,White,5,1,Home,0
+48,Female,White,4,2,Home,0
+72,Male,Black,1,3,Home,0
+61,Male,White,1,6,Care Home,0
+75,Male,White,4,4,Rehabilitation,1
+72,Female,White,4,2,Rehabilitation,0
+63,Male,White,3,2,Home,0
+52,Male,White,3,6,Care Home,1
+42,Female,Asian,3,5,Care Home,0
+58,Male,White,2,2,Care Home,1
+77,Female,Asian,3,1,Home,0
+68,Male,White,1,5,Home,0
+46,Female,White,5,3,Home,0
+67,Female,Other,4,2,Home,0
+70,Female,White,3,4,Deceased,0
+51,Female,Black,2,1,Home,0
+67,Male,White,1,4,Home,0
+65,Male,White,2,6,Home,0
+47,Male,Black,3,3,Home,0
+70,Female,Black,3,3,Care Home,0
+73,Female,White,2,3,Home,0
+81,Male,White,3,4,Home,0
+80,Female,White,4,6,Home,0
+44,Male,Asian,1,4,Home,0
+50,Female,White,2,2,Rehabilitation,0
+72,Female,Asian,4,1,Rehabilitation,0
+72,Male,White,3,1,Home,0
+72,Female,White,3,3,Deceased,1
+95,Male,White,3,2,Home,1
+73,Female,White,5,4,Home,0
+82,Female,Mixed,1,3,Care Home,0
+79,Male,White,2,4,Home,0
+74,Male,Mixed,1,2,Home,0
+60,Male,White,1,3,Home,1
+76,Female,White,2,5,Rehabilitation,0
+53,Female,Asian,1,2,Deceased,1
+61,Male,White,5,4,Home,1
+57,Female,White,5,3,Home,0
+66,Female,White,2,3,Home,0
+95,Male,Black,3,0,Rehabilitation,0
+36,Male,Asian,3,2,Home,0
+75,Female,White,4,1,Care Home,0
+40,Female,Asian,3,0,Care Home,1
+57,Male,White,1,2,Home,1
+81,Male,White,4,7,Home,1
+65,Male,Black,4,3,Home,1
+48,Female,White,3,3,Home,0
+54,Male,Asian,5,3,Home,0
+75,Male,White,5,1,Home,0
+54,Female,White,3,2,Home,0
+68,Female,White,3,1,Home,0
+65,Male,White,5,3,Care Home,0
+55,Male,Asian,2,1,Rehabilitation,0
+95,Female,White,2,3,Deceased,0
+74,Male,White,1,6,Home,0
+34,Male,White,5,4,Home,0
+67,Female,White,4,2,Home,0
+55,Male,Asian,1,2,Home,0
+77,Female,White,5,3,Home,1
+53,Female,White,4,2,Home,0
+63,Male,Black,5,1,Home,1
+72,Male,White,1,3,Home,0
+77,Female,Asian,3,3,Home,0
+46,Female,White,3,3,Home,0
+59,Female,White,3,4,Home,1
+57,Female,Black,3,1,Care Home,0
+55,Male,White,4,1,Home,0
+91,Female,White,2,1,Home,1
+71,Male,White,4,2,Home,0
+46,Male,White,1,0,Home,1
+78,Male,White,2,0,Care Home,1
+95,Male,Asian,1,2,Home,0
+80,Female,White,2,0,Rehabilitation,1
+42,Male,White,2,2,Home,0
+57,Male,Black,4,2,Home,0
+84,Male,White,3,4,Care Home,0
+54,Female,White,2,5,Care Home,0
+71,Female,Black,3,4,Home,0
+76,Male,Asian,1,1,Care Home,1
+51,Male,White,1,2,Home,0
+64,Male,White,3,3,Home,0
+18,Female,White,3,4,Home,0
+49,Female,White,4,3,Deceased,0
+61,Female,White,2,3,Home,0
+46,Female,Asian,4,1,Rehabilitation,0
+89,Male,Mixed,3,2,Home,0
+43,Female,Asian,5,0,Home,1
+58,Female,White,1,2,Care Home,0
+66,Male,Asian,3,3,Home,1
+86,Male,White,3,0,Home,0
+43,Female,White,5,5,Home,1
+82,Female,White,1,6,Rehabilitation,0
+65,Male,White,3,4,Home,0
+50,Female,Black,2,7,Home,1
+71,Female,White,3,2,Home,0
+67,Male,White,1,1,Care Home,0
+55,Male,Mixed,1,3,Home,0
+66,Male,White,3,4,Rehabilitation,1
+59,Female,Asian,2,3,Rehabilitation,0
+66,Male,White,1,4,Home,0
+74,Male,White,2,4,Home,0
+88,Female,Black,1,2,Home,0
+46,Female,White,5,3,Home,0
+95,Male,White,3,3,Home,1
+35,Male,White,4,3,Rehabilitation,1
+62,Female,White,2,7,Home,1
+73,Female,White,5,3,Home,1
+69,Female,White,2,0,Home,1
+55,Male,White,3,1,Home,1
+61,Female,Asian,2,2,Home,1
+57,Female,White,4,4,Rehabilitation,1
+56,Female,White,3,1,Home,0
+77,Female,White,2,6,Home,0
+70,Male,Black,1,2,Rehabilitation,0
+54,Male,Black,3,2,Home,0
+78,Female,White,2,5,Rehabilitation,0
+69,Female,Black,1,4,Home,1
+77,Female,White,2,2,Care Home,1
+74,Male,White,3,2,Home,0
+52,Female,White,4,1,Home,0
+56,Female,White,1,0,Home,1
+76,Male,White,2,2,Home,0
+74,Male,White,4,3,Rehabilitation,0
+64,Female,Other,3,3,Home,1
+66,Female,Asian,2,2,Home,0
+84,Female,White,4,3,Home,0
+56,Female,White,2,2,Home,0
+73,Male,White,2,3,Home,1
+61,Male,White,5,4,Home,1
+61,Female,White,5,2,Home,0
+81,Female,White,2,0,Home,1
+77,Female,White,1,0,Care Home,1
+77,Female,Asian,2,3,Home,1
+84,Male,White,1,2,Home,1
+65,Female,White,1,1,Home,1
+75,Male,White,2,6,Care Home,0
+60,Male,White,5,3,Home,0
+69,Male,Black,5,4,Home,0
+63,Male,White,3,4,Home,0
+66,Male,Mixed,3,5,Home,1
+73,Male,Other,1,3,Home,0
+52,Male,White,1,5,Rehabilitation,0
+95,Male,White,1,4,Home,0
+49,Female,Black,4,2,Home,0
+46,Male,Other,1,3,Care Home,0
+82,Male,White,5,7,Home,1
+76,Female,Asian,3,7,Home,1
+74,Female,Asian,1,1,Home,1
+74,Female,White,1,2,Deceased,0
+64,Male,White,3,3,Home,1
+51,Female,Asian,5,2,Home,0
+66,Male,White,4,6,Home,0
+54,Male,White,2,2,Home,0
+79,Male,White,3,3,Home,1
+62,Female,White,2,4,Care Home,0
+52,Male,White,5,5,Home,0
+60,Male,Black,4,2,Rehabilitation,1
+71,Male,White,3,3,Home,0
+56,Female,White,2,5,Care Home,0
+52,Female,White,3,3,Deceased,0
+68,Male,White,2,2,Home,1
+68,Female,White,1,4,Home,0
+57,Female,White,2,4,Rehabilitation,1
+57,Female,White,5,0,Home,1
+68,Male,White,3,1,Home,1
+43,Female,White,1,4,Deceased,0
+43,Male,White,5,2,Home,0
+54,Female,Mixed,2,4,Home,0
+61,Male,White,1,4,Care Home,0
+69,Male,White,2,4,Home,1
+87,Male,White,3,2,Home,1
+77,Female,White,3,6,Home,1
+62,Male,White,2,6,Home,0
+64,Female,White,4,3,Care Home,1
+49,Male,White,2,3,Care Home,0
+64,Female,Asian,4,2,Home,0
+60,Female,Black,1,2,Care Home,1
+69,Female,White,4,0,Home,0
+52,Female,White,3,3,Home,0
+72,Female,White,3,0,Home,0
+87,Male,Black,2,6,Home,0
+63,Female,Black,3,1,Home,0
+71,Male,White,1,1,Home,1
+75,Female,White,5,2,Home,0
+58,Female,White,1,1,Home,0
+68,Male,White,1,3,Deceased,0
+65,Male,White,3,0,Deceased,0
+66,Male,White,4,4,Care Home,0
+53,Female,White,1,1,Home,0
+65,Female,Mixed,5,1,Home,0
+72,Female,Other,5,5,Home,0
+86,Female,White,3,3,Home,1
+79,Female,White,2,4,Home,0
+95,Male,Black,4,2,Home,1
+53,Male,White,2,3,Home,0
+78,Female,White,2,3,Care Home,1
+67,Female,White,5,2,Home,0
+95,Female,White,5,7,Home,0
+52,Male,White,5,3,Home,0
+52,Male,White,2,6,Home,0
+56,Male,White,1,1,Home,0
+33,Male,White,2,4,Home,0
+57,Male,White,2,0,Rehabilitation,0
+53,Female,White,2,1,Home,1
+67,Male,Black,2,1,Home,1
+70,Female,White,3,3,Home,1
+93,Male,White,4,3,Home,1
+79,Female,White,4,1,Home,0
+56,Male,White,4,1,Home,0
+51,Male,White,1,2,Home,0
+72,Male,White,1,0,Rehabilitation,0
+45,Female,White,4,2,Home,0
+92,Female,White,3,2,Home,1
+82,Male,White,3,3,Home,0
+57,Male,White,1,3,Home,0
+39,Female,White,2,8,Home,0
+85,Male,White,3,7,Home,0
+63,Male,White,5,0,Rehabilitation,1
+83,Female,White,5,3,Home,0
+41,Female,White,3,5,Home,1
+56,Male,White,3,3,Home,0
+65,Male,White,4,1,Rehabilitation,1
+65,Female,White,3,1,Home,0
+58,Male,White,3,7,Home,0
+74,Male,White,5,3,Home,1
+48,Female,White,4,2,Home,0
+62,Female,Other,5,5,Home,0
+66,Male,Asian,1,2,Home,0
+72,Female,White,3,1,Home,0
+75,Female,White,4,1,Rehabilitation,0
+48,Male,White,1,3,Home,0
+41,Female,White,4,2,Home,0
+84,Male,White,1,3,Home,1
+69,Male,White,4,5,Home,1
+53,Female,Black,3,3,Home,0
+88,Male,White,1,1,Rehabilitation,1
+66,Male,White,2,2,Home,0
+82,Male,White,3,7,Rehabilitation,0
+66,Male,White,3,3,Home,1
+95,Female,Asian,2,2,Rehabilitation,0
+91,Female,Asian,5,3,Home,0
+61,Female,Black,3,2,Home,1
+79,Male,White,3,2,Home,1
+74,Male,White,1,4,Home,0
+85,Male,White,5,5,Home,0
+50,Male,White,1,1,Home,0
+75,Male,White,3,8,Deceased,1
+80,Female,White,4,0,Care Home,0
+38,Female,White,1,3,Care Home,1
+47,Female,White,3,3,Home,1
+34,Male,White,1,2,Care Home,1
+60,Female,White,4,1,Home,0
+75,Male,White,3,5,Home,0
+87,Male,White,5,2,Home,0
+66,Female,White,5,3,Home,0
+89,Female,White,3,8,Home,0
+44,Male,White,4,2,Home,0
+39,Male,Other,3,2,Home,0
+64,Male,White,2,2,Rehabilitation,1
+70,Female,White,3,4,Care Home,0
+64,Male,White,5,2,Home,1
+33,Female,Black,2,2,Home,0
+63,Male,White,2,4,Rehabilitation,1
+45,Male,White,2,3,Home,0
+75,Female,White,2,2,Care Home,1
+70,Female,White,1,2,Care Home,0
+50,Male,White,2,0,Home,0
+57,Female,White,2,3,Home,0
+49,Female,Black,3,1,Deceased,0
+64,Female,Black,2,2,Deceased,1
+79,Female,White,3,1,Home,1
+50,Female,White,5,2,Home,0
+72,Female,White,5,5,Home,0
+57,Female,Asian,3,4,Home,1
+53,Male,White,1,2,Care Home,0
+63,Male,Other,5,0,Rehabilitation,0
+49,Male,White,4,2,Home,0
+56,Male,White,2,1,Home,0
+47,Male,Black,1,1,Rehabilitation,0
+94,Female,White,1,1,Home,0
+65,Male,White,1,4,Home,0
+54,Male,White,1,3,Home,0
+68,Female,White,5,5,Home,0
+63,Male,White,3,2,Rehabilitation,1
+61,Male,White,3,3,Care Home,0
+74,Male,White,4,2,Home,0
+76,Male,Other,4,1,Home,0
+57,Male,Other,5,4,Home,0
+56,Female,White,5,1,Home,1
+60,Female,White,2,1,Rehabilitation,1
+30,Male,White,5,1,Home,1
+42,Male,White,4,3,Care Home,0
+85,Male,White,1,5,Home,0
+89,Female,Mixed,3,2,Home,1
+61,Male,Mixed,3,3,Home,0
+73,Male,White,5,2,Home,0
+69,Female,White,2,3,Home,0
+95,Male,White,3,1,Home,1
+81,Male,White,1,3,Home,0
+63,Male,White,2,1,Deceased,0
+50,Female,White,1,0,Home,0
+40,Female,Asian,3,3,Home,0
+68,Female,White,4,4,Home,0
+53,Female,Black,1,6,Home,0
+43,Female,White,3,1,Home,0
+55,Female,White,1,3,Home,0
+48,Female,Asian,1,1,Home,1
+90,Male,Asian,3,3,Home,0
+78,Female,White,1,3,Home,1
+64,Male,White,3,3,Home,0
+87,Male,Mixed,1,5,Care Home,0
+66,Female,White,1,1,Care Home,1
+52,Male,White,3,3,Rehabilitation,1
+87,Female,White,3,5,Home,0
+73,Male,Asian,1,1,Deceased,0
+49,Female,Asian,3,0,Care Home,0
+62,Female,Black,4,1,Rehabilitation,0
+51,Female,White,4,4,Home,0
+44,Male,White,1,1,Home,0
+78,Male,White,3,3,Rehabilitation,1
+93,Female,Asian,3,3,Care Home,0
+44,Male,White,1,4,Home,0
+73,Female,White,5,5,Home,0
+55,Female,White,5,4,Home,0
+57,Male,White,5,1,Home,0
+56,Male,Black,4,6,Rehabilitation,1
+52,Male,White,4,3,Home,1
+65,Female,Other,3,4,Home,1
+52,Male,White,3,3,Rehabilitation,0
+69,Male,Black,4,2,Home,1
+64,Male,Asian,3,1,Home,0
+61,Female,White,2,2,Care Home,0
+51,Male,Other,2,0,Home,0
+56,Male,White,5,2,Home,0
+76,Female,Black,1,1,Rehabilitation,0
+72,Female,Black,3,2,Care Home,1
+50,Female,Asian,5,2,Care Home,0
+66,Male,White,4,4,Home,1
+76,Male,White,5,3,Home,1
+39,Female,White,3,2,Care Home,1
+73,Male,White,1,3,Home,1
+55,Female,Asian,4,2,Home,1
+73,Female,Asian,2,3,Home,0
+53,Male,Black,2,1,Home,0
+37,Female,White,2,2,Home,1
+40,Female,Asian,2,1,Home,1
+65,Male,Mixed,2,2,Home,1
+68,Female,Asian,2,3,Deceased,1
+51,Male,White,3,4,Home,0
+74,Male,White,4,4,Home,1
+40,Male,White,2,4,Home,1
+64,Female,White,1,2,Home,0
+46,Female,White,3,2,Care Home,0
+55,Female,Other,3,3,Rehabilitation,1
+65,Male,White,5,2,Care Home,0
+52,Female,White,1,1,Care Home,1
+59,Male,White,5,3,Care Home,0
+80,Female,Asian,3,0,Home,0
+56,Male,Mixed,3,2,Home,0
+77,Male,Asian,1,0,Home,1
+48,Male,White,2,3,Home,0
+72,Female,White,1,2,Home,0
+86,Male,Black,2,3,Home,1
+27,Female,White,3,4,Home,0
+53,Male,White,4,5,Home,0
+73,Male,White,4,1,Home,1
+61,Male,White,3,1,Home,0
+70,Female,White,3,5,Care Home,1
+55,Female,White,2,2,Home,0
+66,Male,White,5,1,Deceased,1
+62,Male,White,3,1,Care Home,0
+82,Male,White,2,4,Home,1
+68,Female,White,1,2,Home,0
+70,Male,White,3,2,Home,0
+58,Female,White,3,4,Rehabilitation,1
+57,Female,White,1,6,Home,1
+58,Male,White,4,2,Home,1
+70,Female,White,4,4,Home,0
+58,Female,White,3,2,Home,0
+69,Female,White,1,3,Care Home,0
+95,Male,Black,2,1,Home,0
+78,Male,White,5,1,Home,0
+60,Male,White,5,0,Home,1
+83,Male,White,2,3,Rehabilitation,0
+58,Male,Other,1,4,Rehabilitation,0
+34,Male,White,2,0,Home,0
+49,Female,White,2,0,Home,1
+36,Male,White,3,1,Home,0
+59,Male,Asian,5,3,Home,0
+65,Male,Asian,2,1,Care Home,1
+90,Female,White,1,2,Home,0
+69,Female,White,5,5,Home,0
+61,Female,White,1,2,Home,0
+77,Male,Black,5,2,Home,0
+31,Female,White,3,4,Home,0
+68,Male,White,5,2,Home,0
+76,Male,Black,1,4,Home,0
+42,Male,Black,1,3,Care Home,0
+82,Male,Other,2,2,Home,0
+70,Male,Black,2,7,Home,0
+58,Female,Other,2,1,Home,0
+74,Female,White,5,4,Home,0
+95,Male,Asian,4,1,Home,0
+67,Female,Asian,3,3,Home,1
+68,Male,White,1,0,Home,0
+58,Male,White,4,2,Home,1
+52,Female,Other,4,1,Home,1
+77,Female,White,2,8,Home,1
+52,Male,Black,5,2,Care Home,1
+66,Male,White,1,1,Home,0
+57,Female,White,2,5,Home,0
+72,Female,White,1,3,Home,1
+70,Female,White,4,1,Home,0
+80,Male,White,3,0,Rehabilitation,0
+57,Male,White,2,3,Home,0
+60,Male,White,1,4,Home,1
+50,Male,White,1,2,Home,0
+58,Female,White,1,2,Home,1
+70,Male,White,2,4,Home,0
+76,Male,Asian,1,3,Home,0
+51,Female,White,2,5,Home,0
+78,Female,White,5,6,Home,0
+85,Male,White,3,1,Deceased,1
+71,Female,White,4,3,Home,0
+93,Female,White,1,1,Home,0
+53,Female,White,2,2,Home,0
+46,Male,Black,2,2,Rehabilitation,0
+38,Female,Black,1,3,Home,0
+87,Female,Asian,1,2,Rehabilitation,1
+74,Male,White,5,1,Home,1
+64,Male,White,5,2,Home,0
+69,Female,White,1,1,Care Home,0
+48,Male,White,2,3,Care Home,1
+95,Female,Other,5,1,Home,0
+66,Male,White,1,1,Home,0
+66,Male,White,3,6,Home,0
+75,Male,White,5,5,Home,0
+72,Female,Asian,5,1,Care Home,0
+68,Male,Asian,2,2,Home,0
+53,Female,White,1,2,Home,1
+72,Female,Mixed,1,5,Home,0
+93,Female,White,5,3,Home,0
+85,Female,Black,5,3,Home,0
+88,Female,Mixed,3,4,Home,0
+57,Male,Asian,4,1,Home,1
+50,Female,White,4,4,Care Home,1
+63,Female,White,3,4,Home,0
+65,Male,White,4,2,Home,0
+81,Male,White,3,2,Home,0
+39,Female,Black,3,1,Home,1
+87,Male,White,1,2,Home,1
+62,Female,White,4,2,Deceased,0
+58,Male,Asian,2,5,Rehabilitation,1
+49,Male,White,2,2,Care Home,0
+40,Female,White,4,3,Home,0
+77,Male,White,3,5,Rehabilitation,0
+66,Male,White,5,4,Home,0
+45,Female,White,1,2,Home,0
+45,Male,Black,3,5,Home,0
+59,Female,White,1,1,Home,0
+90,Female,Black,5,1,Home,1
+61,Female,White,1,0,Home,1
+42,Male,White,3,4,Home,1
+61,Male,White,4,3,Home,0
+60,Female,White,2,4,Home,0
+24,Female,White,5,3,Deceased,0
+64,Female,White,5,0,Rehabilitation,0
+61,Female,White,2,5,Home,0
+75,Male,White,1,0,Home,0
+92,Male,White,2,6,Home,0
+81,Male,White,2,3,Home,1
+60,Male,Asian,5,4,Deceased,0
+48,Male,Mixed,5,1,Home,0
+95,Female,White,1,1,Care Home,0
+65,Male,White,2,2,Rehabilitation,1
+65,Male,Mixed,3,7,Home,0
+64,Male,White,1,3,Care Home,0
+67,Female,Other,2,4,Home,0
+62,Female,White,2,3,Home,0
+56,Female,Black,3,4,Care Home,0
+56,Female,White,3,1,Home,1
+64,Male,Mixed,4,2,Home,0
+56,Female,White,1,3,Home,0
+54,Male,White,4,0,Rehabilitation,0
+66,Male,White,3,3,Home,1
+61,Female,White,5,6,Care Home,0
+87,Female,Asian,2,3,Home,1
+25,Male,White,5,1,Home,1
+81,Male,Black,5,1,Home,0
+83,Female,White,2,4,Home,1
+33,Male,Black,2,2,Home,0
+59,Male,White,5,1,Care Home,0
+59,Male,Other,4,0,Home,0
+43,Male,Mixed,5,1,Rehabilitation,0
+53,Female,White,4,1,Home,0
+48,Male,Black,3,2,Home,0
+91,Male,Asian,1,4,Home,1
+79,Female,White,2,1,Home,0
+84,Female,White,5,3,Home,1
+75,Male,White,2,3,Home,0
+48,Male,Asian,1,4,Rehabilitation,1
+57,Male,White,4,3,Home,0
+72,Female,White,4,2,Home,0
+46,Female,White,2,2,Care Home,1
+75,Female,White,2,4,Care Home,1
+61,Female,Black,2,2,Care Home,0
+59,Female,Other,1,4,Care Home,1
+75,Female,White,4,1,Home,0
+71,Female,White,2,3,Care Home,0
+59,Male,White,5,2,Rehabilitation,1
+82,Female,White,4,3,Deceased,0
+48,Male,White,3,3,Home,0
+74,Male,White,2,6,Care Home,0
+73,Female,White,3,1,Home,0
+60,Male,White,2,2,Home,0
+69,Female,Asian,2,4,Home,0
+46,Female,White,4,3,Care Home,0
+78,Male,Black,2,3,Home,0
+62,Female,White,4,2,Deceased,0
+57,Male,White,1,5,Home,1
+80,Male,Black,1,1,Home,1
+54,Female,White,5,3,Home,1
+43,Female,White,3,1,Home,0
+41,Female,White,3,1,Home,0
+74,Male,White,3,3,Home,1
+45,Female,Asian,1,3,Home,0
+91,Male,White,4,5,Home,1
+33,Female,White,1,3,Home,0
+90,Male,White,3,1,Care Home,1
+68,Female,White,3,4,Home,0
+63,Male,Other,5,1,Home,0
+56,Male,Asian,3,6,Home,1
+70,Female,White,1,0,Care Home,1
+64,Female,White,3,1,Home,0
+81,Female,White,1,6,Home,0
+66,Female,White,1,2,Home,1
+67,Female,Asian,1,2,Deceased,0
+59,Female,White,3,2,Home,0
+64,Male,White,1,3,Home,0
+69,Female,Asian,2,1,Home,0
+39,Male,White,5,1,Deceased,0
+44,Female,White,4,1,Home,1
+76,Female,White,1,0,Home,0
+67,Female,Mixed,1,1,Home,0
+62,Female,Asian,3,2,Deceased,0
+65,Female,White,5,1,Rehabilitation,0
+70,Female,White,1,3,Home,0
+56,Male,Mixed,4,0,Home,0
+53,Female,White,3,7,Home,0
+67,Male,White,3,2,Home,0
+50,Female,Other,5,2,Home,0
+71,Male,Black,4,2,Care Home,0
+39,Male,White,5,2,Home,0
+80,Male,White,2,2,Home,0
+72,Male,White,3,3,Care Home,1
+68,Female,White,3,2,Home,0
+79,Male,Mixed,2,5,Rehabilitation,0
+89,Female,White,3,3,Home,0
+80,Male,Black,1,2,Care Home,0
+37,Female,White,1,2,Care Home,0
+45,Female,White,2,1,Rehabilitation,0
+55,Female,White,4,3,Home,0
+65,Female,Asian,5,2,Home,0
+72,Male,White,2,2,Care Home,1
+54,Female,White,3,5,Home,1
+67,Male,White,1,0,Rehabilitation,0
+53,Female,White,5,2,Home,0
+55,Female,White,3,3,Home,0
+43,Male,White,4,2,Home,0
+51,Female,White,4,3,Home,0
+44,Female,White,2,3,Deceased,0
+50,Male,White,3,3,Care Home,0
+80,Male,White,5,1,Home,1
+50,Male,White,1,0,Rehabilitation,1
+95,Female,White,3,1,Home,0
+72,Female,White,5,0,Care Home,1
+67,Male,Asian,2,3,Care Home,1
+52,Male,White,5,3,Home,0
+75,Female,White,5,2,Home,0
+56,Female,White,4,1,Home,1
+66,Male,Black,1,2,Deceased,0
+95,Male,White,2,2,Home,0
+63,Female,White,1,0,Care Home,0
+82,Male,White,4,1,Care Home,1
+54,Male,White,4,4,Home,1
+64,Female,Other,3,2,Care Home,0
+91,Female,Asian,2,3,Home,0
+55,Male,White,1,1,Home,0
+92,Male,Asian,4,1,Rehabilitation,0
+75,Male,Asian,4,1,Home,0
+56,Male,White,5,3,Home,1
+74,Female,White,4,0,Home,1
+79,Male,White,4,2,Home,1
+74,Female,White,4,1,Care Home,0
+41,Female,White,3,2,Deceased,1
+54,Male,White,2,2,Home,0
+61,Male,Asian,5,4,Home,0
+63,Female,Other,3,3,Rehabilitation,0
+74,Female,White,2,4,Home,1
+67,Female,White,1,0,Home,0
+44,Male,Asian,2,3,Rehabilitation,1
+70,Female,Asian,3,2,Rehabilitation,0
+74,Female,Asian,2,3,Home,0
+73,Female,White,1,3,Care Home,0
+81,Male,White,3,2,Home,0
+77,Female,White,1,0,Home,0
+71,Female,Other,4,4,Home,0
+63,Male,White,2,2,Home,0
+40,Female,Black,3,6,Home,0
+71,Male,White,1,1,Care Home,1
+68,Male,Other,2,2,Care Home,0
+69,Male,White,2,1,Home,0
+45,Female,White,4,2,Care Home,0
+48,Male,White,4,4,Home,0
+80,Male,White,1,5,Home,1
+64,Female,White,3,1,Home,1
+75,Male,White,1,6,Home,0
+65,Female,White,5,6,Home,1
+65,Female,White,5,3,Care Home,1
+79,Female,Asian,3,2,Home,1
+57,Female,White,3,5,Home,0
+66,Female,White,4,2,Rehabilitation,1
+58,Male,Black,4,2,Home,0
+58,Female,White,3,4,Home,0
+60,Male,Mixed,5,2,Home,0
+68,Female,White,3,1,Home,0
+57,Male,White,3,4,Rehabilitation,1
+83,Female,White,4,3,Home,1
+51,Female,White,3,6,Home,1
+62,Female,White,4,2,Home,0
+58,Male,White,1,1,Home,1
+86,Male,White,2,1,Home,0
+67,Female,White,1,1,Home,0
+80,Female,White,3,5,Home,0
+42,Male,White,2,3,Home,0
+69,Female,White,5,4,Home,0
+78,Female,White,3,6,Care Home,1
+66,Male,White,4,1,Deceased,0
+80,Female,White,2,2,Home,1
+57,Female,White,4,3,Home,0
+86,Male,White,3,3,Home,0
+95,Male,White,3,2,Home,0
+59,Female,White,2,1,Home,1
+58,Female,White,3,3,Home,0
+86,Male,White,3,2,Rehabilitation,0
+88,Female,White,3,2,Home,0
+57,Female,White,5,2,Deceased,0
+58,Female,White,5,2,Home,0
+60,Male,White,5,2,Home,0
+44,Female,Black,3,3,Care Home,1
+51,Male,Asian,5,6,Home,0
+49,Male,White,4,2,Care Home,0
+53,Male,White,2,4,Home,1
+64,Female,White,2,2,Deceased,1
+68,Female,Black,1,2,Deceased,0
+88,Male,White,1,1,Home,1
+50,Female,Other,1,2,Care Home,1
+79,Male,White,1,4,Home,0
+61,Male,White,4,2,Home,1
+64,Female,White,2,3,Home,1
+75,Female,White,2,2,Home,1
+48,Male,White,4,4,Home,0
+70,Female,White,4,4,Home,1
+67,Male,White,5,2,Rehabilitation,0
+72,Male,Black,3,0,Home,1
+69,Female,White,2,2,Deceased,0
+95,Female,White,2,4,Home,0
+55,Male,White,1,4,Home,1
+57,Female,White,1,0,Rehabilitation,0
+55,Female,White,2,0,Care Home,0
+56,Male,White,5,1,Rehabilitation,0
+55,Female,White,1,3,Home,1
+82,Female,White,1,4,Home,0
+86,Female,White,1,0,Home,0
+56,Female,White,4,3,Home,0
+52,Female,Mixed,2,9,Home,0
+72,Male,White,2,1,Home,0
+56,Female,White,1,0,Home,0
+74,Female,White,2,1,Rehabilitation,0
+68,Male,Asian,1,3,Rehabilitation,1
+42,Female,White,3,6,Home,1
+88,Female,White,1,2,Home,0
+91,Female,White,4,4,Home,0
+55,Male,White,3,5,Home,0
+59,Male,Asian,4,3,Rehabilitation,1
+69,Female,White,2,4,Home,0
+70,Male,Asian,2,2,Rehabilitation,0
+74,Female,White,1,1,Home,1
+95,Male,White,3,1,Care Home,0
+62,Male,Black,3,2,Home,1
+53,Male,White,2,1,Care Home,0
+44,Male,White,4,2,Home,0
+54,Female,White,4,1,Home,0
+64,Male,White,4,3,Home,0
+91,Male,White,1,2,Home,0
+57,Male,Other,3,2,Home,0
+68,Female,Other,1,4,Care Home,0
+64,Male,White,3,3,Home,1
+82,Female,White,2,5,Home,1
+95,Female,White,1,5,Care Home,0
+57,Female,White,5,2,Home,1
+57,Female,White,3,3,Home,0
+80,Female,White,2,4,Deceased,0
+75,Female,White,1,0,Home,0
+92,Male,White,3,1,Home,0
+73,Male,White,5,4,Rehabilitation,0
+59,Male,White,3,5,Home,0
+73,Female,Asian,5,1,Rehabilitation,0
+81,Female,White,1,4,Home,0
+77,Female,White,3,2,Home,1
+72,Male,White,4,7,Home,0
+81,Female,White,3,3,Deceased,0
+82,Male,White,1,2,Care Home,0
+85,Male,White,3,3,Home,0
+74,Male,Other,3,2,Home,0
+62,Male,White,4,2,Home,0
+67,Female,White,4,1,Home,0
+83,Male,White,4,3,Care Home,0
+52,Male,Mixed,3,2,Deceased,0
+70,Female,Asian,1,0,Rehabilitation,0
+59,Female,Black,2,3,Home,1
+65,Female,White,4,0,Home,0
+84,Male,Other,5,1,Home,0
+67,Female,White,1,4,Home,1
+65,Female,White,3,3,Home,0
+44,Male,Black,2,3,Care Home,0
+76,Female,Black,1,2,Home,1
+74,Male,White,3,4,Home,1
+95,Male,White,3,0,Home,1
+60,Female,White,1,1,Deceased,0
+68,Female,White,4,3,Rehabilitation,0
+68,Male,White,4,1,Home,0
+88,Female,Other,5,6,Care Home,0
+63,Female,White,1,4,Home,0
+69,Female,Asian,3,5,Home,1
+74,Male,Asian,2,4,Home,0
+67,Female,White,2,3,Home,0
+58,Male,Asian,3,2,Home,0
+67,Female,White,4,2,Home,0
+81,Male,White,1,3,Home,0
+49,Male,White,5,0,Home,1
+66,Female,White,4,3,Home,1
+54,Male,Asian,4,3,Care Home,0
+82,Male,Other,4,2,Home,0
+42,Male,White,2,3,Home,1
+56,Female,Asian,4,1,Home,1
+70,Male,White,2,4,Home,1
+88,Female,Asian,5,1,Home,0
+64,Male,White,1,1,Home,0
+56,Male,White,2,2,Home,0
+93,Male,White,3,2,Care Home,0
+43,Female,White,2,1,Home,0
+32,Male,White,2,5,Care Home,1
+71,Male,Black,2,4,Rehabilitation,1
+57,Female,White,5,3,Home,0
+49,Female,Mixed,3,4,Home,0
+75,Male,White,2,3,Home,0
+68,Male,White,1,1,Home,0
+56,Female,White,2,4,Home,1
+45,Male,White,3,2,Home,0
+78,Male,White,4,2,Home,1
+74,Female,White,1,2,Home,0
+63,Female,White,1,7,Home,1
+92,Female,White,2,3,Home,0
+48,Male,Other,2,2,Home,0
+42,Male,White,2,0,Care Home,1
+54,Female,White,4,3,Home,1
+64,Male,White,2,2,Home,0
+68,Female,Asian,3,2,Home,0
+61,Female,Asian,3,4,Home,1
+70,Male,White,1,0,Home,1
+46,Female,White,4,1,Home,0
+86,Female,White,3,2,Rehabilitation,0
+63,Female,White,2,4,Home,0
+81,Male,White,4,2,Home,0
+70,Male,Other,1,1,Home,0
+71,Female,White,5,5,Home,0
+73,Male,White,3,3,Home,1
+71,Female,Black,3,1,Home,0
+74,Male,White,5,2,Home,1
+84,Female,White,4,3,Home,1
+67,Male,White,3,2,Home,1
+75,Female,White,4,2,Home,0
+63,Male,Mixed,2,1,Rehabilitation,0
+86,Male,White,3,0,Care Home,0
+54,Male,White,1,5,Home,1
+92,Female,White,1,2,Home,0
+64,Male,Black,4,2,Home,0
+43,Female,White,1,2,Deceased,0
+66,Female,White,1,1,Home,0
+54,Male,Mixed,4,6,Home,1
+77,Female,White,1,8,Home,0
+55,Male,White,2,2,Home,1
+58,Female,White,3,3,Home,0
+36,Female,White,3,3,Home,1
+58,Male,White,4,2,Home,0
+28,Male,White,3,3,Deceased,1
+41,Male,White,3,1,Deceased,0
+76,Female,White,4,2,Rehabilitation,0
+76,Male,White,2,4,Home,0
+71,Female,White,3,4,Care Home,0
+50,Male,White,5,3,Care Home,0
+64,Female,Other,2,2,Care Home,0
+64,Male,White,2,0,Home,0
+47,Female,Mixed,1,4,Home,0
+87,Female,White,3,1,Home,0
+78,Female,White,1,2,Care Home,0
+61,Male,White,3,1,Home,0
+65,Male,Asian,4,3,Home,0
+68,Male,Asian,3,3,Home,0
+34,Female,White,2,3,Home,0
+61,Male,Black,4,1,Care Home,0
+54,Female,White,2,2,Home,0
+49,Male,White,4,1,Home,0
+60,Female,Other,3,2,Deceased,0
+91,Female,Black,1,2,Home,1
+74,Female,Mixed,5,1,Care Home,1
+56,Male,White,1,4,Home,0
+73,Male,White,5,1,Home,0
+85,Male,White,1,3,Home,0
+78,Male,White,2,0,Home,0
+65,Female,Asian,1,2,Home,0
+55,Female,White,1,4,Deceased,0
+75,Female,White,4,2,Home,0
+70,Male,White,3,1,Home,0
+78,Female,White,4,0,Care Home,0
+74,Female,White,2,5,Home,1
+80,Female,White,2,2,Home,0
+56,Male,Asian,3,1,Home,0
+84,Male,White,2,3,Home,0
+67,Male,Asian,3,3,Home,0
+95,Female,White,3,3,Care Home,0
+54,Female,White,1,2,Home,0
+91,Male,White,4,1,Home,0
+67,Male,Black,4,4,Home,0
+55,Female,White,3,3,Home,0
+57,Female,White,1,2,Rehabilitation,1
+60,Male,White,2,4,Home,1
+71,Female,White,2,1,Care Home,0
+72,Female,Asian,2,4,Home,1
+56,Female,Asian,1,1,Home,0
+64,Male,White,4,2,Care Home,0
+95,Female,White,3,0,Home,0
+90,Female,Asian,3,1,Home,0
+71,Male,White,1,2,Rehabilitation,0
+65,Female,White,5,3,Home,0
+66,Female,White,1,3,Home,0
+74,Female,White,4,6,Home,0
+49,Male,White,5,2,Rehabilitation,1
+61,Female,Asian,4,5,Home,0
+39,Female,White,5,0,Care Home,0
+70,Male,White,3,3,Home,1
+74,Female,Asian,1,1,Care Home,0
+57,Female,White,1,1,Home,1
+88,Female,White,2,3,Home,1
+46,Male,White,1,0,Home,1
+43,Female,White,3,5,Home,0
+68,Male,Black,2,2,Home,0
+80,Male,Asian,4,2,Home,0
+90,Female,White,2,2,Care Home,0
+58,Male,White,2,6,Home,0
+81,Female,White,5,5,Deceased,0
+64,Male,Black,1,0,Home,1
+62,Male,White,4,0,Home,0
+78,Male,White,4,1,Care Home,0
+74,Female,White,1,3,Care Home,0
+41,Female,White,3,2,Home,0
+87,Female,White,2,2,Home,0
+85,Male,White,4,2,Home,0
+55,Male,Asian,3,0,Home,0
+70,Female,White,2,3,Rehabilitation,0
+72,Male,Mixed,4,4,Home,0
+68,Male,White,1,1,Home,0
+56,Female,White,4,3,Home,1
+54,Male,Mixed,5,3,Home,0
+64,Female,White,5,8,Home,1
+82,Female,Black,4,4,Care Home,1
+73,Male,Asian,2,2,Home,0
+59,Male,White,5,3,Home,0
+76,Male,White,2,2,Rehabilitation,1
+22,Female,White,3,2,Home,0
+82,Female,White,1,2,Rehabilitation,1
+38,Male,White,5,3,Home,0
+59,Male,White,4,0,Home,1
+48,Female,White,4,1,Home,1
+45,Female,White,1,2,Care Home,1
+82,Male,White,4,7,Deceased,0
+57,Male,Other,4,1,Home,0
+70,Male,White,3,4,Home,1
+64,Female,White,2,1,Home,1
+72,Female,White,2,3,Home,0
+66,Male,Other,1,3,Rehabilitation,0
+45,Female,Other,2,1,Home,0
+79,Male,White,1,2,Home,0
+57,Male,Black,2,7,Home,0
+41,Male,White,1,4,Home,0
+58,Female,Other,1,2,Rehabilitation,1
+87,Female,White,1,3,Home,0
+77,Female,White,5,2,Home,0
+59,Male,White,3,6,Home,1
+59,Male,White,2,4,Home,0
+60,Male,Asian,3,4,Home,0
+95,Female,White,3,3,Care Home,1
+70,Male,Other,5,2,Home,0
+71,Female,White,1,4,Home,0
+80,Male,White,2,2,Rehabilitation,1
+68,Male,White,5,0,Home,1
+61,Male,White,2,3,Home,1
+62,Male,Asian,1,1,Home,0
+63,Male,White,1,2,Home,0
+64,Male,White,1,1,Home,0
+75,Female,White,5,5,Home,0
+65,Female,White,2,6,Home,0
+75,Male,Other,5,2,Home,0
+63,Male,White,5,4,Home,0
+66,Male,Black,3,1,Home,0
+35,Male,White,1,3,Home,0
+78,Male,White,1,1,Deceased,1
+70,Female,Mixed,2,2,Care Home,0
+79,Male,White,2,3,Home,0
+21,Male,White,3,5,Care Home,1
+95,Male,White,2,3,Home,0
+62,Male,White,5,2,Rehabilitation,0
+81,Female,Asian,3,2,Home,0
+49,Male,White,3,3,Home,0
+74,Male,Black,5,4,Care Home,0
+49,Female,White,1,2,Care Home,1
+55,Male,White,1,2,Home,0
+93,Female,White,1,0,Care Home,0
+62,Female,White,1,3,Home,0
+68,Male,Other,3,1,Home,0
+78,Female,White,2,3,Home,0
+72,Male,White,2,2,Home,1
+67,Female,Black,5,3,Rehabilitation,0
+70,Male,Asian,1,3,Deceased,0
+95,Male,White,3,5,Home,1
+64,Female,Asian,1,3,Home,0
+68,Female,White,2,1,Rehabilitation,0
+80,Female,White,3,1,Home,0
+81,Female,White,5,0,Home,1
+82,Male,White,2,2,Home,0
+74,Male,White,1,2,Home,1
+47,Male,White,2,0,Care Home,0
+89,Male,White,1,0,Home,0
+47,Male,Asian,1,1,Home,1
+69,Female,Other,3,3,Rehabilitation,0
+53,Male,Asian,1,5,Home,0
+64,Male,White,2,3,Home,0
+69,Male,White,3,2,Home,0
+69,Female,White,2,1,Home,0
+71,Female,White,1,5,Rehabilitation,0
+89,Female,White,5,1,Home,0
+71,Male,White,2,1,Care Home,1
+61,Female,White,4,4,Home,0
+79,Male,White,2,5,Home,0
+82,Female,White,2,3,Home,0
+46,Female,White,2,5,Care Home,1
+73,Male,White,2,3,Home,0
+75,Female,White,1,4,Home,0
+60,Female,White,2,1,Home,1
+85,Male,White,5,3,Home,0
+62,Female,White,3,5,Home,1
+66,Male,White,1,0,Home,0
+62,Male,Asian,3,3,Care Home,0
+65,Male,Black,5,3,Deceased,0
+48,Male,White,4,3,Home,1
+43,Female,White,1,2,Home,0
+88,Male,White,5,5,Home,0
+52,Female,White,2,2,Home,0
+50,Male,White,2,0,Home,0
+32,Female,White,3,3,Home,0
+55,Female,White,5,3,Rehabilitation,1
+45,Female,Asian,5,1,Home,1
+89,Male,Asian,5,3,Home,0
+80,Male,White,1,3,Deceased,0
+54,Male,White,5,2,Deceased,0
+95,Female,White,1,5,Home,1
+79,Female,White,2,0,Home,0
+60,Male,Other,3,4,Home,0
+27,Male,White,2,1,Home,0
+95,Female,White,3,3,Care Home,1
+44,Male,Asian,2,3,Rehabilitation,0
+40,Female,Asian,5,3,Rehabilitation,0
+80,Female,Asian,1,1,Home,1
+95,Female,White,2,2,Home,0
+85,Male,White,5,1,Home,0
+73,Male,White,1,1,Home,0
+73,Female,White,3,3,Home,0
+77,Female,Other,3,3,Home,0
+76,Male,White,3,2,Home,0
+69,Male,Mixed,3,3,Home,1
+66,Female,White,1,4,Home,1
+64,Female,Black,5,3,Home,1
+53,Female,White,1,0,Home,1
+60,Female,Other,2,3,Home,0
+39,Male,White,1,2,Home,0
+63,Male,White,3,5,Care Home,0
+50,Female,Asian,3,1,Home,0
+48,Female,White,5,1,Rehabilitation,0
+67,Male,White,4,2,Care Home,1
+85,Male,Other,3,2,Home,0
+78,Female,White,5,1,Home,0
+41,Male,White,2,5,Home,1
+50,Male,White,3,4,Home,1
+79,Female,Asian,3,1,Home,0
+50,Female,White,2,4,Care Home,0
+61,Female,White,4,3,Home,0
+73,Male,White,1,3,Deceased,1
+50,Female,White,3,1,Rehabilitation,0
+66,Female,White,4,2,Home,1
+44,Female,White,5,2,Home,1
+55,Female,White,5,4,Home,1
+69,Male,White,3,1,Home,1
+41,Male,White,3,1,Home,0
+71,Male,White,2,0,Care Home,1
+64,Male,White,2,2,Home,1
+73,Female,White,5,2,Home,0
+68,Female,White,5,2,Care Home,0
+85,Female,White,5,1,Home,0
+66,Female,White,1,6,Home,1
+58,Male,White,5,2,Home,1
+66,Male,White,5,0,Home,1
+73,Male,White,2,1,Care Home,0
+65,Male,White,3,4,Care Home,0
+65,Male,White,4,4,Home,0
+54,Female,Mixed,3,1,Home,0
+55,Female,White,5,2,Home,0
+43,Male,White,2,1,Rehabilitation,0
+91,Male,White,4,4,Home,0
+46,Female,White,4,1,Home,0
+54,Male,White,2,4,Home,0
+54,Female,White,5,3,Care Home,0
+78,Female,Black,3,3,Home,0
+60,Female,White,2,1,Home,1
+83,Male,White,1,2,Care Home,0
+54,Female,White,2,3,Home,1
+69,Male,White,4,4,Home,0
+52,Female,White,5,5,Home,0
+95,Male,White,2,1,Deceased,1
+47,Male,White,2,2,Home,0
+69,Female,White,1,3,Home,1
+74,Female,Black,3,3,Home,0
+71,Female,White,5,4,Rehabilitation,0
+62,Female,Asian,3,0,Home,1
+63,Female,White,3,3,Home,1
+65,Male,White,3,1,Home,0
+62,Female,Black,1,3,Home,1
+79,Female,White,4,0,Rehabilitation,0
+95,Female,Asian,3,4,Home,0
+56,Female,White,3,1,Rehabilitation,1
+44,Male,White,5,5,Care Home,0
+63,Female,White,4,4,Care Home,0
+95,Male,White,4,1,Home,1
+52,Male,Mixed,5,2,Home,1
+89,Female,Asian,5,1,Home,0
+90,Male,White,3,2,Deceased,1
+56,Female,White,1,3,Care Home,1
+73,Male,White,2,1,Home,0
+89,Male,White,4,2,Care Home,1
+59,Female,White,1,1,Care Home,0
+61,Female,White,1,2,Care Home,0
+56,Female,White,1,3,Home,1
+49,Female,White,4,2,Care Home,1
+55,Female,Asian,3,2,Care Home,0
+46,Male,Black,2,1,Home,0
+65,Male,Asian,1,3,Deceased,0
+53,Male,Asian,4,4,Home,0
+68,Female,White,2,3,Home,1
+41,Female,White,2,3,Rehabilitation,1
+69,Male,White,3,3,Home,1
+77,Female,Asian,3,2,Care Home,0
+35,Female,Mixed,2,3,Home,0
+70,Male,White,3,4,Home,1
+83,Male,Black,2,4,Home,0
+46,Female,White,4,1,Home,0
+90,Female,White,1,1,Rehabilitation,1
+71,Female,White,1,2,Home,1
+54,Male,White,4,3,Home,0
+64,Female,White,4,3,Home,0
+73,Male,White,1,2,Rehabilitation,0
+66,Male,White,1,5,Home,0
+73,Female,White,4,2,Rehabilitation,0
+51,Male,White,4,5,Home,1
+67,Female,White,2,3,Home,1
+43,Male,White,3,3,Care Home,0
+63,Female,White,1,1,Home,0
+51,Female,White,3,2,Home,1
+53,Male,Asian,1,2,Rehabilitation,1
+83,Female,White,2,3,Home,1
+81,Male,White,1,1,Rehabilitation,1
+74,Female,Black,2,3,Rehabilitation,0
+48,Male,Black,2,3,Home,1
+60,Male,Black,2,3,Home,0
+83,Male,White,1,2,Home,1
+67,Male,White,2,3,Care Home,1
+95,Female,White,4,4,Deceased,0
+70,Male,White,2,1,Home,0
+67,Male,Black,4,2,Home,0
+60,Male,White,2,1,Home,0
+67,Male,White,2,4,Home,1
+62,Female,White,3,5,Home,0
+75,Female,White,5,5,Rehabilitation,0
+79,Male,White,1,3,Care Home,1
+53,Female,White,1,1,Deceased,0
+45,Female,Black,3,4,Home,1
+37,Male,Mixed,5,3,Deceased,0
+72,Female,White,5,1,Rehabilitation,0
+48,Female,White,2,2,Home,1
+32,Female,White,2,2,Home,0
+70,Female,White,3,3,Rehabilitation,0
+95,Male,Black,3,1,Deceased,0
+64,Female,White,3,7,Home,1
+77,Female,White,5,2,Home,0
+66,Female,White,4,1,Home,0
+63,Female,White,2,4,Deceased,1
+78,Male,White,2,1,Deceased,1
+60,Female,White,3,3,Home,1
+69,Female,White,2,2,Home,0
+69,Male,White,2,6,Care Home,0
+54,Male,White,1,1,Rehabilitation,1
+79,Female,Asian,1,3,Deceased,0
+62,Male,White,2,2,Care Home,0
+53,Male,White,4,6,Home,1
+73,Male,White,2,1,Rehabilitation,1
+51,Male,White,3,1,Home,0
+65,Male,Asian,2,5,Care Home,0
+64,Male,Other,1,5,Home,0
+81,Male,White,5,3,Deceased,1
+72,Female,White,5,4,Deceased,1
+64,Female,White,1,1,Home,0
+77,Male,White,4,4,Home,0
+85,Male,White,2,5,Home,1
+73,Female,Black,5,2,Care Home,1
+65,Male,White,2,2,Care Home,1
+45,Male,White,1,1,Deceased,0
+49,Male,White,3,0,Home,1
+60,Female,White,4,2,Home,0
+55,Female,White,1,3,Home,0
+62,Female,White,4,2,Home,0
+65,Female,White,1,2,Home,1
+72,Female,White,5,1,Care Home,0
+63,Male,White,1,1,Home,0
+72,Female,Asian,5,4,Care Home,0
+65,Male,White,2,1,Home,0
+35,Female,White,2,2,Home,0
+50,Female,White,5,1,Home,0
+62,Female,White,5,2,Home,1
+46,Male,White,3,2,Care Home,0
+73,Male,White,1,3,Home,0
+87,Female,Asian,3,1,Home,0
+83,Female,Asian,3,2,Care Home,1
+61,Female,White,3,1,Deceased,0
+87,Male,White,3,0,Home,0
+67,Female,White,1,3,Home,1
+59,Female,White,4,6,Home,1
+55,Female,White,4,4,Home,1
+60,Female,White,1,4,Home,0
+59,Female,White,3,3,Care Home,0
+67,Female,Asian,3,0,Home,1
+67,Female,White,3,2,Home,1
+65,Female,Asian,1,0,Home,1
+71,Male,White,3,2,Care Home,0
+82,Male,White,2,4,Home,1
+79,Female,White,3,4,Home,1
+42,Female,White,4,3,Home,0
+26,Female,White,4,1,Home,0
+79,Female,White,1,0,Home,1
+44,Male,White,3,5,Home,0
+61,Female,Black,5,1,Home,0
+47,Female,White,1,0,Home,0
+37,Male,White,5,1,Home,1
+73,Male,White,4,1,Deceased,1
+76,Female,White,4,3,Home,0
+56,Male,White,2,1,Care Home,1
+26,Female,White,2,1,Home,0
+56,Male,White,5,3,Care Home,1
+70,Female,Asian,2,2,Home,0
+42,Female,White,1,4,Home,1
+67,Female,White,3,2,Rehabilitation,0
+64,Male,White,1,2,Rehabilitation,0
+73,Female,Asian,4,1,Deceased,0
+66,Male,Mixed,3,3,Rehabilitation,0
+50,Male,White,5,1,Home,1
+82,Female,White,4,1,Home,0
+62,Female,White,1,1,Home,0
+64,Female,Asian,2,4,Home,1
+51,Male,White,4,2,Rehabilitation,0
+58,Male,White,2,3,Home,1
+51,Male,Black,5,1,Care Home,1
+62,Female,White,4,2,Home,0
+90,Female,Asian,1,3,Home,0
+44,Female,White,5,4,Home,0
+40,Female,White,1,3,Home,1
+87,Male,White,1,6,Care Home,0
+61,Male,White,4,4,Deceased,0
+54,Male,White,5,3,Home,1
+80,Male,White,3,4,Care Home,0
+55,Male,White,2,3,Home,0
+92,Female,White,2,0,Deceased,1
+75,Male,White,2,3,Home,1
+57,Female,White,2,4,Home,0
+95,Male,White,1,2,Home,0
+55,Female,White,3,3,Home,0
+76,Female,White,5,6,Home,0
+69,Female,White,2,1,Home,0
+84,Male,Black,1,3,Home,1
+88,Female,Black,4,2,Home,1
+65,Female,White,4,2,Rehabilitation,0
+53,Male,Black,5,1,Rehabilitation,1
+71,Male,Asian,1,4,Care Home,0
+54,Male,Asian,1,3,Home,0
+95,Female,White,3,5,Home,0
+67,Female,White,3,2,Home,0
+59,Female,White,2,1,Home,0
+67,Male,White,3,1,Home,1
+44,Male,White,1,1,Home,0
+50,Female,White,2,4,Home,0
+83,Male,White,3,3,Home,0
+55,Female,White,2,3,Home,1
+49,Female,White,3,3,Deceased,0
+73,Male,White,2,5,Deceased,0
+82,Female,Black,2,4,Home,0
+75,Male,White,2,1,Home,0
+79,Female,White,2,0,Care Home,0
+53,Male,White,1,2,Care Home,0
+43,Female,White,3,1,Care Home,1
+87,Male,White,4,6,Home,1
+60,Male,Black,2,3,Home,0
+61,Female,White,1,2,Home,0
+84,Male,White,5,3,Care Home,0
+73,Female,Asian,2,2,Care Home,1
+71,Male,White,1,1,Home,0
+95,Female,White,2,4,Home,0
+55,Male,White,4,4,Home,0
+78,Female,White,2,1,Care Home,0
+65,Male,White,3,3,Rehabilitation,0
+69,Male,White,2,4,Home,0
+87,Male,White,1,1,Home,0
+72,Female,Asian,2,0,Home,0
+73,Male,White,4,2,Rehabilitation,0
+81,Female,Black,3,3,Care Home,1
+59,Female,White,1,3,Home,0
+52,Male,White,1,1,Home,0
+49,Female,White,3,2,Home,0
+35,Male,White,4,1,Home,0
+95,Male,White,2,3,Home,1
+48,Female,White,3,3,Home,0
+61,Female,Asian,1,1,Rehabilitation,1
+60,Female,White,2,1,Care Home,1
+69,Male,White,1,4,Home,0
+77,Male,Mixed,4,3,Home,1
+77,Male,White,2,4,Home,0
+56,Female,White,4,4,Care Home,0
+62,Female,White,4,4,Care Home,1
+69,Female,White,4,1,Home,0
+61,Male,White,2,1,Home,1
+89,Male,White,1,1,Home,0
+72,Male,White,5,3,Home,1
+76,Male,White,4,3,Home,0
+74,Male,White,4,2,Home,0
+82,Female,Black,1,2,Home,0
+67,Female,Asian,2,1,Home,1
+45,Female,White,4,7,Care Home,0
+70,Male,White,1,5,Home,0
+55,Male,Black,3,2,Care Home,0
+57,Female,White,2,2,Home,0
+73,Male,White,1,2,Home,0
+83,Female,White,1,1,Home,0
+65,Female,Asian,2,2,Home,0
+69,Male,White,1,3,Home,1
+90,Female,Other,3,2,Home,0
+68,Male,White,1,4,Home,0
+95,Female,White,2,4,Care Home,0
+73,Female,White,5,3,Home,1
+38,Male,White,2,2,Home,0
+76,Male,Asian,2,4,Care Home,0
+70,Female,Mixed,4,1,Rehabilitation,0
+84,Female,White,5,4,Home,1
+75,Male,Mixed,1,5,Home,1
+62,Female,Asian,2,1,Home,1
+46,Male,White,3,2,Home,0
+61,Male,White,2,1,Home,1
+52,Male,White,4,3,Home,0
+56,Male,White,5,5,Rehabilitation,0
+73,Male,White,5,2,Home,0
+90,Female,White,2,1,Home,0
+70,Male,White,1,3,Home,1
+47,Male,Asian,5,0,Home,1
+71,Male,Asian,2,4,Home,1
+82,Female,White,1,2,Home,0
+55,Female,White,4,4,Home,0
+62,Male,White,2,5,Care Home,1
+65,Male,White,2,2,Home,0
+53,Male,White,5,0,Home,1
+74,Male,White,1,4,Care Home,1
+63,Male,White,1,2,Deceased,0
+71,Male,White,2,5,Home,0
+51,Male,White,3,2,Care Home,0
+58,Female,White,1,4,Home,1
+75,Male,Asian,2,4,Home,1
+59,Female,Mixed,3,1,Home,0
+90,Female,White,4,2,Home,0
+59,Female,White,1,3,Home,0
+68,Male,White,4,4,Home,1
+78,Male,White,1,2,Care Home,0
+43,Male,White,3,7,Home,0
+38,Female,White,2,2,Home,1
+42,Male,Mixed,1,2,Home,1
+83,Female,White,4,2,Deceased,0
+56,Female,Asian,1,2,Care Home,0
+95,Male,White,1,3,Home,1
+56,Female,White,2,1,Care Home,0
+67,Male,White,3,1,Care Home,0
+88,Male,White,1,2,Care Home,0
+95,Male,White,1,0,Home,1
+95,Male,White,1,1,Home,1
+83,Female,White,2,5,Home,1
+80,Male,White,2,3,Deceased,0
+73,Male,White,1,3,Deceased,0
+76,Female,Black,1,5,Rehabilitation,0
+56,Female,White,2,3,Home,0
+52,Male,White,4,5,Home,0
+64,Female,White,4,3,Home,1
+62,Female,Black,5,3,Home,0
+58,Male,White,1,0,Home,0
+75,Male,White,5,4,Home,0
+79,Male,White,2,1,Deceased,0
+66,Female,White,5,2,Home,0
+87,Female,White,2,3,Care Home,0
+47,Female,Mixed,2,5,Rehabilitation,0
+62,Female,Black,2,0,Home,0
+54,Male,White,2,1,Home,0
+37,Male,White,4,1,Deceased,0
+63,Male,White,4,0,Rehabilitation,0
+63,Female,White,5,0,Home,0
+87,Female,Black,3,0,Home,0
+74,Male,White,2,2,Home,1
+49,Female,White,1,2,Home,0
+92,Male,White,5,2,Home,0
+83,Male,Asian,3,5,Rehabilitation,0
+73,Male,White,4,2,Home,0
+61,Male,White,2,5,Home,0
+50,Male,White,3,3,Care Home,0
+59,Male,White,5,5,Home,0
+81,Male,Mixed,1,5,Care Home,1
+93,Male,White,2,2,Home,1
+88,Female,White,1,4,Home,1
+57,Male,White,4,2,Home,0
+48,Female,Asian,1,2,Home,0
+67,Male,White,1,2,Deceased,0
+38,Male,White,2,4,Deceased,0
+69,Male,White,3,4,Rehabilitation,0
+62,Male,White,2,1,Home,0
+58,Female,White,1,3,Rehabilitation,0
+41,Male,Black,5,3,Home,0
+72,Female,White,5,3,Home,0
+57,Female,White,2,3,Home,1
+47,Female,Mixed,4,1,Home,1
+21,Female,White,3,2,Home,1
+64,Female,White,1,3,Home,0
+91,Male,White,2,2,Home,1
+89,Female,White,2,1,Home,1
+58,Male,White,2,5,Home,1
+55,Male,Asian,2,3,Rehabilitation,0
+72,Male,Asian,4,0,Home,1
+50,Female,White,2,2,Home,0
+69,Female,White,3,1,Care Home,1
+76,Male,White,1,1,Home,1
+83,Female,White,3,1,Home,1
+63,Male,White,2,2,Care Home,0
+61,Male,White,3,2,Home,0
+51,Male,Mixed,4,1,Care Home,0
+52,Male,Asian,4,1,Home,0
+61,Male,White,2,4,Home,0
+70,Female,White,3,3,Home,1
+78,Female,White,5,3,Home,0
+52,Male,Other,3,2,Home,0
+87,Female,White,1,1,Home,0
+60,Female,White,3,3,Home,0
+64,Female,White,1,2,Rehabilitation,1
+53,Female,Black,5,2,Care Home,1
+28,Male,Black,3,5,Care Home,1
+78,Female,White,2,1,Home,0
+76,Female,Black,1,3,Home,0
+60,Male,White,2,3,Home,1
+66,Male,White,5,2,Home,0
+72,Female,Asian,1,5,Care Home,1
+41,Male,Black,2,2,Home,1
+57,Female,White,5,3,Deceased,0
+76,Male,White,2,2,Care Home,0
+46,Female,Asian,2,3,Rehabilitation,0
+69,Male,Asian,3,0,Home,1
+44,Female,Black,2,0,Rehabilitation,0
+71,Female,White,1,2,Deceased,0
+64,Male,Mixed,1,2,Rehabilitation,0
+40,Female,Other,3,3,Home,0
+82,Male,White,5,6,Home,1
+53,Male,Asian,1,3,Home,0
+52,Male,White,1,4,Deceased,0
+68,Female,White,2,2,Care Home,0
+82,Male,White,4,1,Home,0
+49,Male,White,2,3,Rehabilitation,0
+65,Male,White,5,1,Care Home,0
+71,Female,Black,1,1,Home,1
+75,Female,White,5,4,Home,0
+67,Male,White,3,1,Home,0
+59,Male,Mixed,3,2,Rehabilitation,0
+52,Female,White,2,1,Home,0
+66,Male,White,4,0,Rehabilitation,1
+48,Female,White,1,1,Home,1
+21,Female,White,1,3,Home,0
+71,Female,White,2,4,Home,0
+78,Male,Asian,5,2,Home,0
+29,Female,White,4,2,Home,0
+49,Female,Asian,3,3,Home,1
+74,Female,White,3,3,Home,0
+95,Male,White,1,6,Home,0
+65,Male,White,4,1,Home,1
+54,Male,White,4,1,Home,1
+62,Female,White,3,2,Home,1
+85,Female,White,2,3,Home,0
+55,Male,White,5,3,Rehabilitation,0
+53,Male,White,5,3,Home,0
+57,Male,White,3,1,Home,0
+50,Female,White,2,3,Deceased,0
+66,Female,White,3,4,Rehabilitation,1
+89,Male,Asian,3,4,Home,0
+69,Male,White,2,4,Home,0
+61,Male,White,2,2,Care Home,1
+60,Female,White,2,0,Care Home,0
+41,Female,White,3,2,Home,0
+78,Female,Black,2,3,Home,0
+63,Male,White,2,2,Home,1
+62,Female,White,4,2,Home,1
+95,Male,Asian,3,3,Care Home,1
+69,Female,White,1,4,Home,1
+53,Male,White,2,4,Home,1
+58,Female,White,5,1,Care Home,0
+82,Female,White,4,1,Home,1
+66,Female,Other,2,1,Home,1
+43,Female,Black,5,3,Home,0
+78,Male,White,1,2,Home,0
+54,Male,Other,5,3,Rehabilitation,0
+93,Female,White,1,4,Home,1
+81,Male,White,1,2,Home,0
+58,Male,Asian,2,0,Home,0
+84,Male,White,2,4,Rehabilitation,1
+66,Female,White,3,1,Home,1
+77,Male,White,4,2,Home,0
+72,Male,White,4,6,Care Home,1
+52,Male,White,2,2,Care Home,0
+55,Male,White,2,2,Rehabilitation,0
+80,Female,White,1,1,Home,0
+59,Female,White,1,5,Home,0
+58,Female,Black,3,10,Home,0
+50,Male,Asian,1,1,Care Home,0
+71,Female,White,4,2,Care Home,1
+95,Female,Other,3,5,Care Home,0
+48,Male,White,1,3,Care Home,1
+65,Female,White,3,4,Home,0
+86,Female,White,1,1,Rehabilitation,0
+63,Female,White,2,3,Care Home,0
+71,Female,White,4,5,Care Home,0
+49,Male,White,2,1,Care Home,0
+71,Male,White,1,5,Home,0
+62,Female,White,4,2,Home,0
+79,Male,Black,1,5,Home,0
+82,Male,White,4,3,Home,0
+95,Female,Black,2,5,Home,0
+73,Female,Mixed,2,3,Deceased,1
+69,Male,White,5,1,Care Home,0
+67,Female,White,4,3,Rehabilitation,0
+59,Female,White,1,4,Home,0
+70,Female,Black,2,3,Home,1
+60,Male,White,5,3,Home,0
+67,Male,White,1,2,Home,0
+84,Male,White,3,2,Home,1
+49,Male,White,4,2,Care Home,0
+82,Male,Mixed,3,0,Home,0
+84,Male,White,4,2,Home,0
+63,Male,Black,4,5,Home,1
+33,Female,White,3,2,Care Home,0
+55,Male,White,4,0,Care Home,0
+84,Female,Other,3,0,Deceased,0
+64,Female,White,2,1,Rehabilitation,1
+50,Male,Mixed,2,2,Home,0
+57,Female,White,4,1,Care Home,0
+77,Female,White,5,1,Home,0
+73,Male,White,2,3,Home,0
+61,Female,Other,2,1,Home,1
+59,Male,Mixed,5,1,Care Home,0
+59,Female,White,3,2,Care Home,0
+51,Male,White,1,2,Home,0
+89,Female,White,3,1,Home,1
+60,Male,White,5,1,Care Home,0
+83,Female,White,4,1,Home,0
+87,Male,White,4,2,Rehabilitation,0
+79,Female,Mixed,1,3,Home,0
+58,Female,White,5,3,Home,0
+71,Male,Asian,3,3,Home,0
+64,Female,White,5,3,Home,0
+51,Male,White,2,1,Rehabilitation,0
+69,Female,Other,1,3,Care Home,1
+47,Female,White,2,4,Home,0
+82,Female,Black,2,1,Care Home,1
+58,Female,Mixed,4,2,Rehabilitation,0
+68,Male,White,5,5,Home,0
+69,Male,White,3,3,Home,0
+61,Male,White,5,1,Home,0
+73,Female,White,2,9,Home,0
+57,Male,White,4,1,Home,0
+78,Female,White,4,0,Deceased,1
+44,Female,White,4,2,Home,0
+66,Male,White,3,3,Home,0
+94,Female,White,3,3,Home,1
+49,Male,White,4,2,Home,0
+54,Male,White,2,1,Home,1
+72,Female,White,4,4,Home,0
+67,Male,White,5,1,Home,0
+70,Male,White,2,3,Home,1
+72,Female,White,4,4,Home,0
+74,Male,White,4,1,Home,0
+81,Female,Asian,3,2,Home,1
+71,Female,White,3,3,Home,1
+61,Male,White,5,1,Home,1
+75,Male,Mixed,2,0,Home,0
+93,Female,Asian,1,2,Home,1
+63,Male,White,4,0,Home,0
+50,Male,White,3,3,Home,1
+81,Female,White,4,4,Care Home,0
+63,Male,White,1,1,Home,0
+32,Female,Other,1,0,Home,1
+77,Male,White,5,1,Home,1
+56,Male,Black,1,4,Deceased,1
+63,Male,White,4,3,Deceased,0
+69,Female,Other,4,3,Home,0
+67,Female,White,4,5,Home,1
+75,Female,White,1,0,Home,0
+58,Male,White,3,4,Home,1
+72,Male,White,5,2,Home,1
+61,Male,White,2,3,Home,1
+76,Female,Asian,2,2,Home,0
+74,Female,White,2,3,Home,1
+50,Female,Asian,1,4,Home,0
+81,Male,White,5,3,Care Home,1
+56,Female,White,5,1,Home,0
+77,Male,Other,5,2,Rehabilitation,0
+70,Female,White,3,2,Home,0
+92,Male,White,4,1,Home,1
+61,Female,White,1,6,Care Home,1
+59,Male,White,3,5,Home,0
+64,Male,Black,3,0,Home,1
+60,Female,White,5,1,Home,1
+76,Male,White,4,3,Home,0
+40,Male,Black,5,3,Home,0
+49,Female,White,5,2,Home,0
+48,Female,White,5,3,Home,1
+79,Female,Mixed,1,1,Home,1
+90,Male,White,4,4,Home,0
+63,Female,Asian,3,1,Home,0
+62,Female,White,2,2,Rehabilitation,0
+66,Male,Asian,1,2,Home,0
+82,Female,Mixed,3,0,Home,0
+51,Male,White,2,4,Care Home,0
+68,Male,White,2,5,Home,0
+79,Male,White,3,1,Home,0
+72,Male,White,5,6,Home,0
+67,Female,White,4,2,Home,0
+80,Female,White,2,2,Home,0
+24,Female,White,2,3,Home,1
+75,Female,Mixed,1,2,Home,0
+55,Male,White,2,3,Home,0
+37,Female,White,1,3,Rehabilitation,0
+72,Female,White,5,3,Home,0
+85,Male,White,3,3,Care Home,0
+62,Female,White,1,4,Rehabilitation,0
+79,Female,White,2,3,Home,0
+89,Female,Black,3,4,Home,0
+84,Female,Other,3,2,Home,0
+89,Male,White,1,3,Home,1
+76,Male,White,5,1,Care Home,0
+66,Male,White,2,1,Home,1
+40,Female,White,1,4,Home,0
+61,Female,White,1,3,Home,0
+52,Female,White,3,3,Home,0
+95,Male,White,1,2,Home,0
+62,Male,Asian,1,2,Home,0
+66,Female,White,2,2,Home,0
+73,Female,White,3,1,Home,1
+65,Male,White,1,4,Home,1
+90,Female,Black,2,6,Home,1
+55,Female,Mixed,2,3,Home,0
+67,Female,White,1,0,Home,0
+53,Female,White,3,3,Home,0
+45,Male,White,1,0,Home,0
+55,Female,White,1,3,Home,0
+64,Female,White,3,3,Home,1
+58,Male,White,1,4,Home,0
+54,Male,White,1,1,Home,0
+43,Female,White,2,1,Home,1
+63,Male,White,5,3,Home,0
+42,Male,Mixed,4,2,Home,1
+76,Female,White,4,2,Home,1
+66,Male,White,5,1,Rehabilitation,0
+43,Female,White,5,2,Home,0
+60,Male,White,4,2,Home,1
+53,Female,White,3,3,Home,0
+69,Male,White,2,3,Home,0
+85,Male,White,1,2,Home,0
+36,Male,White,3,3,Home,0
+66,Female,White,5,2,Home,0
+62,Female,White,2,0,Care Home,0
+75,Male,White,4,1,Home,0
+68,Female,White,2,4,Care Home,0
+53,Female,White,2,1,Care Home,0
+60,Female,White,2,1,Care Home,0
+53,Male,White,3,1,Care Home,0
+81,Female,White,2,3,Home,0
+65,Male,Other,4,2,Home,1
+93,Male,Mixed,5,1,Home,0
+64,Female,White,5,2,Home,0
+54,Female,Black,1,1,Home,0
+42,Male,White,5,2,Care Home,0
+37,Male,Mixed,2,2,Home,1
+41,Female,White,2,4,Home,0
+69,Female,White,4,1,Home,0
+72,Male,White,2,2,Home,1
+41,Female,White,1,4,Home,1
+78,Male,White,2,2,Home,0
+57,Male,Mixed,4,2,Care Home,1
+67,Female,White,2,2,Home,1
+89,Male,White,3,2,Home,1
+78,Male,Asian,3,1,Home,0
+60,Female,White,4,1,Care Home,1
+51,Female,White,5,3,Home,0
+32,Male,White,2,1,Rehabilitation,0
+54,Female,White,1,1,Deceased,0
+61,Female,White,2,0,Home,0
+50,Male,White,2,1,Home,0
+63,Female,White,4,2,Home,0
+66,Male,White,1,4,Home,0
+61,Male,Black,2,2,Care Home,0
+55,Female,White,4,2,Home,1
+67,Female,White,3,1,Care Home,1
+71,Male,White,4,3,Home,0
+48,Male,White,4,3,Home,1
+86,Female,White,4,0,Home,0
+63,Male,White,3,1,Home,0
+65,Male,White,2,4,Home,0
+75,Male,White,5,3,Home,0
+68,Female,White,3,1,Home,0
+79,Male,White,1,0,Care Home,0
+69,Male,White,2,4,Home,0
+55,Female,White,3,1,Home,0
+70,Female,White,5,2,Home,0
+47,Female,White,1,6,Rehabilitation,1
+66,Male,Asian,1,5,Home,0
+64,Female,White,5,1,Home,0
+61,Male,White,5,5,Care Home,1
+63,Male,Asian,2,2,Care Home,1
+36,Female,White,2,2,Home,1
+56,Male,White,3,1,Care Home,0
+66,Male,White,2,0,Home,1
+67,Male,White,5,5,Care Home,0
+49,Male,White,1,1,Home,1
+83,Male,White,1,4,Home,1
+52,Female,White,1,5,Deceased,0
+79,Male,White,2,1,Home,0
+71,Male,Asian,1,4,Home,0
+55,Male,White,1,0,Home,0
+91,Female,Mixed,4,2,Home,0
+47,Female,Mixed,1,4,Home,0
+78,Male,Mixed,5,1,Home,0
+80,Female,Asian,2,2,Deceased,1
+54,Male,White,3,7,Home,0
+85,Male,White,1,1,Rehabilitation,1
+61,Male,White,1,3,Home,1
+69,Male,White,3,1,Home,1
+68,Male,Asian,3,2,Home,1
+62,Female,Other,4,2,Care Home,0
+77,Male,White,4,5,Home,0
+76,Female,White,3,2,Home,1
+38,Male,White,2,4,Home,0
+84,Male,White,5,0,Care Home,0
+40,Male,White,3,1,Home,1
+80,Female,White,5,3,Home,1
+81,Male,Asian,4,2,Care Home,0
+48,Female,White,1,2,Home,0
+58,Male,Black,2,3,Care Home,0
+48,Male,White,3,2,Care Home,0
+61,Male,Asian,4,1,Home,1
+60,Male,White,3,5,Home,1
+76,Male,Black,4,5,Home,0
+84,Male,White,2,3,Deceased,0
+85,Female,White,1,3,Home,1
+56,Male,White,1,3,Rehabilitation,0
+61,Female,Black,3,5,Home,0
+39,Male,White,3,2,Home,0
+52,Female,White,2,3,Home,1
+79,Female,White,3,4,Home,1
+89,Male,White,1,3,Home,0
+46,Male,Asian,1,3,Home,1
+56,Female,White,4,2,Home,1
+64,Female,White,2,1,Home,0
+69,Male,Other,3,0,Home,0
+52,Male,Asian,4,2,Home,1
+71,Female,Black,5,5,Home,0
+57,Male,White,1,4,Home,0
+64,Female,White,2,3,Rehabilitation,0
+73,Male,White,4,2,Home,0
+65,Male,White,4,5,Deceased,0
+58,Female,White,4,2,Home,0
+63,Female,White,1,3,Care Home,0
+63,Male,White,1,0,Home,0
+59,Male,White,3,1,Home,1
+61,Female,Asian,4,3,Home,0
+88,Female,White,2,3,Home,1
+73,Male,White,1,1,Home,0
+60,Female,Mixed,4,5,Home,0
+75,Female,White,2,5,Home,0
+59,Female,White,1,4,Home,0
+82,Female,Other,1,5,Rehabilitation,0
+70,Male,Mixed,2,4,Home,0
+63,Female,White,3,1,Home,0
+71,Female,White,2,4,Home,1
+41,Male,White,1,1,Home,0
+48,Male,White,1,2,Home,1
+47,Male,White,2,2,Home,1
+67,Female,White,3,4,Home,1
+90,Male,White,1,2,Home,0
+95,Female,White,3,3,Home,0
+74,Female,White,1,1,Deceased,1
+72,Female,White,1,5,Deceased,0
+37,Female,White,1,2,Home,0
+56,Female,White,1,1,Home,1
+53,Male,White,3,3,Home,0
+55,Female,White,2,3,Home,0
+62,Male,White,4,3,Home,0
+57,Female,White,1,2,Home,1
+35,Male,White,1,2,Home,1
+76,Female,White,2,2,Care Home,1
+48,Female,White,4,1,Care Home,1
+68,Female,White,2,2,Deceased,0
+95,Male,White,2,3,Home,0
+51,Male,White,2,0,Care Home,0
+27,Female,White,1,5,Home,0
+60,Male,White,5,4,Home,0
+81,Female,White,3,4,Care Home,0
+94,Male,Mixed,4,0,Care Home,0
+46,Female,White,3,2,Rehabilitation,0
+72,Male,White,3,2,Home,0
+58,Female,Mixed,1,2,Home,1
+63,Female,Black,3,2,Home,0
+95,Male,White,1,0,Care Home,0
+42,Male,White,2,0,Home,0
+68,Male,White,3,2,Home,1
+72,Female,White,4,3,Home,0
+81,Female,White,3,0,Home,0
+66,Female,White,3,3,Care Home,0
+69,Female,White,1,2,Home,0
+59,Male,White,2,1,Home,0
+69,Male,White,1,1,Care Home,0
+59,Male,Black,4,3,Home,0
+74,Male,Asian,5,2,Care Home,1
+59,Female,White,2,2,Care Home,0
+70,Female,White,1,1,Home,1
+64,Male,White,2,5,Home,0
+81,Female,White,5,1,Home,0
+64,Female,Mixed,3,3,Home,0
+38,Male,Black,1,2,Home,1
+83,Male,White,5,3,Home,0
+51,Male,White,4,2,Home,0
+55,Female,White,1,3,Home,0
+56,Female,White,5,4,Home,0
+85,Female,White,2,3,Home,0
+32,Male,White,2,0,Home,0
+95,Male,White,2,2,Home,1
+80,Female,White,4,1,Home,1
+68,Female,White,3,1,Rehabilitation,0
+64,Female,Other,1,2,Home,0
+69,Female,White,5,1,Care Home,0
+72,Male,White,1,1,Home,1
+74,Female,White,4,2,Home,1
+73,Female,White,3,3,Rehabilitation,0
+66,Male,White,1,1,Home,1
+62,Female,White,1,3,Home,0
+62,Male,Asian,5,2,Home,0
+62,Male,White,2,3,Home,1
+82,Male,White,3,4,Home,0
+73,Male,White,3,2,Home,0
+20,Male,Black,4,2,Home,0
+74,Male,Mixed,2,1,Care Home,1
+67,Female,White,2,2,Rehabilitation,0
+64,Male,White,2,1,Home,0
+59,Male,White,5,1,Care Home,0
+81,Male,White,2,3,Home,0
+79,Female,White,1,3,Home,1
+53,Male,White,5,1,Rehabilitation,0
+71,Male,White,4,3,Home,1
+50,Female,White,1,2,Home,0
+44,Female,White,5,2,Home,0
+55,Female,Black,3,2,Home,0
+77,Female,White,1,2,Home,1
+79,Male,White,1,3,Rehabilitation,0
+72,Female,White,3,3,Home,1
+75,Male,White,4,2,Home,1
+72,Male,White,1,3,Home,1
+55,Male,White,2,3,Care Home,1
+71,Female,White,2,0,Home,0
+77,Male,White,3,2,Home,0
+76,Female,White,1,4,Rehabilitation,0
+82,Female,White,1,3,Home,0
+75,Male,Mixed,3,3,Home,0
+70,Female,White,4,3,Home,0
+81,Female,White,3,1,Home,0
+64,Female,White,2,3,Home,0
+51,Male,Black,2,1,Home,0
+62,Female,White,2,3,Home,0
+53,Male,White,5,0,Deceased,0
+54,Female,Black,4,4,Home,1
+62,Female,White,1,2,Home,0
+53,Male,White,2,4,Care Home,1
+60,Female,White,3,2,Home,1
+36,Female,Asian,3,1,Home,1
+68,Female,White,2,4,Home,0
+65,Male,White,4,0,Home,1
+52,Male,White,4,3,Home,0
+74,Female,White,3,2,Home,0
+79,Female,White,5,1,Care Home,0
+40,Female,White,4,4,Home,0
+53,Male,White,4,6,Home,1
+53,Male,White,5,2,Home,0
+50,Female,White,2,1,Rehabilitation,0
+77,Female,Black,2,0,Home,0
+62,Male,White,5,2,Rehabilitation,0
+61,Female,Black,4,1,Home,0
+34,Female,White,5,2,Home,0
+74,Male,White,1,2,Home,0
+46,Male,White,3,2,Home,0
+65,Male,White,1,1,Home,0
+69,Female,Other,3,3,Home,1
+85,Male,Black,1,4,Care Home,0
+45,Male,White,1,1,Rehabilitation,0
+19,Female,White,1,3,Home,0
+67,Male,White,3,3,Rehabilitation,0
+92,Male,White,2,3,Home,1
+83,Male,White,1,3,Home,0
+68,Female,White,2,2,Home,0
+57,Female,White,1,5,Home,1
+77,Male,White,5,6,Home,0
+50,Female,Asian,2,2,Home,0
+72,Female,Asian,2,2,Care Home,1
+72,Male,White,4,0,Home,0
+80,Male,Black,3,3,Care Home,0
+95,Male,White,4,1,Home,0
+70,Male,White,3,3,Home,0
+57,Female,White,5,2,Care Home,0
+64,Female,White,1,4,Home,0
+38,Male,White,5,3,Care Home,1
+54,Male,Black,4,0,Home,0
+58,Male,Mixed,3,2,Care Home,0
+57,Female,White,3,2,Home,0
+67,Male,Asian,3,4,Home,0
+52,Female,White,1,1,Home,0
+81,Male,White,1,2,Rehabilitation,0
+65,Female,White,5,2,Home,0
+64,Female,White,3,2,Deceased,0
+60,Male,White,2,2,Home,0
+67,Female,White,4,1,Home,0
+77,Female,White,3,1,Home,1
+51,Male,White,1,3,Home,0
+55,Female,White,4,1,Home,0
+60,Male,White,4,2,Home,1
+44,Female,White,1,4,Rehabilitation,1
+52,Male,White,5,1,Home,0
+57,Female,White,1,1,Home,0
+78,Female,Black,2,3,Home,1
+68,Female,White,1,2,Deceased,0
+67,Female,White,3,4,Home,0
+77,Female,White,2,3,Home,0
+62,Male,White,2,0,Home,1
+70,Female,White,4,3,Rehabilitation,1
+63,Female,White,1,3,Deceased,1
+68,Female,Other,4,2,Deceased,0
+56,Female,White,3,3,Care Home,0
+28,Female,White,5,0,Home,0
+62,Female,White,3,3,Home,1
+86,Male,White,1,4,Home,1
+78,Male,White,1,4,Home,1
+79,Male,White,5,4,Home,0
+83,Male,Black,4,0,Home,0
+66,Female,White,2,4,Home,0
+67,Male,Asian,3,3,Home,0
+55,Male,White,2,4,Home,0
+60,Female,White,5,1,Home,0
+74,Male,White,5,4,Care Home,1
+83,Male,White,5,1,Home,1
+62,Male,Black,5,5,Care Home,0
+58,Male,White,5,4,Home,0
+65,Female,White,1,0,Home,0
+74,Female,Mixed,4,2,Home,0
+43,Female,Black,4,4,Home,0
+30,Male,Asian,5,1,Care Home,1
+56,Female,Mixed,3,4,Home,0
+46,Male,White,1,2,Care Home,0
+57,Male,Asian,3,3,Home,0
+62,Male,White,3,1,Home,1
+58,Male,Black,1,5,Home,1
+86,Male,Asian,2,3,Home,1
+69,Male,White,3,6,Home,0
+69,Female,Asian,2,2,Home,0
+74,Male,White,2,2,Rehabilitation,1
+47,Male,White,1,3,Home,0
+80,Male,White,5,3,Home,0
+63,Female,Mixed,4,2,Care Home,0
+75,Male,White,1,3,Home,0
+48,Female,White,4,3,Home,0
+41,Female,White,4,3,Home,1
+77,Male,Mixed,1,3,Care Home,0
+70,Male,White,2,1,Home,1
+51,Male,Asian,3,1,Home,1
+51,Female,Black,2,1,Deceased,0
+81,Male,White,4,5,Rehabilitation,0
+47,Male,White,2,1,Home,0
+89,Male,White,1,2,Rehabilitation,1
+51,Female,Black,5,5,Rehabilitation,0
+74,Male,Asian,1,2,Home,1
+60,Male,White,4,2,Home,0
+74,Female,Black,1,1,Rehabilitation,1
+56,Female,White,2,3,Home,1
+62,Female,White,2,3,Home,0
+65,Male,Asian,1,2,Rehabilitation,0
+49,Female,White,2,1,Care Home,0
+76,Female,Asian,1,2,Home,0
+57,Male,White,3,3,Home,1
+61,Female,Black,3,3,Home,1
+50,Male,White,1,1,Home,1
+26,Female,White,5,1,Deceased,0
+62,Male,Asian,1,1,Home,0
+95,Female,White,1,3,Home,0
+76,Male,White,3,2,Deceased,0
+64,Female,Other,2,3,Home,0
+61,Male,White,2,3,Home,1
+65,Female,Other,1,2,Home,1
+73,Female,White,4,0,Home,1
+47,Male,White,3,2,Home,0
+81,Female,Asian,1,1,Home,0
+75,Female,White,2,4,Home,1
+75,Male,White,4,4,Care Home,0
+71,Male,White,3,3,Home,1
+65,Female,Asian,1,5,Home,0
+75,Male,White,2,1,Home,1
+73,Male,White,1,1,Home,1
+59,Male,White,3,2,Home,0
+56,Male,White,4,8,Care Home,1
+66,Male,White,2,1,Home,0
+88,Male,White,2,5,Home,0
+46,Female,White,5,3,Home,0
+42,Female,White,3,3,Home,1
+67,Male,White,3,2,Care Home,1
+65,Female,White,2,2,Care Home,0
+67,Female,White,3,2,Home,0
+68,Female,Black,3,3,Care Home,1
+61,Male,White,2,2,Home,0
+87,Male,White,5,5,Home,1
+40,Female,White,5,3,Care Home,0
+52,Female,White,4,3,Home,1
+63,Female,Asian,3,2,Home,1
+40,Female,Other,2,1,Home,1
+62,Male,White,1,2,Home,1
+89,Female,White,2,7,Home,0
+65,Male,White,4,2,Care Home,0
+68,Male,White,2,3,Home,0
+46,Female,Black,5,5,Home,0
+55,Male,White,1,3,Home,0
+59,Male,White,3,4,Home,1
+60,Female,White,3,3,Rehabilitation,0
+84,Male,White,3,1,Care Home,1
+73,Female,White,5,2,Deceased,1
+48,Female,Black,5,6,Home,0
+68,Female,White,1,0,Deceased,0
+72,Male,White,1,3,Home,0
+82,Male,White,1,1,Home,0
+88,Male,White,3,0,Rehabilitation,0
+49,Male,White,2,4,Home,1
+52,Male,White,4,5,Home,0
+46,Female,White,2,1,Care Home,0
+61,Male,White,3,1,Rehabilitation,0
+71,Female,Black,4,4,Home,0
+79,Male,White,3,1,Rehabilitation,1
+63,Female,Asian,3,3,Care Home,1
+60,Female,White,1,3,Care Home,1
+67,Male,White,2,5,Home,0
+52,Male,White,3,0,Rehabilitation,0
+95,Female,Mixed,2,2,Rehabilitation,0
+40,Female,White,5,1,Home,0
+67,Female,White,5,5,Home,0
+95,Male,White,4,3,Home,0
+65,Male,White,2,3,Home,0
+62,Female,White,4,0,Deceased,0
+59,Female,Black,2,0,Home,1
+62,Male,White,1,4,Home,1
+85,Female,White,2,1,Rehabilitation,0
+31,Male,White,1,4,Home,1
+88,Male,White,2,3,Home,1
+43,Male,White,2,2,Home,1
+61,Male,Black,5,2,Home,0
+58,Female,White,2,2,Care Home,0
+73,Male,Black,5,1,Rehabilitation,0
+41,Male,Asian,1,4,Home,0
+71,Female,White,1,0,Deceased,1
+95,Female,White,3,2,Home,1
+44,Female,White,3,2,Home,0
+67,Female,Black,1,2,Home,0
+55,Male,White,1,2,Deceased,0
+71,Female,White,2,3,Home,1
+65,Female,White,2,4,Home,0
+55,Female,White,4,2,Home,1
+72,Male,White,3,3,Home,0
+92,Male,White,1,4,Care Home,0
+62,Female,Asian,5,2,Home,1
+75,Male,Asian,2,1,Rehabilitation,0
+45,Female,White,4,1,Home,1
+50,Female,White,4,1,Rehabilitation,0
+72,Female,Black,5,4,Care Home,1
+87,Female,White,2,0,Home,1
+70,Female,Black,3,3,Home,0
+60,Male,White,2,2,Deceased,1
+64,Female,White,3,4,Care Home,0
+46,Female,White,2,3,Home,0
+74,Male,White,2,2,Home,0
+78,Male,Black,5,4,Rehabilitation,0
+58,Male,White,1,2,Home,1
+57,Female,White,5,2,Home,0
+68,Male,White,5,4,Deceased,0
+58,Female,Asian,3,2,Care Home,0
+64,Male,White,2,3,Care Home,0
+95,Male,Asian,2,7,Home,0
+61,Female,White,5,1,Deceased,0
+59,Male,White,1,2,Home,0
+55,Female,Asian,3,1,Home,0
+76,Female,White,3,0,Home,1
+62,Female,White,5,2,Care Home,1
+55,Male,White,4,2,Home,1
+84,Female,White,3,3,Care Home,0
+86,Female,White,1,1,Care Home,0
+55,Female,White,2,1,Home,0
+37,Female,White,1,7,Care Home,1
+80,Female,White,5,5,Care Home,0
+54,Female,White,4,4,Home,0
+76,Female,White,4,4,Home,1
+35,Male,Mixed,3,0,Home,0
+78,Male,Black,3,3,Home,1
+46,Male,White,1,5,Rehabilitation,1
+75,Male,White,2,1,Home,1
+65,Male,Mixed,1,3,Deceased,0
+50,Male,White,4,3,Deceased,0
+58,Female,White,1,1,Home,0
+75,Male,Asian,4,0,Home,0
+66,Female,White,3,2,Home,0
+73,Male,White,2,2,Home,0
+94,Male,Mixed,1,0,Home,0
+41,Male,White,2,1,Home,0
+89,Male,White,2,2,Home,0
+66,Female,White,4,4,Home,1
+51,Female,White,1,2,Care Home,1
+45,Male,Asian,4,4,Home,1
+62,Male,White,4,1,Home,0
+78,Male,White,1,3,Home,0
+63,Female,Mixed,4,0,Home,0
+87,Female,White,3,5,Home,0
+43,Female,White,4,2,Home,0
+64,Female,White,1,1,Home,1
+46,Female,White,1,2,Home,0
+70,Male,White,1,2,Home,0
+78,Male,Black,2,2,Home,1
+58,Female,Black,4,0,Home,1
+25,Female,White,4,4,Rehabilitation,0
+67,Female,White,5,3,Home,0
+71,Female,White,1,1,Home,0
+71,Male,White,1,2,Rehabilitation,0
+83,Female,White,3,3,Care Home,1
+48,Female,Mixed,2,3,Care Home,1
+75,Male,White,2,0,Home,0
+82,Female,White,3,2,Home,1
+38,Female,White,1,4,Home,0
+69,Male,White,3,1,Care Home,0
+57,Male,White,2,0,Care Home,0
+63,Male,White,3,0,Home,0
+70,Female,White,4,4,Home,1
+57,Male,White,1,1,Home,0
+54,Female,White,5,1,Home,0
+65,Female,White,3,4,Deceased,0
+48,Male,White,5,1,Home,1
+48,Female,Black,1,1,Home,1
+75,Female,White,3,3,Care Home,1
+47,Male,White,2,2,Home,0
+74,Male,White,4,3,Home,0
+71,Female,White,3,2,Home,0
+39,Female,White,2,1,Home,0
+54,Male,White,5,2,Home,0
+82,Male,White,2,3,Home,0
+50,Male,White,1,3,Home,0
+58,Female,White,3,4,Home,0
+71,Male,White,3,2,Home,0
+76,Female,Asian,2,3,Care Home,1
+61,Female,White,2,3,Home,0
+56,Male,White,5,4,Home,0
+86,Female,White,4,2,Home,0
+91,Male,White,1,1,Home,1
+79,Female,White,1,3,Home,0
+66,Male,Black,5,1,Rehabilitation,0
+52,Female,Other,4,0,Home,0
+52,Female,White,5,1,Home,0
+72,Male,White,2,1,Home,0
+71,Male,White,4,4,Care Home,0
+86,Male,White,4,3,Deceased,0
+74,Male,White,2,0,Home,0
+42,Female,Asian,3,3,Home,0
+80,Female,Asian,3,0,Home,0
+50,Male,White,2,2,Care Home,0
+59,Female,White,4,0,Home,0
+68,Female,White,4,1,Home,1
+94,Female,White,5,4,Home,0
+95,Male,White,4,2,Home,0
+74,Male,White,2,2,Home,0
+62,Male,White,2,6,Home,0
+73,Female,White,4,4,Care Home,1
+78,Male,White,2,2,Home,1
+60,Male,White,1,2,Home,1
+91,Male,White,3,2,Home,0
+68,Female,White,1,5,Home,1
+72,Male,White,3,3,Home,0
+74,Male,White,2,1,Care Home,0
+71,Male,White,2,3,Home,0
+77,Male,White,5,1,Rehabilitation,0
+55,Female,White,4,3,Home,0
+56,Male,White,4,3,Home,1
+48,Male,Other,3,1,Home,0
+71,Female,White,4,0,Care Home,0
+76,Male,White,4,2,Home,0
+71,Male,White,3,4,Home,0
+90,Female,White,5,2,Home,1
+64,Male,Asian,1,4,Home,1
+75,Male,White,5,2,Home,0
+48,Male,White,2,0,Home,0
+59,Female,White,3,2,Rehabilitation,1
+75,Female,White,1,3,Home,0
+77,Female,Black,3,4,Home,0
+60,Female,White,3,1,Care Home,1
+63,Male,White,5,0,Home,0
+42,Male,Black,5,1,Home,1
+59,Female,Black,5,2,Rehabilitation,1
+78,Female,White,2,0,Home,0
+73,Male,White,5,1,Home,0
+72,Female,White,2,5,Home,0
+65,Male,White,5,2,Home,0
+65,Male,Other,1,2,Home,0
+55,Male,White,3,0,Home,0
+75,Male,White,5,6,Home,1
+71,Female,Black,5,1,Home,0
+72,Female,White,3,2,Deceased,1
+57,Male,White,4,2,Home,0
+32,Male,Mixed,1,1,Care Home,0
+81,Female,Asian,4,3,Home,0
+57,Male,Asian,3,4,Home,0
+52,Female,White,1,5,Home,1
+75,Male,Asian,1,6,Home,1
+59,Female,White,1,6,Home,0
+80,Male,White,4,3,Care Home,0
+74,Male,Other,1,4,Home,0
+75,Male,White,2,3,Home,0
+44,Male,Asian,2,1,Home,1
+83,Male,White,3,1,Home,0
+68,Female,White,4,3,Home,0
+59,Male,Asian,3,6,Rehabilitation,0
+67,Male,White,3,5,Home,1
+38,Female,White,2,2,Home,0
+71,Female,White,2,1,Home,0
+49,Female,Mixed,5,6,Deceased,0
+44,Female,White,2,0,Home,0
+42,Male,White,2,4,Home,1
+81,Female,White,4,2,Home,0
+55,Female,Mixed,2,3,Home,0
+88,Female,White,4,5,Rehabilitation,0
+56,Male,White,2,2,Home,0
+39,Male,White,4,1,Rehabilitation,0
+48,Male,White,1,1,Home,0
+83,Female,White,2,6,Home,1
+62,Female,White,2,3,Home,0
+56,Female,White,4,2,Care Home,1
+67,Male,Other,5,2,Home,1
+72,Female,Asian,2,1,Home,1
+81,Female,White,4,3,Rehabilitation,0
+86,Male,White,3,6,Home,1
+59,Female,Asian,5,3,Home,0
+45,Male,White,4,2,Deceased,0
+58,Female,White,1,3,Home,1
+68,Female,White,4,1,Care Home,0
+50,Female,White,3,3,Home,0
+50,Female,Asian,1,2,Home,1
+70,Female,White,2,1,Home,0
+64,Female,White,5,4,Home,1
+65,Male,White,5,4,Home,1
+53,Female,White,4,6,Home,0
+61,Male,White,5,2,Deceased,0
+51,Male,White,4,3,Rehabilitation,1
+78,Female,Mixed,1,1,Home,0
+80,Female,Mixed,2,3,Home,0
+37,Male,Other,1,7,Home,0
+51,Male,Asian,1,3,Home,0
+42,Male,White,1,4,Care Home,0
+55,Male,White,3,6,Home,0
+63,Male,White,4,3,Home,0
+43,Female,White,5,2,Home,0
+51,Male,Mixed,3,2,Home,0
+49,Male,Asian,5,1,Home,0
+68,Male,White,3,1,Home,1
+66,Female,White,5,3,Home,1
+54,Male,Black,2,0,Home,0
+67,Male,Asian,2,3,Home,1
+56,Male,White,5,2,Rehabilitation,0
+60,Female,Black,2,1,Home,0
+90,Female,White,3,5,Home,0
+85,Male,White,2,3,Home,1
+45,Male,White,3,3,Home,0
+77,Male,White,5,5,Care Home,0
+77,Female,White,1,1,Rehabilitation,0
+47,Female,White,5,6,Care Home,1
+77,Male,Other,1,3,Deceased,0
+88,Male,White,2,0,Rehabilitation,1
+48,Male,White,1,4,Home,0
+51,Male,White,4,3,Home,1
+80,Female,White,1,2,Home,0
+69,Male,White,3,0,Deceased,0
+73,Male,White,2,4,Home,1
+70,Male,White,1,5,Home,1
+70,Female,White,4,4,Care Home,1
+45,Female,White,1,1,Home,0
+80,Male,White,1,2,Home,1
+82,Male,Asian,2,3,Rehabilitation,1
+61,Male,White,3,2,Care Home,0
+64,Female,White,3,3,Care Home,1
+42,Male,White,1,2,Care Home,0
+72,Female,White,1,3,Home,0
+73,Female,White,2,0,Home,0
+64,Female,Other,2,2,Home,0
+81,Male,Asian,5,4,Care Home,0
+59,Female,White,4,2,Home,0
+73,Female,White,3,1,Home,0
+49,Male,White,2,5,Home,0
+64,Male,Asian,4,0,Home,1
+62,Male,White,4,2,Home,0
+68,Male,White,3,1,Rehabilitation,0
+59,Male,Asian,4,2,Home,0
+63,Female,Asian,4,1,Home,0
+77,Male,Asian,3,0,Home,0
+58,Female,Black,2,1,Home,0
+40,Male,Mixed,4,3,Home,0
+91,Female,White,1,1,Home,1
+85,Male,White,4,2,Care Home,0
+45,Female,Asian,4,2,Care Home,0
+75,Male,White,4,2,Care Home,0
+57,Male,Other,2,5,Home,0
+68,Female,White,1,0,Care Home,0
+69,Male,White,1,4,Rehabilitation,0
+61,Female,White,4,1,Deceased,0
+53,Female,White,5,4,Home,1
+54,Male,White,3,2,Home,1
+51,Female,White,1,2,Home,0
+52,Female,White,5,5,Care Home,0
+63,Male,White,5,2,Home,1
+54,Female,White,2,2,Home,1
+75,Female,White,3,1,Home,1
+87,Male,White,4,4,Care Home,0
+56,Male,White,4,1,Care Home,1
+68,Female,Asian,5,2,Rehabilitation,1
+72,Male,Black,1,4,Rehabilitation,0
+72,Male,Black,3,7,Home,1
+66,Male,Mixed,3,3,Home,1
+76,Female,White,5,6,Care Home,0
+72,Male,Black,5,1,Rehabilitation,1
+46,Male,Asian,5,2,Home,1
+78,Female,Black,3,3,Home,1
+78,Male,White,4,1,Home,1
+53,Female,Mixed,2,3,Home,0
+65,Female,White,2,0,Home,0
+75,Female,Asian,2,0,Home,0
+61,Female,White,4,2,Care Home,1
+81,Male,White,5,2,Home,0
+95,Female,White,2,2,Home,0
+53,Male,White,1,3,Home,0
+44,Male,White,4,2,Care Home,0
+69,Male,Asian,3,2,Home,0
+75,Male,White,5,3,Home,1
+61,Female,White,2,1,Home,0
+86,Male,White,1,2,Home,1
+44,Female,White,2,2,Home,0
+75,Female,White,1,3,Home,0
+55,Female,White,2,2,Home,0
+90,Male,White,1,3,Home,1
+94,Female,White,1,4,Home,0
+53,Male,White,1,5,Deceased,0
+56,Male,White,5,0,Care Home,0
+77,Female,White,2,1,Home,1
+59,Male,Other,2,3,Home,0
+64,Male,White,5,3,Home,1
+65,Female,White,3,2,Home,0
+36,Male,White,3,1,Deceased,0
+64,Female,White,4,5,Home,0
+54,Male,White,4,0,Care Home,0
+57,Male,White,5,0,Deceased,0
+86,Male,White,3,1,Home,0
+46,Male,White,5,2,Home,0
+77,Male,White,3,2,Home,1
+60,Female,White,2,6,Home,1
+60,Female,Other,5,2,Rehabilitation,0
+76,Female,White,3,3,Home,0
+70,Male,White,5,1,Home,0
+73,Female,Mixed,1,1,Care Home,0
+79,Female,Asian,2,1,Deceased,0
+60,Female,White,5,2,Home,0
+55,Male,White,1,1,Care Home,0
+48,Female,White,5,3,Home,0
+52,Female,White,5,2,Care Home,0
+95,Male,White,5,5,Home,1
+83,Female,White,3,3,Deceased,1
+44,Male,White,3,5,Home,1
+45,Female,White,5,1,Home,0
+72,Female,White,4,3,Home,1
+73,Female,White,3,1,Home,0
+73,Male,White,5,2,Home,1
+61,Male,White,3,2,Care Home,1
+63,Female,White,5,0,Rehabilitation,0
+69,Male,White,1,2,Care Home,0
+66,Male,Other,1,1,Rehabilitation,0
+31,Female,White,2,1,Deceased,0
+61,Female,White,2,1,Rehabilitation,0
+52,Male,Black,4,3,Home,1
+67,Male,White,1,5,Rehabilitation,0
+95,Male,Black,5,1,Home,0
+70,Female,White,2,3,Deceased,0
+60,Female,White,2,7,Home,0
+78,Female,White,2,3,Home,1
+72,Female,White,3,1,Home,0
+71,Female,White,1,1,Home,0
+74,Female,Black,1,4,Home,1
+95,Male,White,4,1,Deceased,0
+48,Female,White,1,1,Home,0
+72,Male,Asian,1,2,Home,1
+51,Female,White,4,8,Home,0
+73,Female,White,1,2,Home,1
+51,Male,White,2,2,Home,0
+58,Female,Asian,1,1,Home,0
+60,Male,White,2,2,Home,1
+79,Female,White,3,2,Home,0
+78,Male,Black,1,3,Home,0
+46,Female,White,5,3,Rehabilitation,0
+65,Male,White,5,7,Home,0
+54,Male,White,1,2,Home,0
+46,Male,White,5,3,Home,0
+61,Male,White,2,3,Home,0
+60,Male,Mixed,1,1,Home,0
+95,Female,White,1,1,Home,1
+71,Male,White,2,1,Deceased,0
+44,Male,White,3,3,Home,1
+56,Male,White,2,5,Home,0
+80,Female,White,4,5,Home,1
+95,Female,Black,4,2,Home,0
+41,Female,White,2,0,Home,0
+36,Female,White,4,7,Home,0
+93,Male,White,5,2,Care Home,0
+70,Male,White,1,1,Home,0
+51,Male,Asian,2,4,Home,0
+73,Female,Asian,2,2,Rehabilitation,0
+25,Female,White,2,3,Home,1
+65,Female,Mixed,3,1,Home,1
+69,Male,White,2,3,Home,0
+78,Male,White,3,1,Home,0
+49,Male,White,3,5,Care Home,0
+66,Female,White,3,0,Home,0
+51,Male,Mixed,1,0,Home,0
+68,Female,White,2,3,Rehabilitation,1
+51,Male,White,2,1,Home,0
+58,Female,Asian,2,4,Home,1
+50,Female,White,5,4,Home,0
+74,Female,Asian,2,4,Care Home,1
+77,Female,White,1,1,Rehabilitation,0
+61,Female,White,2,4,Home,0
+65,Female,Black,4,3,Rehabilitation,1
+43,Female,White,4,1,Rehabilitation,0
+60,Female,Black,3,2,Deceased,0
+64,Female,White,1,5,Home,0
+95,Female,Asian,2,4,Care Home,0
+48,Female,White,3,2,Home,0
+86,Female,White,5,2,Care Home,0
+79,Male,Black,3,1,Home,0
+69,Male,White,3,4,Home,0
+91,Female,White,2,3,Care Home,1
+70,Female,Asian,2,3,Care Home,1
+70,Female,White,4,3,Home,0
+64,Male,Black,2,3,Home,1
+83,Female,White,5,3,Home,0
+81,Female,White,2,0,Home,0
+55,Male,White,1,1,Home,0
+45,Female,White,3,1,Home,1
+61,Female,White,1,6,Home,1
+52,Male,White,2,2,Home,1
+64,Female,White,2,2,Home,0
+83,Female,White,4,1,Care Home,0
+58,Male,White,2,4,Home,0
+64,Male,Asian,1,5,Home,1
+65,Female,White,3,8,Care Home,1
+77,Male,White,2,0,Home,0
+31,Male,Black,5,2,Home,0
+55,Male,White,2,1,Home,0
+68,Female,Other,4,3,Home,0
+83,Female,White,1,2,Home,0
+57,Female,White,4,2,Home,1
+36,Male,White,4,4,Care Home,1
+74,Female,Asian,5,6,Home,1
+55,Male,White,1,2,Rehabilitation,0
+47,Male,Black,2,0,Home,0
+55,Male,White,3,4,Home,0
+62,Male,White,1,3,Home,0
+55,Female,White,2,1,Home,1
+31,Female,White,5,3,Care Home,1
+78,Male,White,2,5,Home,1
+84,Female,Black,5,2,Home,0
+74,Female,White,1,3,Home,0
+47,Female,White,4,1,Home,1
+61,Male,White,3,3,Rehabilitation,1
+64,Female,Black,3,3,Rehabilitation,0
+73,Male,Other,5,1,Care Home,0
+75,Female,Asian,1,4,Home,0
+53,Male,Other,5,2,Home,0
+66,Female,Asian,3,6,Home,0
+71,Male,Mixed,2,1,Home,0
+86,Male,White,5,4,Home,0
+75,Female,White,2,3,Deceased,0
+76,Female,White,4,2,Deceased,1
+66,Female,White,2,3,Care Home,0
+86,Female,White,5,3,Home,0
+71,Male,White,3,2,Home,0
+52,Female,White,1,4,Care Home,0
+86,Male,Mixed,3,0,Rehabilitation,0
+75,Male,White,1,0,Rehabilitation,0
+58,Female,Asian,2,4,Home,0
+57,Female,White,1,2,Care Home,0
+69,Female,Mixed,1,2,Home,0
+71,Female,Mixed,1,3,Home,0
+67,Female,Asian,3,2,Care Home,1
+69,Male,White,2,4,Home,1
+90,Male,White,3,2,Home,0
+81,Female,White,1,2,Home,1
+67,Male,Asian,3,4,Home,0
+79,Male,Black,4,3,Home,0
+49,Male,Asian,2,2,Home,0
+70,Female,White,5,3,Home,1
+92,Male,White,3,1,Home,0
+61,Female,White,4,5,Care Home,0
+52,Female,White,2,2,Home,0
+55,Male,White,1,0,Care Home,0
+48,Female,White,5,7,Home,0
+53,Female,Asian,4,4,Home,1
+59,Female,White,1,1,Home,0
+43,Female,White,2,5,Home,0
+65,Male,Mixed,3,0,Rehabilitation,1
+78,Female,White,3,4,Home,0
+51,Male,White,5,4,Deceased,0
+87,Female,White,1,2,Home,0
+72,Female,White,2,5,Care Home,0
+80,Female,White,1,2,Home,1
+55,Male,White,2,3,Home,0
+77,Male,White,1,3,Home,0
+48,Male,White,5,2,Home,0
+78,Male,White,3,4,Home,0
+67,Male,Black,4,0,Home,0
+73,Female,White,1,2,Home,0
+47,Male,Black,1,3,Rehabilitation,0
+51,Female,White,2,2,Care Home,0
+73,Male,White,2,0,Home,0
+50,Female,Asian,4,1,Home,0
+71,Female,White,2,2,Home,0
+44,Female,White,1,2,Care Home,0
+77,Female,White,1,2,Home,0
+46,Male,White,1,2,Home,0
+73,Female,Asian,4,3,Home,0
+74,Male,Black,2,1,Home,1
+54,Male,White,4,2,Home,0
+73,Female,White,3,2,Home,0
+68,Female,White,1,3,Home,0
+56,Female,Other,1,1,Home,1
+49,Male,Asian,4,5,Home,0
+35,Male,Black,4,0,Home,1
+70,Male,White,2,3,Home,0
+41,Male,Asian,1,4,Home,1
+66,Male,White,1,0,Home,1
+61,Male,White,2,4,Home,1
+75,Male,Mixed,1,3,Home,0
+60,Female,White,1,3,Home,1
+60,Male,Mixed,2,2,Rehabilitation,0
+75,Female,White,1,2,Home,0
+70,Male,Asian,1,4,Home,0
+69,Female,White,5,4,Home,1
+72,Female,White,3,0,Home,1
+41,Male,White,5,2,Care Home,0
+76,Female,White,2,5,Rehabilitation,0
+74,Male,White,3,2,Home,0
+49,Female,White,1,3,Home,0
+61,Male,White,3,1,Care Home,0
+64,Female,White,1,2,Care Home,0
+62,Male,White,1,0,Home,0
+70,Male,White,5,3,Home,1
+86,Female,Asian,3,4,Rehabilitation,0
+81,Male,Black,5,1,Rehabilitation,0
+45,Female,White,2,1,Home,0
+74,Male,White,2,3,Home,1
+84,Female,Asian,2,2,Home,1
+70,Male,White,4,2,Home,1
+81,Female,White,3,2,Home,0
+95,Female,White,5,3,Home,0
+80,Male,White,1,2,Care Home,0
+68,Male,White,4,2,Home,0
+80,Male,White,2,3,Home,0
+67,Female,White,1,2,Care Home,0
+65,Male,White,3,3,Home,1
+59,Male,White,3,3,Rehabilitation,1
+88,Male,White,1,2,Rehabilitation,0
+52,Male,White,1,2,Home,0
+87,Female,White,2,4,Home,0
+72,Female,Black,2,2,Care Home,0
+44,Female,White,2,3,Home,1
+70,Female,White,1,2,Home,0
+33,Female,White,1,3,Care Home,0
+74,Male,White,5,6,Home,0
+78,Male,White,5,4,Home,0
+56,Female,White,2,2,Home,0
+66,Female,Asian,5,2,Home,0
+94,Female,White,3,2,Home,0
+57,Male,Asian,1,2,Home,0
+49,Male,White,1,0,Home,0
+87,Male,Other,5,1,Home,0
+94,Female,Asian,3,3,Care Home,1
+65,Female,Mixed,4,2,Home,0
+80,Female,White,5,1,Home,0
+85,Male,White,2,0,Home,0
+53,Female,Asian,1,0,Care Home,0
+57,Male,Black,1,2,Home,0
+83,Male,Mixed,1,1,Home,0
+90,Female,White,1,4,Care Home,1
+73,Male,Asian,2,2,Care Home,1
+51,Male,White,1,5,Home,0
+94,Female,White,1,1,Rehabilitation,0
+57,Female,White,2,6,Care Home,0
+59,Male,White,2,4,Care Home,0
+70,Female,Mixed,2,3,Home,1
+88,Male,White,2,4,Home,0
+77,Female,White,3,1,Home,0
+71,Female,White,5,3,Home,0
+71,Female,White,1,2,Home,1
+65,Female,White,1,4,Home,0
+73,Male,White,5,6,Home,1
+27,Male,White,3,5,Home,0
+60,Male,Asian,4,2,Home,0
+68,Male,Other,1,2,Home,0
+47,Female,White,4,5,Home,1
+70,Male,White,5,1,Home,1
+61,Male,White,3,1,Care Home,0
+91,Male,White,1,3,Rehabilitation,0
+88,Female,White,5,2,Home,0
+58,Male,White,4,6,Home,0
+62,Female,White,4,2,Home,0
+63,Male,Mixed,1,1,Home,0
+58,Male,White,4,2,Home,1
+67,Female,White,1,1,Home,0
+53,Female,Mixed,1,4,Home,0
+48,Female,White,3,4,Home,0
+74,Female,White,2,1,Home,0
+74,Male,White,3,1,Rehabilitation,0
+52,Male,Other,3,2,Care Home,1
+78,Female,White,1,8,Home,1
+55,Male,Black,3,1,Rehabilitation,1
+68,Female,White,5,3,Deceased,0
+77,Female,White,1,3,Rehabilitation,0
+64,Male,White,3,1,Rehabilitation,0
+71,Female,White,2,0,Care Home,0
+57,Male,Asian,2,1,Home,0
+62,Male,White,2,2,Home,0
+61,Male,White,2,2,Deceased,0
+53,Female,White,1,5,Home,0
+62,Male,Asian,5,5,Rehabilitation,0
+41,Female,White,3,3,Care Home,0
+57,Female,Asian,3,4,Home,0
+60,Female,White,2,4,Home,1
+61,Female,White,3,0,Home,0
+61,Male,White,2,2,Home,0
+64,Male,White,2,3,Home,1
+72,Male,White,2,3,Home,0
+78,Female,White,2,4,Home,1
+55,Female,White,1,3,Home,0
+46,Female,Other,3,3,Home,0
+49,Female,White,4,2,Rehabilitation,0
+57,Female,White,1,3,Care Home,0
+59,Male,White,1,3,Home,1
+53,Female,White,1,2,Home,0
+45,Female,White,5,3,Deceased,0
+58,Male,White,4,3,Home,0
+67,Female,White,3,3,Home,1
+73,Male,White,5,1,Home,0
+56,Female,White,2,4,Home,0
+58,Female,White,5,5,Home,0
+51,Female,White,2,3,Home,0
+64,Male,White,1,4,Home,0
+52,Female,White,3,6,Home,1
+73,Female,White,2,0,Home,0
+38,Male,White,3,4,Home,0
+59,Female,White,2,6,Home,0
+69,Female,White,3,1,Home,0
+67,Female,White,2,3,Care Home,0
+95,Male,White,1,3,Home,0
+70,Female,White,5,1,Home,0
+49,Female,White,5,2,Home,0
+63,Male,White,5,0,Rehabilitation,0
+38,Male,White,4,0,Rehabilitation,1
+63,Female,White,3,0,Home,0
+52,Female,White,3,2,Home,0
+78,Female,White,1,5,Home,1
+56,Male,White,1,3,Home,0
+63,Male,White,2,3,Care Home,0
+55,Male,White,5,2,Home,0
+91,Male,White,1,3,Home,1
+60,Female,White,5,0,Home,0
+92,Female,White,3,5,Home,0
+77,Female,Black,4,1,Home,0
+72,Male,White,1,0,Home,0
+70,Female,White,2,6,Home,1
+70,Male,Asian,5,6,Home,0
+36,Male,Asian,2,2,Home,0
+60,Female,Black,2,2,Home,0
+77,Female,White,1,1,Home,1
+64,Female,Black,1,0,Home,0
+43,Male,White,1,2,Care Home,0
+64,Female,White,3,2,Home,1
+90,Female,White,2,2,Home,0
+83,Female,White,3,2,Care Home,1
+64,Male,White,1,4,Rehabilitation,0
+79,Female,White,4,2,Rehabilitation,1
+59,Female,White,4,0,Home,0
+39,Female,White,1,2,Home,1
+51,Male,Black,2,3,Home,1
+88,Male,White,1,3,Home,0
+60,Male,White,4,1,Home,1
+61,Male,Asian,4,1,Care Home,0
+60,Female,White,5,2,Home,0
+93,Male,White,1,1,Home,0
+89,Male,Asian,2,2,Home,0
+95,Male,Mixed,1,0,Home,0
+62,Male,Black,2,2,Rehabilitation,0
+69,Male,White,3,4,Home,0
+42,Female,White,1,1,Home,0
+87,Female,White,4,3,Home,1
+47,Male,White,3,6,Care Home,1
+68,Male,White,4,3,Care Home,0
+48,Male,White,2,3,Home,1
+56,Male,Black,5,4,Home,1
+52,Female,White,5,0,Home,0
+55,Female,White,5,1,Care Home,0
+56,Female,White,4,1,Home,0
+56,Female,White,4,1,Home,0
+77,Male,Mixed,3,4,Home,0
+48,Female,White,1,3,Rehabilitation,0
+68,Female,White,3,4,Care Home,0
+83,Female,White,4,3,Home,0
+57,Male,White,5,0,Home,0
+54,Female,White,3,1,Home,1
+61,Female,Asian,2,1,Home,0
+82,Female,White,3,3,Home,1
+67,Male,White,5,1,Care Home,0
+57,Female,White,1,3,Care Home,0
+72,Female,Asian,2,2,Deceased,1
+48,Female,White,3,4,Home,0
+75,Female,White,1,1,Home,0
+71,Female,White,1,1,Rehabilitation,1
+60,Male,Black,2,1,Home,0
+52,Female,Asian,5,5,Home,0
+51,Male,Asian,1,3,Home,0
+73,Female,Asian,2,4,Deceased,1
+83,Male,White,4,5,Rehabilitation,0
+55,Female,White,5,3,Home,0
+71,Female,Black,5,1,Home,1
+33,Female,Black,2,2,Care Home,0
+56,Female,White,5,4,Care Home,1
+64,Female,White,1,1,Home,0
+51,Female,Mixed,4,6,Home,0
+50,Male,White,3,5,Home,0
+54,Male,Black,1,2,Home,0
+69,Male,White,3,0,Care Home,0
+62,Male,White,1,4,Home,0
+31,Female,White,5,2,Home,0
+33,Female,White,2,2,Home,0
+55,Female,White,3,3,Home,1
+71,Male,White,1,1,Home,0
+23,Male,White,1,1,Care Home,0
+57,Female,Other,5,4,Home,0
+57,Female,White,4,3,Home,0
+85,Male,White,5,2,Home,1
+59,Female,White,2,0,Care Home,1
+70,Female,White,1,2,Rehabilitation,1
+67,Male,White,3,2,Home,1
+33,Female,White,2,1,Home,1
+76,Male,White,1,3,Home,0
+68,Female,White,4,3,Home,0
+72,Male,White,2,2,Home,0
+95,Male,White,1,3,Rehabilitation,0
+33,Female,White,2,3,Home,0
+90,Male,Black,3,4,Deceased,0
+60,Female,Black,4,4,Home,0
+69,Male,Other,2,3,Home,0
+64,Male,Mixed,3,2,Home,0
+58,Male,White,1,6,Home,0
+56,Female,White,5,1,Home,1
+69,Female,White,5,2,Rehabilitation,0
+42,Male,Asian,3,2,Home,0
+76,Female,Black,1,0,Home,0
+58,Female,Black,3,2,Care Home,1
+48,Female,White,3,1,Care Home,1
+58,Female,Asian,5,1,Home,1
+83,Female,White,5,2,Care Home,0
+56,Female,White,5,3,Home,0
+70,Male,Asian,1,4,Home,1
+54,Male,White,5,2,Home,0
+76,Male,Other,3,2,Deceased,0
+75,Male,White,4,4,Home,0
+92,Female,Black,2,5,Home,1
+62,Male,White,2,2,Home,0
+75,Male,Asian,2,2,Home,1
+66,Female,Asian,1,3,Home,0
+84,Male,Black,2,1,Home,1
+54,Male,White,5,4,Home,0
+76,Male,Mixed,1,4,Home,0
+62,Female,White,1,1,Home,0
+64,Male,White,1,3,Home,0
+66,Male,White,2,2,Home,0
+68,Female,Asian,5,0,Home,1
+63,Female,White,1,1,Rehabilitation,0
+68,Female,Asian,1,2,Home,0
+88,Female,White,5,4,Home,0
+79,Male,White,5,3,Care Home,1
+78,Male,Mixed,1,6,Home,1
+58,Male,White,4,2,Home,0
+51,Male,Black,3,10,Care Home,1
+79,Male,White,4,3,Home,0
+78,Male,White,2,1,Home,0
+87,Female,White,5,5,Care Home,0
+55,Female,White,1,3,Home,1
+61,Male,White,1,2,Home,0
+40,Female,White,2,2,Home,0
+59,Male,White,2,4,Home,0
+79,Male,White,5,2,Home,0
+58,Female,White,3,2,Home,1
+74,Male,Asian,1,0,Rehabilitation,0
+62,Male,White,2,1,Care Home,0
+69,Male,Black,2,5,Home,1
+47,Female,White,5,2,Care Home,0
+66,Female,White,3,2,Home,1
+20,Male,White,3,1,Home,1
+62,Female,White,4,4,Deceased,0
+40,Female,White,4,4,Home,0
+83,Female,White,3,0,Home,0
+76,Female,Black,1,1,Home,0
+72,Male,Asian,5,1,Home,1
+87,Male,White,4,3,Home,1
+50,Female,Asian,4,4,Home,1
+91,Female,White,5,2,Care Home,1
+78,Female,White,4,4,Home,0
+61,Female,White,4,2,Home,1
+82,Female,Asian,5,2,Home,1
+48,Female,Asian,1,2,Home,1
+52,Female,Asian,2,2,Care Home,0
+55,Female,White,3,2,Care Home,0
+57,Female,White,2,1,Rehabilitation,0
+49,Male,White,4,2,Home,1
+83,Male,White,4,2,Care Home,0
+61,Female,White,4,1,Home,0
+70,Female,White,5,2,Home,0
+56,Female,White,2,2,Home,0
+37,Female,White,4,2,Care Home,0
+69,Male,White,3,2,Home,1
+36,Male,White,2,2,Home,1
+63,Female,White,1,1,Home,0
+44,Male,White,5,3,Home,0
+94,Male,White,3,2,Care Home,0
+78,Male,White,4,3,Home,1
+66,Male,White,3,6,Home,1
+83,Female,White,1,2,Home,1
+52,Male,White,2,2,Rehabilitation,0
+73,Female,Asian,2,2,Home,0
+67,Male,White,5,3,Home,0
+68,Female,White,1,2,Home,1
+84,Male,White,5,2,Home,0
+75,Female,Black,5,4,Care Home,0
+69,Female,White,5,3,Deceased,1
+40,Male,White,2,0,Home,1
+50,Female,White,5,3,Home,0
+63,Female,White,2,3,Home,1
+66,Male,White,1,1,Home,0
+48,Male,Other,1,3,Home,0
+95,Female,Black,5,2,Home,0
+87,Female,White,1,2,Care Home,1
+74,Male,White,3,3,Rehabilitation,0
+66,Male,White,1,1,Care Home,0
+61,Female,White,2,3,Home,0
+50,Female,White,1,2,Rehabilitation,1
+66,Female,White,5,2,Home,0
+68,Male,White,3,4,Home,1
+46,Female,White,5,3,Care Home,1
+70,Male,White,3,2,Deceased,0
+62,Male,Mixed,5,3,Care Home,1
+36,Female,White,3,3,Rehabilitation,0
+52,Female,Other,3,4,Rehabilitation,1
+58,Male,White,3,2,Home,0
+93,Male,White,2,4,Care Home,0
+73,Female,White,4,3,Home,0
+44,Female,White,3,3,Home,0
+72,Female,White,4,1,Rehabilitation,0
+41,Female,Mixed,4,1,Care Home,0
+81,Male,Other,1,6,Home,0
+57,Female,White,3,2,Rehabilitation,0
+63,Female,White,1,2,Home,1
+84,Female,White,3,2,Care Home,0
+45,Female,White,3,3,Home,1
+44,Female,White,5,5,Home,0
+56,Male,White,1,2,Rehabilitation,0
+80,Male,White,1,1,Care Home,0
+42,Female,White,1,0,Care Home,0
+22,Male,White,2,1,Care Home,0
+58,Male,White,4,3,Home,1
+73,Female,White,4,2,Home,0
+83,Female,Other,4,2,Care Home,0
+58,Male,White,5,4,Care Home,1
+58,Female,Black,2,3,Home,0
+82,Female,Asian,1,3,Home,0
+36,Female,Mixed,1,3,Home,0
+59,Female,Asian,5,3,Home,0
+67,Male,White,4,1,Rehabilitation,0
+71,Male,Black,3,1,Home,1
+57,Male,White,2,2,Home,0
+65,Female,White,2,1,Care Home,0
+27,Female,Other,5,1,Home,0
+55,Female,Asian,1,4,Rehabilitation,0
+71,Female,Mixed,4,1,Home,0
+50,Female,Asian,2,3,Home,0
+65,Female,Black,1,6,Home,1
+71,Male,White,4,2,Home,1
+59,Male,Asian,2,3,Home,0
+67,Female,White,4,1,Care Home,0
+50,Male,Black,4,3,Home,1
+61,Male,Asian,3,3,Home,1
+74,Female,Asian,4,6,Care Home,0
+67,Male,White,3,4,Home,0
+56,Female,White,2,1,Care Home,0
+68,Male,White,4,2,Home,0
+75,Male,Mixed,3,1,Home,0
+34,Male,White,1,8,Home,1
+82,Female,White,5,3,Home,0
+59,Male,White,3,3,Home,0
+71,Female,Asian,5,2,Home,0
+82,Female,Asian,5,1,Home,0
+44,Female,Asian,2,0,Care Home,0
+54,Male,White,3,3,Care Home,1
+60,Male,White,2,4,Home,0
+53,Female,White,2,1,Home,1
+91,Female,White,5,4,Home,0
+52,Female,Asian,4,1,Home,0
+56,Male,White,1,1,Care Home,1
+68,Female,White,3,0,Home,0
+46,Male,White,5,1,Home,1
+59,Male,White,3,1,Home,0
+69,Male,Black,4,4,Home,0
+60,Male,White,4,3,Care Home,0
+63,Female,Asian,2,2,Home,1
+57,Male,White,2,1,Rehabilitation,1
+42,Female,White,4,4,Home,0
+69,Male,White,2,5,Home,1
+91,Female,White,3,2,Home,0
+65,Male,Asian,4,1,Care Home,1
+68,Male,White,4,2,Home,0
+75,Male,White,2,2,Home,0
+45,Male,White,1,1,Home,0
+90,Female,White,2,2,Home,0
+68,Male,Asian,3,2,Care Home,1
+89,Female,White,2,3,Home,0
+54,Male,White,3,3,Home,1
+92,Female,Asian,1,5,Home,0
+76,Female,White,3,4,Home,0
+73,Male,White,2,6,Care Home,0
+68,Male,White,3,1,Home,1
+61,Male,White,2,2,Home,1
+83,Female,White,2,1,Rehabilitation,0
+67,Male,White,5,0,Home,0
+35,Female,Mixed,1,1,Rehabilitation,0
+48,Female,White,3,3,Care Home,1
+62,Female,Mixed,5,2,Home,0
+69,Female,White,3,4,Home,0
+64,Female,White,5,2,Home,0
+83,Male,White,1,3,Home,1
+35,Female,White,2,1,Home,0
+67,Female,Asian,2,2,Care Home,1
+37,Male,White,1,2,Rehabilitation,0
+76,Female,White,2,1,Home,1
+63,Male,White,2,1,Care Home,0
+71,Female,White,3,4,Home,0
+52,Female,Other,5,4,Home,0
+84,Male,Black,1,2,Home,0
+80,Female,White,2,6,Home,0
+73,Male,Black,2,4,Rehabilitation,0
+63,Male,Black,2,3,Home,1
+73,Male,White,4,3,Home,1
+54,Female,White,2,1,Home,0
+77,Male,White,1,1,Home,0
+89,Male,White,4,3,Rehabilitation,0
+81,Female,White,5,4,Care Home,1
+54,Male,White,3,4,Home,1
+70,Male,White,3,2,Home,0
+45,Male,White,1,3,Home,1
+73,Male,Asian,1,1,Home,0
+71,Male,White,1,4,Home,0
+36,Male,White,2,1,Home,0
+47,Female,Black,5,3,Deceased,0
+60,Female,White,3,1,Home,0
+60,Male,White,1,5,Home,0
+46,Male,Mixed,2,4,Home,0
+70,Male,Black,2,0,Home,1
+68,Female,White,3,2,Home,0
+62,Male,White,2,3,Home,0
+53,Male,Other,2,3,Home,0
+80,Female,White,3,1,Home,1
+89,Male,White,1,1,Home,0
+57,Male,White,1,4,Home,0
+55,Female,White,1,4,Care Home,0
+72,Female,White,2,1,Care Home,1
+59,Male,Asian,1,0,Rehabilitation,0
+62,Female,Mixed,2,3,Home,1
+76,Male,Asian,4,3,Home,0
+36,Female,White,4,2,Home,0
+84,Female,White,3,1,Home,0
+66,Female,Other,5,1,Care Home,0
+58,Female,White,2,5,Home,0
+63,Female,White,5,2,Rehabilitation,0
+64,Female,Black,2,0,Care Home,1
+39,Female,White,2,2,Care Home,1
+87,Male,White,2,1,Rehabilitation,0
+65,Male,Black,1,3,Home,1
+71,Female,Other,5,1,Home,1
+79,Female,White,1,6,Home,0
+49,Male,Black,2,2,Home,0
+72,Female,White,2,1,Home,0
+60,Female,White,1,1,Home,0
+77,Female,Black,1,0,Care Home,0
+33,Female,Other,1,6,Home,0
+63,Male,White,2,5,Rehabilitation,0
+55,Male,White,5,1,Home,0
+71,Male,White,2,2,Deceased,0
+72,Male,White,1,3,Home,1
+54,Female,White,3,3,Home,0
+54,Female,White,5,10,Home,0
+63,Female,White,1,3,Care Home,0
+51,Female,White,2,3,Home,1
+77,Male,White,5,2,Care Home,0
+59,Male,Asian,1,3,Home,0
+21,Male,White,3,1,Home,0
+59,Male,White,1,2,Home,0
+49,Female,Black,5,3,Rehabilitation,0
+40,Male,White,5,1,Home,1
+46,Male,White,4,2,Care Home,0
+66,Male,White,2,2,Home,0
+84,Female,White,2,5,Home,0
+69,Male,White,1,2,Home,0
+55,Female,Asian,5,1,Home,0
+71,Male,White,5,5,Home,1
+58,Female,White,2,1,Care Home,0
+54,Male,White,3,5,Rehabilitation,0
+47,Female,White,1,2,Home,0
+38,Female,Black,2,2,Home,0
+59,Female,White,3,1,Home,1
+67,Female,White,2,7,Care Home,0
+63,Male,White,2,3,Care Home,1
+58,Male,White,1,4,Home,0
+50,Male,Black,4,3,Home,0
+74,Female,White,5,5,Deceased,1
+45,Male,Mixed,5,2,Home,0
+76,Male,White,4,1,Deceased,0
+49,Female,Mixed,3,4,Home,1
+53,Female,Asian,2,0,Home,0
+42,Male,White,5,3,Home,0
+57,Female,White,3,1,Home,1
+79,Female,White,3,5,Care Home,0
+72,Male,White,3,1,Home,0
+79,Male,White,4,3,Home,0
+72,Female,White,1,1,Care Home,1
+48,Female,Mixed,1,1,Home,0
+60,Male,White,3,3,Home,0
+53,Male,Asian,5,1,Home,1
+84,Female,Mixed,3,1,Home,1
+47,Female,Black,2,3,Home,0
+78,Female,White,2,3,Home,0
+78,Male,White,4,0,Home,0
+92,Male,White,4,1,Home,0
+58,Female,White,3,1,Home,0
+75,Male,White,2,3,Home,0
+95,Female,Asian,5,4,Home,1
+55,Female,White,3,0,Home,0
+41,Male,White,4,2,Home,1
+36,Female,Other,1,2,Home,0
+75,Male,White,2,1,Home,0
+36,Female,White,5,0,Care Home,1
+59,Male,Asian,1,2,Home,0
+71,Male,White,3,3,Home,0
+67,Female,White,2,0,Rehabilitation,1
+71,Female,White,4,4,Rehabilitation,0
+68,Male,Black,2,3,Deceased,0
+84,Female,White,1,2,Home,0
+50,Male,White,5,3,Home,0
+54,Male,White,3,0,Home,0
+53,Male,White,1,2,Home,0
+77,Male,White,1,5,Home,1
+78,Male,White,5,3,Care Home,0
+71,Male,White,1,1,Home,1
+82,Male,White,3,2,Home,1
+47,Male,White,2,1,Home,1
+90,Male,White,5,3,Care Home,0
+87,Female,White,4,1,Home,0
+76,Male,White,3,3,Care Home,0
+91,Female,White,1,6,Rehabilitation,0
+40,Female,Asian,5,1,Deceased,0
+57,Female,Black,2,0,Care Home,1
+53,Female,White,5,1,Home,0
+75,Female,White,2,3,Rehabilitation,1
+49,Male,White,3,0,Home,0
+76,Female,White,1,2,Home,0
+85,Female,White,4,3,Home,0
+75,Female,White,2,2,Home,0
+69,Female,White,2,4,Home,1
+50,Male,White,1,2,Home,1
+52,Female,White,1,4,Home,0
+83,Female,Asian,1,3,Deceased,1
+76,Male,White,2,2,Home,0
+64,Male,White,5,4,Home,0
+58,Female,Other,2,2,Home,0
+34,Female,Black,4,3,Home,1
+48,Female,Asian,1,2,Home,0
+93,Female,White,3,4,Care Home,0
+45,Male,White,2,2,Home,0
+67,Male,Mixed,5,3,Home,1
+80,Male,White,4,1,Rehabilitation,1
+46,Male,Black,2,5,Home,0
+67,Male,White,4,0,Home,1
+79,Male,White,1,4,Rehabilitation,0
+65,Female,Other,3,2,Home,0
+95,Female,White,1,3,Home,0
+39,Male,White,2,0,Home,0
+80,Male,White,1,3,Home,0
+62,Male,White,4,0,Home,0
+76,Female,White,2,2,Care Home,1
+71,Male,White,4,5,Home,0
+54,Male,White,3,1,Home,0
+68,Female,Asian,1,2,Home,0
+37,Female,White,4,2,Care Home,0
+74,Male,Other,4,5,Rehabilitation,1
+69,Male,White,5,3,Care Home,0
+74,Male,White,3,3,Home,1
+80,Female,White,4,5,Care Home,0
+70,Female,White,4,2,Care Home,0
+67,Male,Other,1,4,Home,0
+51,Female,Asian,1,3,Deceased,0
+54,Male,White,1,2,Care Home,0
+82,Male,White,2,1,Deceased,0
+86,Male,Asian,2,2,Care Home,0
+61,Female,Mixed,5,1,Rehabilitation,1
+65,Male,Other,2,3,Care Home,1
+51,Male,White,4,3,Home,0
+82,Male,Other,3,1,Rehabilitation,0
+74,Male,White,1,1,Home,0
+94,Female,White,1,5,Rehabilitation,0
+51,Male,White,3,2,Rehabilitation,1
+59,Male,White,4,2,Rehabilitation,0
+68,Female,Asian,5,2,Care Home,0
+74,Female,Black,2,3,Home,0
+61,Female,Asian,5,5,Home,1
+51,Female,White,2,4,Home,0
+78,Male,White,3,1,Home,1
+75,Female,White,3,2,Home,0
+51,Female,White,1,6,Home,1
+85,Male,Asian,1,7,Home,1
+82,Female,White,1,4,Home,1
+67,Male,White,2,4,Home,0
+66,Female,White,4,1,Rehabilitation,0
+73,Female,Black,1,6,Home,1
+52,Female,White,3,2,Home,1
+65,Female,White,2,1,Rehabilitation,0
+32,Female,Asian,4,1,Home,0
+78,Male,White,4,2,Home,0
+41,Male,Black,4,0,Home,0
+87,Male,White,3,4,Deceased,0
+60,Male,White,2,1,Home,0
+61,Female,Black,4,2,Rehabilitation,0
+55,Male,White,1,1,Home,0
+60,Male,White,2,3,Home,1
+86,Female,White,1,2,Home,1
+27,Female,White,3,4,Home,0
+84,Male,White,3,3,Care Home,1
+70,Male,White,3,1,Home,1
+46,Male,Black,2,0,Rehabilitation,0
+48,Female,Asian,1,5,Home,0
+90,Male,White,5,1,Home,0
+50,Female,White,3,1,Home,1
+47,Male,White,2,6,Care Home,0
+82,Male,White,3,4,Home,0
+70,Female,White,1,2,Home,1
+50,Male,White,1,1,Home,0
+68,Male,White,2,1,Home,0
+49,Male,White,1,3,Home,1
+81,Female,White,1,2,Home,0
+80,Female,Asian,5,1,Deceased,0
+72,Male,Asian,3,1,Home,1
+70,Male,White,2,4,Deceased,1
+91,Male,Asian,3,1,Home,0
+64,Female,White,5,2,Home,0
+47,Female,Black,1,3,Care Home,0
+71,Female,White,4,4,Home,0
+95,Female,Asian,3,2,Home,0
+49,Male,White,1,3,Home,0
+59,Male,White,2,4,Deceased,1
+71,Male,White,2,1,Home,0
+64,Male,White,3,1,Rehabilitation,0
+50,Male,White,1,2,Home,0
+81,Female,White,3,3,Home,0
+95,Female,Asian,3,1,Home,1
+67,Female,White,2,4,Care Home,0
+51,Male,White,5,5,Rehabilitation,0
+41,Female,White,5,7,Home,0
+68,Female,Other,2,4,Home,0
+81,Female,Asian,5,3,Home,0
+72,Male,Asian,1,4,Home,0
+64,Male,White,1,7,Home,1
+56,Male,White,2,5,Rehabilitation,1
+48,Male,White,3,2,Home,1
+77,Female,White,3,3,Deceased,1
+78,Male,White,2,1,Home,0
+41,Male,White,1,4,Home,1
+88,Female,White,1,2,Care Home,0
+73,Female,White,5,3,Home,0
+85,Male,White,5,1,Home,0
+44,Female,Black,3,1,Rehabilitation,0
+44,Male,White,3,2,Home,0
+62,Male,Asian,3,2,Home,0
+72,Male,White,1,4,Home,1
+91,Female,White,2,1,Home,1
+75,Female,White,3,4,Home,0
+61,Male,Asian,3,2,Home,0
+49,Female,White,1,4,Home,0
+83,Male,Black,5,3,Home,0
+50,Female,White,4,2,Care Home,0
+89,Male,White,2,5,Home,1
+60,Male,White,3,2,Home,0
+88,Female,White,5,1,Home,0
+75,Female,Asian,1,5,Care Home,1
+62,Male,White,3,3,Home,0
+57,Male,White,2,4,Home,0
+59,Male,Asian,2,1,Home,0
+71,Male,Mixed,4,3,Care Home,0
+66,Female,White,2,3,Home,1
+56,Female,Asian,1,2,Home,1
+62,Male,White,1,1,Home,0
+66,Male,Asian,1,2,Home,0
+33,Female,White,2,2,Deceased,1
+71,Male,White,4,2,Care Home,0
+50,Female,White,1,1,Home,0
+47,Male,White,3,1,Care Home,1
+39,Female,White,3,4,Home,1
+38,Female,White,2,2,Rehabilitation,1
+44,Female,White,3,1,Home,0
+54,Female,Other,3,3,Home,0
+94,Male,White,2,1,Care Home,1
+57,Female,White,2,4,Care Home,0
+67,Female,White,3,0,Deceased,0
+71,Male,Black,5,1,Rehabilitation,0
+66,Male,White,2,3,Home,0
+63,Male,White,2,2,Home,0
+47,Male,White,2,1,Home,0
+86,Male,White,1,1,Home,0
+92,Female,White,3,3,Home,0
+39,Male,White,2,1,Home,0
+49,Female,White,1,5,Home,0
+60,Male,White,2,0,Home,0
+50,Male,White,1,3,Home,0
+72,Female,White,2,4,Home,0
+54,Female,White,1,3,Home,0
+95,Male,Mixed,1,2,Deceased,0
+82,Male,Black,4,1,Home,0
+68,Male,White,5,1,Home,0
+80,Female,White,1,3,Home,1
+81,Female,White,3,3,Rehabilitation,0
+56,Male,White,2,4,Home,1
+52,Female,White,2,3,Deceased,0
+66,Female,White,2,3,Home,0
+77,Male,Black,2,3,Home,0
+67,Female,Black,4,1,Home,0
+41,Female,White,1,1,Rehabilitation,0
+52,Male,White,1,1,Home,0
+63,Male,Mixed,4,4,Home,1
+63,Male,Mixed,3,1,Home,0
+94,Male,Mixed,2,3,Home,0
+44,Female,White,2,2,Deceased,0
+72,Male,White,2,3,Home,0
+87,Female,White,2,2,Home,0
+95,Female,White,2,5,Home,0
+58,Female,White,2,5,Home,0
+72,Female,White,3,0,Home,1
+73,Male,Black,3,2,Home,0
+67,Male,Black,4,2,Home,0
+63,Female,White,2,4,Care Home,0
+71,Male,Black,2,1,Home,0
+27,Male,White,2,4,Care Home,1
+75,Female,Asian,3,1,Care Home,0
+66,Female,White,2,3,Home,0
+61,Male,White,5,1,Home,1
+95,Female,White,3,3,Care Home,0
+54,Female,White,5,2,Rehabilitation,0
+58,Male,White,4,1,Home,1
+94,Male,White,5,4,Home,0
+52,Female,Other,3,4,Home,1
+56,Male,White,5,3,Home,1
+62,Male,White,1,2,Rehabilitation,0
+77,Female,White,1,1,Home,1
+68,Female,White,3,7,Care Home,0
+45,Male,White,5,4,Home,1
+57,Male,Asian,2,3,Home,0
+55,Male,White,1,4,Home,1
+63,Female,White,3,3,Home,0
+71,Male,White,3,2,Rehabilitation,0
+71,Female,White,2,0,Home,1
+38,Female,White,4,4,Care Home,0
+80,Male,Black,5,4,Rehabilitation,0
+68,Female,White,5,3,Home,0
+85,Female,White,2,1,Home,0
+71,Female,Black,2,4,Care Home,0
+81,Male,White,2,1,Home,1
+71,Female,White,2,5,Deceased,0
+85,Female,Other,1,2,Home,0
+72,Female,White,4,1,Home,1
+63,Male,White,2,3,Care Home,0
+95,Female,Black,5,2,Rehabilitation,1
+78,Male,Black,5,3,Rehabilitation,0
+73,Male,White,1,3,Home,0
+45,Male,White,5,2,Care Home,0
+45,Female,Asian,4,2,Home,0
+69,Male,White,3,2,Home,0
+67,Female,White,2,5,Care Home,0
+55,Female,White,3,0,Home,0
+67,Male,White,2,2,Home,0
+88,Female,Black,3,4,Home,1
+75,Male,Black,1,4,Home,0
+47,Male,Mixed,3,1,Care Home,0
+63,Female,Black,2,1,Home,0
+52,Female,White,1,4,Rehabilitation,0
+59,Female,White,3,4,Rehabilitation,0
+58,Female,Asian,3,3,Home,0
+57,Male,White,2,0,Home,0
+46,Male,White,1,3,Home,0
+63,Female,White,5,3,Rehabilitation,0
+56,Male,Black,3,6,Home,0
+21,Male,White,1,1,Care Home,0
+95,Female,White,3,4,Home,0
+81,Male,White,2,3,Home,0
+59,Male,White,1,5,Home,1
+65,Female,White,3,7,Home,0
+47,Female,Asian,4,3,Rehabilitation,0
+90,Female,White,4,3,Rehabilitation,0
+93,Female,White,1,5,Home,0
+67,Male,White,5,2,Home,0
+80,Female,White,2,2,Home,0
+67,Female,Mixed,5,1,Home,0
+44,Male,Asian,1,4,Home,1
+58,Male,Mixed,2,1,Home,1
+66,Female,White,3,2,Home,1
+58,Female,White,1,3,Home,0
+61,Female,White,4,2,Rehabilitation,1
+63,Female,White,3,3,Home,0
+63,Female,Asian,1,0,Home,0
+65,Female,White,3,1,Home,0
+49,Female,Other,2,3,Rehabilitation,1
+54,Male,White,1,1,Home,0
+45,Female,White,5,2,Home,0
+79,Male,White,5,1,Deceased,1
+33,Female,White,2,2,Home,0
+82,Female,White,3,0,Home,0
+85,Female,White,2,5,Home,0
+60,Female,White,4,3,Rehabilitation,0
+25,Male,White,5,1,Home,1
+59,Male,White,2,2,Home,0
+64,Male,White,4,3,Home,0
+49,Female,White,2,2,Home,0
+57,Female,White,2,4,Home,0
+87,Female,White,5,4,Home,0
+74,Male,White,3,2,Home,0
+51,Female,White,2,1,Home,1
+41,Female,White,3,2,Home,0
+60,Male,White,2,2,Home,0
+61,Female,White,2,3,Home,1
+72,Female,White,5,3,Home,0
+56,Female,Asian,3,2,Home,0
+72,Male,White,4,2,Home,0
+94,Female,White,2,3,Rehabilitation,0
+77,Male,Asian,3,5,Care Home,1
+64,Female,White,5,0,Rehabilitation,0
+62,Male,White,2,3,Home,1
+59,Male,White,1,2,Home,1
+82,Female,White,3,3,Rehabilitation,1
+55,Male,Asian,2,2,Home,0
+65,Female,White,1,1,Home,0
+65,Female,White,5,4,Care Home,0
+57,Female,White,5,1,Home,0
+44,Female,White,3,2,Home,0
+69,Male,White,4,0,Home,1
+64,Female,White,5,2,Care Home,0
+72,Male,Asian,4,6,Care Home,0
+56,Male,Asian,1,3,Care Home,0
+83,Female,White,1,3,Home,0
+51,Male,Other,1,3,Home,0
+90,Female,White,1,2,Home,0
+38,Female,White,2,1,Home,0
+71,Female,Asian,2,0,Care Home,0
+72,Female,White,1,3,Home,0
+53,Male,White,1,0,Home,1
+71,Female,White,3,2,Home,1
+84,Female,White,2,3,Home,0
+31,Female,Black,4,3,Home,0
+72,Male,White,1,2,Home,0
+27,Female,White,4,3,Home,0
+50,Male,White,5,4,Home,1
+89,Male,Asian,4,1,Home,1
+56,Female,White,4,4,Care Home,0
+47,Female,White,5,3,Home,1
+62,Female,White,1,4,Home,0
+95,Female,White,5,3,Home,0
+37,Female,White,4,2,Home,0
+49,Male,White,4,4,Care Home,0
+87,Male,White,2,1,Care Home,0
+92,Male,White,3,1,Home,0
+63,Female,White,3,3,Home,0
+46,Male,White,3,5,Home,0
+95,Male,White,4,3,Home,1
+88,Female,White,1,2,Care Home,0
+75,Male,White,2,1,Home,0
+52,Male,White,2,2,Home,0
+64,Female,Asian,2,2,Home,0
+62,Male,White,1,5,Home,1
+69,Male,White,1,3,Home,0
+86,Male,Mixed,2,1,Care Home,0
+78,Female,White,2,2,Home,1
+48,Female,White,1,1,Deceased,0
+85,Male,Asian,5,1,Home,0
+69,Female,White,4,2,Rehabilitation,1
+75,Male,White,4,1,Home,0
+86,Female,White,1,4,Home,1
+48,Male,White,3,0,Home,1
+64,Female,Black,3,0,Home,0
+57,Female,White,5,3,Home,0
+41,Female,White,4,4,Home,0
+70,Male,Mixed,3,1,Home,1
+95,Male,Black,5,2,Home,1
+37,Female,White,1,4,Rehabilitation,1
+64,Male,White,1,3,Home,0
+74,Female,White,3,2,Home,1
+66,Female,Asian,1,2,Home,1
+63,Female,White,1,3,Care Home,0
+45,Male,White,4,1,Care Home,0
+68,Female,White,2,1,Home,0
+53,Female,White,3,2,Care Home,0
+32,Female,White,5,2,Care Home,0
+82,Male,White,2,2,Home,0
+79,Male,White,1,2,Home,0
+65,Male,White,1,2,Home,1
+68,Male,White,1,1,Home,1
+81,Female,White,1,1,Home,1
+68,Female,White,1,3,Home,0
+78,Male,Asian,2,1,Home,1
+60,Female,White,2,3,Home,0
+84,Male,White,4,4,Rehabilitation,1
+69,Male,White,5,6,Home,0
+67,Male,White,4,3,Home,1
+45,Male,White,3,3,Deceased,0
+69,Female,White,1,2,Home,1
+52,Male,White,4,2,Home,0
+55,Female,White,2,2,Home,0
+52,Male,White,1,1,Care Home,0
+49,Female,White,4,0,Home,0
+95,Male,Asian,2,1,Rehabilitation,0
+84,Male,White,1,2,Care Home,0
+93,Male,White,5,3,Home,0
+46,Male,White,5,1,Home,1
+66,Male,White,2,6,Home,1
+45,Female,Black,2,2,Home,0
+54,Female,Black,3,2,Home,0
+51,Female,White,4,3,Care Home,0
+83,Female,White,1,1,Home,0
+59,Male,White,3,3,Home,1
+81,Male,Mixed,5,3,Home,0
+74,Female,White,2,2,Home,0
+95,Female,White,5,3,Home,0
+42,Female,White,5,1,Home,1
+83,Female,White,2,2,Rehabilitation,1
+82,Male,White,4,3,Home,0
+50,Male,White,1,4,Deceased,1
+80,Male,White,4,3,Care Home,0
+70,Male,White,4,0,Home,0
+61,Male,Mixed,1,5,Home,1
+52,Male,Asian,4,5,Home,1
+54,Female,Asian,4,4,Home,0
+95,Female,White,2,3,Home,0
+65,Female,Asian,1,7,Home,0
+76,Female,White,1,3,Home,1
+53,Male,White,3,2,Home,1
+53,Male,White,5,5,Home,0
+81,Female,White,4,2,Home,0
+44,Male,White,2,1,Home,0
+58,Male,Other,3,1,Home,0
+65,Male,White,2,4,Care Home,0
+66,Male,White,1,1,Home,0
+62,Female,White,2,2,Care Home,0
+70,Male,White,2,1,Home,0
+75,Female,White,3,4,Home,0
+76,Female,White,5,0,Home,0
+50,Male,Asian,3,3,Care Home,0
+60,Male,White,3,1,Home,0
+82,Male,White,1,3,Deceased,0
+78,Male,White,5,1,Home,0
+44,Female,Black,4,2,Home,0
+70,Female,Asian,5,3,Home,1
+35,Female,White,2,2,Rehabilitation,0
+65,Male,White,3,4,Deceased,0
+93,Female,White,3,5,Home,0
+50,Female,Asian,1,5,Rehabilitation,0
+52,Female,Black,3,2,Rehabilitation,0
+76,Female,White,5,1,Home,0
+41,Female,White,1,1,Home,0
+55,Female,Asian,1,7,Home,1
+73,Female,White,4,1,Home,0
+55,Male,White,2,2,Rehabilitation,0
+61,Female,White,3,3,Home,0
+76,Male,White,3,2,Care Home,0
+71,Male,Other,2,2,Care Home,0
+69,Female,White,4,2,Care Home,0
+59,Female,White,3,7,Home,0
+70,Male,White,5,0,Home,1
+63,Male,White,4,7,Home,0
+71,Male,White,5,3,Deceased,0
+57,Female,White,1,2,Home,1
+62,Female,White,1,4,Home,1
+50,Female,White,1,4,Home,0
+64,Female,White,2,2,Home,1
+52,Male,White,5,1,Home,0
+48,Female,White,2,5,Home,1
+68,Male,Other,4,3,Home,0
+68,Female,White,2,2,Deceased,1
+76,Female,Asian,2,3,Home,0
+58,Female,White,5,5,Rehabilitation,0
+71,Male,Asian,2,2,Home,0
+73,Male,Asian,4,4,Care Home,1
+71,Male,White,1,3,Care Home,1
+52,Female,Black,5,4,Deceased,0
+67,Male,Mixed,3,3,Home,0
+70,Male,White,4,4,Care Home,0
+65,Male,White,1,3,Home,0
+33,Female,White,2,2,Home,1
+67,Male,Asian,5,2,Home,0
+95,Female,White,5,1,Home,0
+59,Female,White,1,1,Home,0
+54,Female,White,2,3,Home,0
+70,Male,White,2,5,Rehabilitation,0
+69,Male,White,1,2,Home,0
+82,Male,White,4,3,Home,0
+46,Male,White,1,5,Home,0
+75,Male,White,2,1,Home,0
+73,Female,White,3,3,Home,0
+62,Male,White,2,1,Home,1
+70,Female,White,4,2,Deceased,0
+80,Male,White,5,2,Care Home,1
+78,Female,White,1,1,Home,0
+47,Female,White,4,3,Home,0
+77,Female,White,1,3,Home,0
+64,Female,White,2,3,Home,0
+66,Female,White,1,1,Home,1
+66,Female,Other,1,4,Home,1
+62,Male,White,2,3,Home,0
+82,Female,Black,2,4,Home,1
+63,Male,Asian,5,0,Home,0
+48,Male,White,4,1,Care Home,0
+59,Male,White,5,5,Deceased,0
+67,Male,White,3,5,Care Home,0
+83,Male,White,1,4,Deceased,0
+74,Male,White,2,2,Home,0
+52,Male,Asian,2,3,Rehabilitation,1
+95,Female,White,2,2,Home,1
+68,Male,Asian,3,2,Care Home,1
+84,Female,White,3,3,Care Home,0
+62,Male,Black,2,4,Home,0
+73,Female,White,1,2,Home,1
+77,Female,White,1,2,Home,0
+83,Female,White,1,3,Home,1
+80,Female,White,1,0,Deceased,0
+78,Male,White,4,2,Care Home,0
+60,Female,Mixed,1,1,Home,1
+56,Female,White,4,2,Home,1
+69,Female,Black,2,0,Home,0
+78,Female,White,1,4,Deceased,1
+61,Male,Asian,4,2,Care Home,0
+80,Female,White,3,2,Home,0
+86,Male,White,1,4,Home,0
+51,Female,Black,5,1,Rehabilitation,0
+52,Male,White,1,5,Home,0
+62,Female,White,1,4,Care Home,1
+69,Male,White,4,2,Home,0
+57,Male,White,4,3,Home,0
+85,Female,White,2,1,Home,1
+71,Female,White,1,1,Home,0
+65,Female,White,5,1,Home,0
+43,Male,White,2,3,Home,0
+45,Male,White,1,1,Care Home,0
+69,Female,White,3,2,Rehabilitation,0
+33,Female,White,5,3,Home,0
+80,Female,Black,1,5,Home,0
+62,Male,Asian,4,3,Home,1
+95,Female,White,3,2,Home,1
+95,Male,Black,2,1,Home,0
+62,Female,White,4,4,Care Home,0
+63,Male,White,5,2,Care Home,0
+79,Male,White,1,2,Home,0
+90,Female,White,1,1,Care Home,1
+40,Female,White,5,5,Rehabilitation,0
+38,Male,White,3,1,Deceased,1
+55,Male,White,2,0,Home,0
+73,Male,White,3,3,Rehabilitation,0
+72,Female,White,4,3,Home,0
+81,Male,White,4,2,Home,0
+47,Male,White,5,0,Home,0
+30,Female,White,2,2,Home,1
+77,Female,White,2,1,Home,0
+52,Female,White,3,3,Home,0
+34,Female,White,2,1,Rehabilitation,0
+67,Female,Mixed,3,1,Rehabilitation,0
+76,Female,Mixed,2,4,Deceased,0
+63,Female,White,1,2,Home,1
+58,Female,White,2,2,Care Home,1
+62,Male,White,3,1,Home,0
+59,Female,Mixed,4,0,Home,0
+44,Male,White,2,0,Home,1
+54,Male,White,1,2,Rehabilitation,0
+72,Male,White,2,2,Home,0
+69,Male,White,4,2,Rehabilitation,0
+67,Female,White,2,2,Rehabilitation,0
+50,Female,White,3,2,Deceased,0
+62,Female,White,3,2,Care Home,0
+32,Female,White,1,3,Home,0
+67,Female,White,4,2,Rehabilitation,1
+86,Male,White,1,1,Care Home,0
+42,Female,White,3,0,Deceased,0
+56,Female,Asian,1,5,Care Home,1
+69,Male,White,1,3,Rehabilitation,0
+83,Female,White,3,6,Home,0
+58,Male,White,2,2,Care Home,1
+54,Male,White,4,0,Home,0
+35,Male,White,4,1,Home,1
+66,Male,White,4,0,Home,1
+95,Female,White,2,4,Home,1
+69,Female,White,3,2,Home,0
+64,Male,White,3,5,Care Home,1
+69,Female,White,2,3,Rehabilitation,0
+64,Female,White,3,2,Home,0
+52,Male,White,5,1,Home,0
+77,Male,White,1,2,Deceased,1
+68,Female,White,5,3,Home,0
+65,Female,White,1,1,Home,1
+50,Female,White,2,2,Home,0
+84,Male,White,2,2,Care Home,1
+74,Female,Black,3,3,Home,1
+56,Male,Black,1,2,Deceased,0
+80,Male,White,5,2,Home,1
+57,Female,White,4,7,Home,0
+53,Male,White,3,5,Home,1
+53,Male,White,2,2,Home,1
+38,Male,Asian,5,2,Home,0
+72,Male,White,4,4,Home,0
+37,Female,Black,2,1,Home,0
+46,Female,White,4,2,Home,0
+33,Male,White,3,1,Care Home,0
+63,Male,Asian,3,2,Care Home,0
+62,Male,White,2,3,Rehabilitation,0
+60,Female,Black,2,1,Deceased,0
+49,Male,White,1,4,Home,1
+47,Female,White,2,0,Home,0
+71,Male,White,3,0,Home,0
+56,Male,White,5,4,Home,0
+69,Female,White,5,3,Home,0
+51,Female,White,3,5,Care Home,1
+67,Male,White,3,5,Care Home,0
+84,Female,White,1,5,Home,0
+73,Female,White,3,3,Home,0
+58,Female,White,1,2,Home,0
+68,Female,Black,2,1,Deceased,0
+61,Female,White,3,1,Home,0
+65,Female,White,2,1,Home,0
+60,Male,Other,1,7,Deceased,1
+62,Female,Black,4,3,Deceased,1
+68,Male,White,2,2,Home,0
+50,Male,Asian,1,5,Home,0
+49,Male,White,1,4,Home,0
+44,Male,White,2,4,Care Home,1
+40,Female,White,1,3,Home,1
+46,Female,White,4,3,Care Home,0
+67,Female,Asian,2,0,Home,1
+51,Male,White,4,6,Home,1
+72,Male,Other,1,0,Rehabilitation,0
+65,Female,White,2,6,Home,1
+35,Male,White,3,3,Home,0
+74,Female,White,3,2,Home,0
+77,Female,Other,3,2,Care Home,0
+50,Female,White,5,4,Home,0
+71,Female,Asian,1,0,Home,1
+52,Female,Mixed,2,2,Home,1
+66,Male,White,5,3,Home,0
+46,Female,White,1,2,Care Home,0
+38,Male,Black,1,1,Home,0
+59,Male,Mixed,1,3,Home,0
+63,Male,White,3,2,Home,1
+59,Female,White,2,1,Rehabilitation,0
+47,Male,White,1,2,Home,0
+59,Male,White,2,1,Care Home,0
+69,Male,White,3,1,Home,0
+64,Female,White,1,1,Home,0
+67,Female,White,2,3,Home,0
+54,Female,White,3,1,Home,0
+82,Female,White,5,2,Home,1
+47,Male,White,3,3,Home,0
+72,Male,White,4,2,Home,1
+82,Female,White,2,1,Care Home,0
+72,Male,White,2,4,Care Home,1
+61,Male,White,2,3,Home,0
+57,Male,White,4,2,Home,0
+80,Female,White,2,4,Care Home,0
+43,Male,Asian,4,2,Home,0
+50,Female,White,5,4,Deceased,1
+59,Male,White,1,1,Home,0
+83,Female,White,1,1,Rehabilitation,0
+70,Male,White,1,3,Home,1
+50,Male,Mixed,2,3,Home,0
+60,Male,White,1,3,Home,1
+55,Female,White,5,1,Home,0
+54,Male,White,1,5,Home,1
+79,Female,White,2,3,Home,0
+44,Female,White,1,0,Home,0
+89,Female,White,5,1,Home,0
+77,Male,White,3,0,Home,1
+81,Male,Asian,5,3,Home,0
+58,Male,White,5,2,Home,0
+62,Female,White,2,2,Home,0
+43,Female,White,1,3,Home,0
+57,Female,White,1,2,Deceased,0
+72,Female,White,1,2,Rehabilitation,1
+84,Male,White,4,2,Home,0
+48,Male,White,1,3,Home,0
+59,Female,Other,1,1,Home,1
+62,Male,White,3,3,Home,1
+44,Male,White,3,2,Home,0
+73,Female,White,3,6,Home,0
+54,Male,White,2,2,Home,1
+62,Female,White,4,6,Home,0
+58,Female,Asian,3,1,Home,0
+53,Female,Black,1,2,Home,0
+64,Male,White,4,9,Home,0
+61,Male,White,5,5,Home,1
+59,Female,White,1,2,Home,0
+54,Male,White,2,4,Home,0
+69,Male,White,2,3,Home,1
+89,Male,White,1,1,Home,1
+67,Male,White,5,3,Care Home,0
+79,Male,White,2,4,Home,0
+44,Female,Asian,4,1,Home,1
+67,Male,Asian,3,1,Home,0
+48,Male,White,3,2,Home,0
+42,Female,White,1,4,Care Home,0
+53,Female,Black,1,0,Care Home,1
+82,Male,White,1,1,Home,1
+79,Male,Black,1,5,Home,0
+68,Female,White,2,3,Home,1
+42,Female,White,4,2,Deceased,1
+62,Female,White,2,3,Care Home,1
+69,Female,Black,4,3,Home,1
+67,Male,White,2,5,Home,1
+37,Female,White,4,2,Rehabilitation,0
+51,Male,White,5,1,Home,0
+64,Female,Black,1,4,Home,1
+73,Female,Mixed,5,4,Home,1
+32,Female,Other,3,2,Home,1
+62,Male,Mixed,4,2,Care Home,0
+67,Male,White,3,5,Care Home,1
+77,Female,White,2,5,Home,0
+75,Female,White,1,5,Home,1
+73,Female,White,1,2,Home,0
+53,Male,Asian,3,2,Home,1
+36,Male,Black,5,3,Home,0
+59,Female,White,4,1,Home,0
+80,Male,White,2,1,Care Home,0
+85,Female,Black,4,2,Home,0
+75,Male,White,4,10,Home,1
+71,Female,White,2,5,Home,1
+70,Female,White,1,2,Home,0
+56,Female,White,1,2,Home,1
+63,Male,White,5,1,Home,0
+90,Female,White,4,3,Home,1
+50,Male,White,2,3,Home,0
+89,Female,Other,2,5,Home,0
+60,Male,White,4,0,Home,1
+84,Male,White,5,1,Home,0
+43,Male,Mixed,4,5,Home,0
+73,Male,White,3,3,Home,1
+53,Female,White,1,2,Home,0
+43,Male,Asian,3,1,Home,0
+68,Female,White,1,3,Home,0
+80,Female,Asian,4,3,Home,1
+52,Male,White,2,4,Home,0
+42,Female,White,4,3,Home,0
+63,Male,White,2,2,Home,0
+63,Male,White,4,5,Home,0
+73,Male,Asian,2,2,Deceased,0
+79,Female,White,2,1,Home,0
+64,Male,Black,3,3,Care Home,0
+92,Female,Asian,1,1,Home,1
+68,Female,White,5,1,Home,1
+59,Female,Asian,3,4,Deceased,0
+40,Male,White,3,1,Care Home,0
+61,Female,White,4,4,Home,1
+59,Female,Asian,5,4,Home,1
+79,Female,White,3,0,Home,1
+71,Female,White,5,0,Care Home,0
+47,Female,White,1,2,Home,1
+67,Male,White,1,3,Home,1
+75,Male,White,3,1,Home,0
+87,Male,White,2,4,Home,0
+78,Male,White,2,0,Rehabilitation,0
+76,Male,White,2,5,Rehabilitation,0
+65,Male,White,2,1,Home,1
+70,Male,White,4,2,Home,1
+83,Female,White,3,6,Care Home,0
+45,Male,Asian,5,1,Home,1
+59,Female,White,4,2,Home,0
+53,Female,White,2,1,Home,0
+70,Female,White,2,2,Home,1
+83,Female,White,2,3,Deceased,0
+56,Male,White,4,4,Home,0
+29,Male,Mixed,1,1,Home,0
+58,Male,Mixed,1,3,Rehabilitation,0
+78,Male,Asian,5,3,Home,0
+73,Female,Black,3,1,Home,0
+71,Female,White,1,1,Care Home,0
+60,Male,White,1,2,Home,0
+45,Male,White,5,3,Home,0
+72,Male,White,5,4,Home,0
+52,Male,Black,2,5,Home,0
+95,Female,White,2,5,Care Home,0
+73,Male,Other,4,3,Home,0
+56,Female,White,4,1,Rehabilitation,0
+55,Male,Asian,4,2,Home,0
+63,Male,White,3,4,Care Home,0
+61,Female,White,5,1,Home,0
+81,Female,White,2,3,Home,0
+67,Female,Asian,1,4,Care Home,0
+54,Female,Black,4,1,Home,0
+93,Male,White,3,1,Home,0
+65,Male,White,5,6,Deceased,0
+76,Female,White,1,1,Deceased,0
+55,Female,Other,4,1,Rehabilitation,1
+70,Female,White,2,3,Home,0
+69,Male,White,3,1,Home,0
+36,Female,White,1,1,Home,0
+95,Male,White,3,6,Home,0
+84,Female,White,4,5,Home,0
+59,Female,White,2,3,Home,0
+48,Male,Mixed,1,2,Home,0
+70,Female,Black,3,2,Home,0
+66,Male,White,4,0,Home,0
+70,Female,Other,2,3,Home,1
+67,Male,White,2,3,Care Home,0
+72,Female,White,2,4,Home,0
+86,Male,White,5,0,Home,1
+73,Female,White,2,1,Home,0
+49,Female,Asian,1,3,Home,0
+85,Male,White,4,3,Home,0
+89,Male,White,3,2,Home,0
+95,Female,Asian,1,5,Home,0
+48,Male,White,5,2,Care Home,1
+68,Female,Asian,3,0,Home,1
+33,Male,White,3,3,Home,0
+73,Female,White,2,1,Home,0
+56,Male,Black,5,5,Rehabilitation,0
+93,Male,White,1,0,Home,0
+53,Male,White,2,1,Care Home,1
+39,Male,White,1,2,Rehabilitation,0
+57,Male,White,4,4,Home,0
+35,Female,Other,3,1,Home,0
+76,Female,White,3,3,Home,1
+34,Female,White,1,3,Home,0
+65,Female,Mixed,3,2,Home,1
+33,Male,White,4,2,Rehabilitation,0
+60,Female,White,2,2,Home,0
+89,Male,White,4,0,Home,0
+70,Female,Asian,2,0,Home,0
+52,Male,White,4,1,Home,0
+64,Male,White,1,3,Rehabilitation,0
+65,Male,White,3,4,Home,0
+72,Female,White,5,1,Home,0
+44,Male,White,5,3,Home,0
+73,Female,White,2,2,Rehabilitation,1
+24,Male,White,2,0,Home,1
+55,Female,White,1,1,Home,1
+57,Female,White,5,0,Care Home,0
+74,Male,Asian,3,2,Rehabilitation,0
+65,Female,White,2,1,Home,0
+43,Female,White,1,0,Home,0
+50,Female,White,5,2,Deceased,1
+67,Female,White,3,3,Rehabilitation,0
+63,Female,White,2,3,Home,0
+56,Female,White,2,4,Home,1
+57,Male,White,2,1,Home,0
+75,Female,Black,3,4,Home,1
+57,Male,White,5,2,Home,0
+63,Male,Asian,5,4,Home,0
+95,Female,White,2,2,Rehabilitation,1
+43,Male,Black,4,2,Home,1
+37,Male,White,2,6,Rehabilitation,1
+76,Female,White,2,2,Home,1
+54,Female,Black,5,3,Home,1
+60,Female,White,2,2,Home,0
+53,Female,White,2,4,Home,0
+61,Female,White,5,1,Home,0
+88,Male,Asian,1,3,Home,0
+77,Male,White,4,1,Rehabilitation,0
+77,Female,Black,5,2,Home,1
+43,Male,White,3,6,Rehabilitation,0
+47,Female,White,1,1,Rehabilitation,0
+22,Female,White,2,2,Care Home,1
+52,Male,White,1,2,Home,0
+79,Female,White,2,2,Deceased,1
+72,Female,White,4,6,Home,1
+61,Male,White,2,3,Rehabilitation,0
+64,Female,White,2,3,Home,0
+54,Female,White,3,2,Home,0
+68,Male,Asian,3,3,Deceased,0
+76,Female,White,5,5,Home,0
+40,Female,Asian,2,2,Home,0
+69,Female,White,4,3,Home,1
+78,Female,Black,3,2,Home,0
+58,Female,White,2,3,Rehabilitation,0
+75,Male,White,2,1,Home,1
+95,Female,Asian,2,4,Care Home,0
+63,Female,Mixed,3,2,Home,0
+70,Male,White,1,2,Home,0
+53,Male,White,5,4,Home,0
+67,Female,White,3,1,Home,1
+71,Female,White,5,1,Care Home,0
+67,Female,Black,1,2,Rehabilitation,0
+49,Female,White,2,2,Home,0
+68,Female,Asian,1,1,Home,0
+86,Female,White,2,0,Home,0
+71,Female,Asian,5,5,Home,1
+79,Male,Black,1,4,Rehabilitation,0
+61,Female,White,2,2,Rehabilitation,1
+76,Female,White,1,4,Home,1
+69,Female,Asian,2,3,Care Home,0
+50,Female,White,4,1,Home,0
+69,Female,White,3,2,Home,1
+50,Male,White,4,1,Rehabilitation,1
+55,Male,White,2,1,Home,0
+67,Male,Asian,5,4,Home,0
+69,Male,White,4,3,Home,0
+47,Female,Mixed,2,2,Home,0
+80,Male,White,2,2,Home,0
+73,Male,White,5,3,Home,0
+54,Female,White,3,2,Home,0
+41,Female,White,4,6,Home,0
+62,Male,White,2,0,Home,1
+58,Female,White,1,1,Home,0
+66,Female,White,4,3,Home,0
+59,Male,Black,3,2,Care Home,0
+34,Male,White,3,5,Care Home,1
+59,Female,White,3,2,Home,0
+60,Female,Asian,1,1,Care Home,0
+74,Female,White,4,2,Home,1
+54,Male,White,5,4,Home,1
+90,Male,White,5,4,Home,0
+36,Female,White,2,1,Home,0
+84,Male,White,2,3,Home,0
+61,Male,White,4,1,Home,0
+77,Female,White,3,3,Home,0
+66,Male,White,3,1,Home,0
+82,Female,Mixed,5,3,Home,0
+59,Female,White,3,2,Home,0
+48,Male,White,3,4,Home,1
+86,Female,White,1,2,Home,1
+63,Male,Black,1,2,Home,0
+68,Female,White,1,4,Care Home,1
+83,Male,White,5,3,Home,1
+49,Male,Other,2,1,Home,0
+73,Female,White,2,2,Home,0
+56,Male,White,4,4,Rehabilitation,0
+63,Female,White,3,1,Home,1
+66,Male,White,3,3,Home,0
+42,Male,Asian,2,1,Home,0
+53,Female,White,4,2,Home,0
+85,Male,White,1,5,Home,1
+78,Male,White,1,1,Home,0
+64,Female,Black,1,1,Home,0
+68,Female,White,2,0,Home,0
+60,Female,White,2,2,Home,0
+85,Female,White,3,3,Rehabilitation,0
+61,Male,White,1,1,Home,0
+68,Female,White,3,3,Deceased,0
+82,Male,White,1,3,Deceased,0
+53,Female,White,1,4,Rehabilitation,0
+88,Male,White,3,2,Deceased,0
+42,Female,White,5,0,Home,0
+89,Female,White,5,2,Rehabilitation,0
+59,Female,White,5,2,Home,0
+61,Female,Other,3,2,Rehabilitation,0
+36,Female,White,3,1,Home,0
+58,Female,White,3,4,Home,1
+49,Male,White,3,2,Deceased,1
+55,Male,Black,1,2,Home,0
+62,Male,White,3,1,Rehabilitation,0
+79,Male,White,2,2,Home,1
+68,Female,White,2,5,Home,0
+69,Female,White,3,2,Home,1
+48,Female,Asian,1,3,Home,1
+51,Female,White,2,3,Care Home,1
+91,Female,White,1,3,Deceased,0
+53,Male,Asian,5,5,Rehabilitation,0
+89,Male,White,1,2,Care Home,0
+61,Male,Black,2,2,Home,0
+65,Male,White,5,3,Home,0
+81,Female,White,2,4,Home,0
+84,Female,Asian,1,3,Home,0
+63,Female,White,2,2,Home,1
+59,Female,Asian,1,2,Home,0
+64,Female,White,1,1,Home,0
+70,Male,White,1,3,Home,1
+78,Female,White,2,2,Home,0
+65,Male,White,4,1,Home,0
+74,Male,White,3,5,Rehabilitation,1
+89,Male,White,3,1,Home,0
+70,Female,Mixed,1,2,Home,1
+69,Male,White,2,1,Rehabilitation,1
+42,Male,White,4,2,Home,0
+25,Female,White,1,1,Home,0
+70,Female,White,5,5,Rehabilitation,0
+63,Male,White,2,3,Home,1
+57,Male,White,4,1,Home,0
+68,Female,Asian,2,3,Home,0
+64,Male,Black,2,0,Home,0
+81,Female,White,4,3,Home,1
+66,Female,White,4,3,Home,1
+53,Male,White,1,3,Care Home,1
+79,Male,White,5,1,Home,0
+61,Male,White,1,4,Home,0
+72,Male,White,1,2,Home,0
+57,Male,White,3,8,Care Home,1
+55,Female,White,4,0,Home,0
+66,Male,Asian,5,3,Home,0
+65,Female,White,2,3,Home,1
+72,Female,White,1,3,Home,0
+60,Male,White,3,4,Home,1
+37,Male,Black,2,3,Home,0
+58,Male,Mixed,2,5,Home,0
+76,Male,White,2,0,Home,1
+60,Female,White,1,3,Home,1
+61,Male,Mixed,2,1,Home,0
+79,Female,White,2,2,Home,0
+54,Male,Asian,4,3,Home,1
+41,Male,Asian,3,0,Care Home,1
+62,Female,White,1,1,Home,1
+57,Female,White,1,0,Deceased,0
+50,Male,White,2,4,Home,0
+62,Male,White,1,3,Home,1
+72,Female,Asian,3,1,Rehabilitation,0
+64,Male,Black,5,1,Home,0
+69,Male,White,3,1,Home,0
+92,Female,White,3,1,Home,0
+59,Female,White,2,2,Home,0
+69,Female,White,2,3,Rehabilitation,0
+57,Female,White,5,0,Home,0
+52,Female,White,5,2,Deceased,0
+56,Female,White,2,4,Care Home,1
+57,Female,White,2,1,Home,0
+70,Female,Other,4,3,Home,0
+95,Female,White,1,1,Home,1
+54,Male,Asian,4,1,Home,0
+58,Male,White,4,0,Home,0
+64,Female,White,1,4,Home,1
+70,Female,Asian,5,1,Home,1
+68,Male,White,5,3,Home,0
+84,Female,White,5,1,Home,1
+28,Male,White,2,1,Home,0
+29,Female,White,1,4,Home,0
+57,Female,White,3,3,Care Home,1
+81,Female,Black,2,1,Rehabilitation,0
+41,Male,White,1,0,Home,1
+19,Female,White,2,5,Care Home,0
+73,Male,Black,3,5,Home,0
+68,Male,White,1,5,Care Home,0
+48,Male,White,2,0,Home,0
+50,Female,White,1,5,Home,0
+50,Male,White,4,5,Home,0
+66,Male,White,3,3,Home,1
+55,Female,White,1,6,Care Home,1
+72,Female,White,5,1,Home,0
+22,Female,White,1,1,Home,0
+52,Female,White,3,4,Home,0
+48,Male,White,4,3,Home,1
+61,Female,White,4,3,Home,0
+56,Female,White,1,3,Care Home,1
+76,Male,White,5,2,Home,1
+37,Male,Asian,5,1,Home,0
+65,Male,White,3,1,Care Home,0
+73,Male,White,2,5,Home,0
+92,Female,White,1,4,Home,1
+57,Female,White,3,4,Home,0
+69,Female,White,2,3,Home,1
+37,Female,Asian,4,2,Home,1
+29,Male,Black,2,2,Home,0
+77,Female,Black,3,2,Home,0
+64,Male,Black,1,2,Rehabilitation,0
+82,Female,Black,1,3,Home,0
+44,Male,White,1,0,Care Home,0
+72,Female,White,1,2,Home,0
+93,Male,Asian,3,4,Home,1
+71,Male,White,4,0,Home,1
+69,Male,White,3,0,Home,0
+65,Female,White,3,3,Home,0
+41,Female,White,3,4,Home,0
+85,Male,White,2,3,Rehabilitation,1
+55,Female,White,2,2,Home,0
+72,Female,White,2,3,Home,0
+41,Female,Black,4,4,Home,0
+47,Female,White,1,1,Rehabilitation,0
+86,Male,Black,1,4,Home,1
+59,Male,White,3,1,Home,0
+86,Female,White,5,3,Rehabilitation,1
+63,Female,White,3,1,Rehabilitation,0
+37,Female,White,4,4,Home,0
+78,Female,White,3,2,Home,1
+56,Male,Asian,2,0,Home,1
+75,Female,Asian,4,3,Care Home,0
+65,Male,Mixed,4,3,Home,0
+41,Female,White,1,3,Home,0
+67,Male,White,2,2,Home,1
+95,Female,White,1,5,Home,1
+72,Female,White,2,2,Home,0
+64,Male,White,5,2,Home,0
+81,Male,White,2,3,Home,0
+68,Female,White,2,3,Care Home,0
+68,Female,White,5,4,Rehabilitation,0
+48,Male,White,3,6,Care Home,1
+68,Female,White,3,4,Care Home,1
+80,Female,White,5,2,Home,0
+52,Male,White,2,1,Home,0
+86,Male,White,3,4,Home,0
+63,Female,White,1,1,Home,0
+51,Female,White,1,1,Home,1
+79,Female,White,2,2,Home,0
+60,Female,Asian,2,4,Care Home,0
+76,Male,White,5,5,Home,0
+60,Male,White,5,5,Home,0
+64,Male,White,5,3,Home,0
+72,Male,Mixed,2,3,Care Home,1
+69,Female,White,5,2,Care Home,1
+35,Female,Asian,3,5,Home,0
+48,Male,White,2,2,Home,0
+78,Male,White,4,6,Home,0
+63,Female,Asian,1,4,Care Home,1
+57,Female,White,1,3,Home,1
+44,Female,White,4,2,Rehabilitation,1
+48,Female,White,3,4,Home,0
+34,Female,White,2,3,Home,0
+63,Female,White,3,3,Home,1
+56,Male,White,5,0,Care Home,1
+50,Male,White,3,0,Deceased,0
+63,Male,Black,2,3,Care Home,0
+70,Female,White,1,2,Home,0
+95,Female,White,2,2,Home,1
+42,Female,White,5,4,Care Home,1
+82,Male,Other,2,1,Home,0
+79,Male,White,2,4,Deceased,0
+53,Male,White,2,2,Home,0
+68,Male,Asian,5,1,Deceased,0
+58,Female,Asian,3,3,Rehabilitation,1
+67,Female,White,3,2,Home,0
+87,Female,White,2,1,Home,0
+74,Female,White,1,4,Home,0
+72,Female,White,5,1,Home,1
+58,Female,Black,5,5,Home,0
+42,Male,Black,5,2,Home,0
+61,Female,White,5,2,Home,0
+83,Female,White,4,3,Home,1
+42,Female,White,3,1,Deceased,0
+49,Male,Other,4,2,Home,1
+66,Male,White,3,2,Care Home,0
+50,Male,White,1,4,Home,0
+53,Female,White,2,2,Care Home,0
+58,Male,White,5,2,Home,0
+44,Female,White,2,2,Home,1
+50,Female,Asian,5,3,Home,0
+75,Male,Asian,1,1,Care Home,1
+45,Female,White,2,6,Home,0
+41,Female,White,2,2,Home,0
+55,Male,Black,1,2,Care Home,1
+75,Female,White,1,1,Home,1
+62,Male,White,1,2,Home,1
+58,Male,Mixed,4,2,Home,1
+65,Female,Asian,1,5,Home,1
+38,Female,Asian,2,3,Home,0
+72,Female,White,1,0,Home,0
+70,Female,White,3,1,Home,0
+58,Female,White,3,2,Home,1
+80,Female,White,3,3,Home,0
+48,Female,Asian,2,2,Rehabilitation,0
+81,Female,White,1,1,Care Home,1
+67,Male,White,4,1,Home,0
+59,Female,White,4,4,Care Home,0
+64,Male,White,1,1,Care Home,0
+63,Female,Other,2,2,Home,0
+83,Male,White,1,6,Deceased,0
+48,Female,White,1,1,Home,0
+53,Male,White,4,1,Care Home,0
+80,Male,White,3,1,Home,1
+56,Female,White,1,1,Home,1
+78,Male,White,2,4,Rehabilitation,1
+90,Female,White,5,3,Home,0
+58,Male,Asian,4,3,Home,1
+75,Male,White,5,3,Home,0
+47,Male,White,2,1,Rehabilitation,1
+76,Female,White,3,1,Rehabilitation,1
+67,Male,White,2,1,Home,1
+72,Female,White,1,3,Home,0
+55,Male,White,2,3,Home,1
+40,Male,White,3,4,Home,1
+72,Male,Asian,2,3,Care Home,0
+34,Male,Black,4,1,Care Home,0
+60,Female,Asian,1,3,Home,0
+79,Female,White,2,3,Deceased,1
+67,Female,White,1,2,Care Home,1
+94,Male,Black,2,4,Home,0
+80,Male,White,1,1,Home,0
+55,Male,Asian,2,1,Home,0
+65,Female,White,2,4,Home,1
+64,Male,White,2,2,Rehabilitation,0
+41,Female,Asian,3,4,Home,0
+50,Male,Asian,2,2,Care Home,1
+56,Male,Asian,3,3,Home,0
+34,Male,Mixed,3,1,Rehabilitation,0
+65,Male,White,2,3,Home,0
+61,Female,White,4,0,Home,0
+39,Male,Black,3,3,Home,0
+71,Female,White,2,2,Care Home,0
+75,Male,White,5,3,Care Home,0
+68,Female,White,4,0,Home,0
+60,Male,White,5,4,Home,0
+73,Female,White,3,3,Home,0
+75,Female,White,2,4,Care Home,0
+69,Female,Black,2,2,Home,0
+52,Male,White,3,2,Home,0
+69,Female,White,5,1,Home,0
+82,Male,White,3,4,Home,1
+56,Male,White,5,3,Home,0
+95,Male,White,2,2,Care Home,0
+57,Male,White,2,4,Care Home,0
+65,Female,White,5,1,Care Home,0
+54,Male,White,4,3,Home,0
+68,Female,White,5,2,Home,0
+38,Female,White,4,2,Deceased,0
+56,Female,White,2,2,Home,0
+48,Female,White,3,3,Home,0
+67,Male,White,5,4,Home,0
+79,Female,White,3,2,Home,0
+74,Male,Mixed,2,1,Home,0
+29,Female,White,2,5,Care Home,1
+95,Female,Black,3,1,Deceased,0
+69,Female,White,1,4,Home,1
+53,Male,Black,4,1,Home,1
+67,Male,White,1,2,Home,0
+67,Male,Asian,2,4,Home,1
+54,Male,White,4,7,Deceased,1
+67,Male,White,2,1,Home,0
+55,Female,White,4,1,Home,0
+58,Male,White,2,1,Home,0
+54,Female,Asian,5,4,Rehabilitation,0
+43,Female,White,1,3,Home,0
+67,Female,Black,1,0,Home,1
+73,Male,White,5,3,Home,0
+72,Male,White,4,2,Home,1
+77,Male,White,1,2,Home,0
+69,Male,White,5,2,Care Home,0
+57,Female,White,3,3,Home,0
+77,Male,Asian,5,3,Home,0
+44,Female,Asian,3,2,Rehabilitation,1
+51,Female,Black,2,1,Home,0
+50,Female,White,2,4,Care Home,0
+81,Male,White,2,3,Rehabilitation,1
+79,Male,White,3,1,Home,0
+72,Female,White,2,1,Care Home,0
+81,Female,Asian,1,1,Home,0
+51,Male,White,2,3,Home,0
+70,Male,White,1,1,Care Home,0
+63,Male,White,5,1,Care Home,0
+77,Female,White,3,4,Home,0
+63,Male,Black,4,4,Home,0
+59,Female,White,5,2,Home,0
+73,Male,White,3,2,Rehabilitation,1
+78,Female,Asian,5,0,Care Home,0
+54,Female,White,2,5,Home,0
+64,Female,White,1,3,Home,0
+49,Male,White,2,0,Care Home,1
+27,Male,White,2,5,Home,1
+68,Male,White,5,2,Home,0
+74,Female,Asian,3,4,Home,0
+68,Female,White,2,3,Home,0
+35,Female,White,4,1,Deceased,0
+59,Male,Black,3,2,Deceased,0
+31,Female,Asian,1,2,Home,1
+85,Male,White,3,2,Deceased,0
+48,Female,White,5,1,Home,0
+83,Male,White,4,1,Care Home,0
+79,Female,White,3,3,Home,1
+51,Male,White,2,5,Care Home,0
+48,Male,White,1,1,Home,1
+70,Female,White,2,2,Home,0
+52,Male,White,4,1,Care Home,0
+66,Female,White,2,3,Home,0
+57,Female,White,1,1,Deceased,0
+38,Female,White,5,3,Home,0
+31,Male,White,4,1,Home,0
+68,Female,White,3,0,Care Home,0
+56,Female,White,1,1,Home,0
+56,Male,White,1,2,Home,0
+75,Female,White,1,1,Home,1
+82,Male,White,3,4,Home,0
+60,Male,Black,1,3,Home,0
+59,Male,Other,4,2,Home,1
+72,Male,White,5,1,Home,0
+44,Male,Black,2,3,Home,0
+68,Female,White,2,2,Deceased,0
+73,Female,White,4,3,Home,1
+75,Male,Other,5,5,Home,0
+35,Female,White,5,4,Home,0
+53,Female,White,1,1,Home,0
+51,Female,White,1,2,Home,0
+66,Female,White,4,5,Home,0
+72,Female,White,3,2,Care Home,0
+87,Male,White,1,2,Care Home,1
+57,Male,White,3,1,Home,1
+57,Male,White,4,1,Home,1
+82,Female,White,1,1,Home,0
+69,Male,Mixed,5,2,Home,0
+84,Female,Asian,1,4,Care Home,0
+69,Male,White,4,0,Rehabilitation,0
+47,Female,White,3,1,Home,1
+45,Male,Asian,2,3,Rehabilitation,1
+41,Male,White,4,2,Rehabilitation,1
+74,Male,White,4,5,Home,0
+82,Male,White,5,1,Home,1
+92,Male,Black,2,1,Rehabilitation,0
+77,Female,White,3,5,Home,0
+82,Male,White,3,5,Care Home,0
+56,Male,White,3,2,Home,1
+47,Female,White,5,4,Home,0
+77,Male,White,1,2,Home,0
+71,Female,White,2,1,Home,0
+66,Female,White,3,4,Home,1
+70,Male,White,1,4,Care Home,1
+69,Male,White,5,0,Rehabilitation,0
+84,Male,Asian,3,5,Deceased,1
+84,Female,Black,2,3,Home,0
+73,Female,White,4,2,Home,0
+77,Female,White,2,1,Home,0
+72,Female,White,3,2,Home,0
+58,Male,White,1,5,Home,0
+76,Female,White,2,1,Home,1
+44,Female,White,1,2,Home,1
+80,Female,White,3,3,Home,0
+47,Female,White,2,6,Home,0
+69,Female,Mixed,2,3,Home,0
+52,Male,White,2,3,Care Home,0
+73,Male,White,1,4,Care Home,0
+64,Female,White,5,2,Home,1
+41,Male,Black,1,3,Care Home,0
+71,Female,Asian,5,3,Home,0
+56,Male,White,3,1,Home,0
+78,Female,White,3,1,Home,1
+65,Female,White,2,2,Rehabilitation,0
+70,Male,White,5,4,Home,0
+50,Female,White,2,3,Home,0
+56,Female,White,3,2,Home,0
+58,Female,White,5,2,Home,1
+77,Male,White,5,6,Home,0
+90,Male,White,3,3,Care Home,1
+52,Male,White,5,2,Rehabilitation,0
+81,Male,White,4,1,Deceased,0
+32,Female,Asian,1,6,Rehabilitation,1
+47,Female,White,2,6,Home,1
+50,Female,Black,2,1,Home,0
+44,Female,White,2,2,Home,0
+41,Female,Mixed,4,8,Home,0
+71,Male,Black,3,6,Home,1
+61,Female,White,1,1,Rehabilitation,1
+70,Male,Mixed,5,1,Home,0
+75,Female,White,2,4,Rehabilitation,0
+68,Male,White,5,2,Home,0
+74,Male,White,5,2,Home,1
+63,Female,White,5,4,Home,0
+47,Female,White,4,0,Home,0
+80,Female,Asian,1,0,Home,1
+56,Female,White,3,1,Home,0
+50,Male,White,1,3,Home,0
+62,Female,White,2,5,Home,0
+51,Male,White,3,0,Rehabilitation,0
+58,Female,White,1,2,Home,0
+70,Female,Black,5,0,Rehabilitation,0
+70,Male,White,5,3,Home,0
+51,Female,White,2,1,Home,0
+57,Female,Black,3,2,Care Home,0
+81,Male,White,2,2,Care Home,0
+72,Female,White,5,1,Rehabilitation,0
+95,Female,White,3,5,Home,0
+82,Female,White,2,6,Home,0
+82,Male,Other,2,1,Home,1
+44,Male,White,2,5,Home,0
+76,Female,White,5,5,Care Home,0
+64,Male,White,1,4,Home,0
+56,Female,White,1,5,Home,0
+67,Male,Asian,5,1,Home,1
+79,Female,Black,5,2,Rehabilitation,0
+72,Female,Black,5,1,Home,0
+51,Male,White,3,4,Care Home,0
+76,Male,White,3,2,Home,1
+55,Female,White,3,4,Care Home,0
+68,Female,White,1,2,Home,0
+60,Male,White,3,2,Rehabilitation,1
+61,Female,White,1,1,Home,0
+76,Male,Black,2,2,Rehabilitation,1
+49,Male,White,5,1,Home,0
+94,Female,White,2,1,Home,0
+37,Male,White,5,2,Home,0
+56,Female,White,2,3,Rehabilitation,0
+70,Male,White,2,1,Home,0
+73,Male,White,3,4,Home,0
+63,Male,White,4,2,Home,1
+64,Female,White,3,4,Home,0
+71,Female,Asian,5,2,Home,0
+61,Female,White,1,1,Home,0
+85,Male,White,5,2,Home,0
+77,Male,White,1,3,Home,0
+78,Female,White,5,5,Home,0
+50,Male,Mixed,2,3,Home,0
+63,Female,White,4,4,Home,1
+60,Male,White,3,3,Home,0
+49,Female,Black,1,6,Home,0
+70,Male,White,5,3,Care Home,1
+56,Female,White,1,3,Home,0
+74,Male,White,1,3,Care Home,0
+48,Male,White,4,2,Home,0
+90,Male,Black,1,2,Rehabilitation,1
+51,Male,White,1,3,Home,1
+68,Male,White,3,2,Home,1
+76,Female,White,4,5,Home,0
+56,Female,White,1,5,Rehabilitation,0
+77,Female,White,3,1,Home,0
+46,Female,White,4,3,Home,0
+86,Female,White,5,1,Home,0
+65,Male,White,5,3,Care Home,0
+56,Male,Mixed,4,3,Care Home,0
+60,Male,White,3,3,Home,1
+77,Female,White,2,4,Rehabilitation,0
+56,Male,White,1,2,Home,1
+53,Male,Mixed,4,4,Rehabilitation,0
+61,Female,Asian,5,5,Home,0
+47,Male,Asian,4,4,Home,1
+92,Female,White,1,2,Home,0
+56,Female,Asian,2,2,Deceased,1
+77,Male,White,3,0,Care Home,0
+68,Male,White,3,4,Rehabilitation,1
+50,Female,White,4,5,Home,0
+64,Female,Asian,3,5,Home,0
+76,Male,Asian,1,0,Home,1
+62,Female,Black,5,2,Care Home,0
+82,Female,Black,3,1,Care Home,0
+80,Male,White,1,1,Home,0
+78,Male,White,2,2,Home,1
+58,Female,White,5,5,Rehabilitation,0
+48,Male,Black,5,3,Home,0
+55,Female,White,2,1,Home,1
+67,Male,Black,1,3,Home,1
+73,Female,White,1,3,Home,0
+32,Female,White,2,3,Care Home,1
+64,Female,White,3,3,Care Home,0
+67,Male,White,3,2,Home,0
+60,Male,Black,3,1,Home,0
+84,Female,White,4,2,Home,0
+71,Male,White,1,4,Care Home,1
+84,Male,White,1,4,Home,0
+61,Female,White,2,3,Home,0
+79,Male,White,1,3,Care Home,0
+89,Male,White,1,1,Care Home,0
+84,Male,Black,3,3,Care Home,0
+48,Female,White,4,3,Care Home,1
+61,Female,White,4,1,Home,0
+59,Male,White,4,3,Care Home,1
+72,Male,White,3,1,Home,0
+75,Male,White,4,1,Home,0
+52,Female,White,2,4,Home,0
+66,Male,White,5,1,Home,0
+34,Female,White,1,6,Home,0
+86,Male,White,1,4,Deceased,0
+57,Female,Asian,2,2,Home,1
+65,Male,Mixed,5,1,Care Home,1
+60,Female,White,5,4,Home,0
+82,Male,White,4,6,Home,0
+22,Male,White,3,6,Home,0
+64,Female,White,3,2,Rehabilitation,0
+63,Female,Asian,5,5,Home,1
+58,Male,Asian,3,2,Deceased,0
+90,Female,White,5,4,Rehabilitation,1
+51,Female,White,2,2,Rehabilitation,0
+76,Female,White,2,2,Home,0
+70,Male,White,5,5,Home,0
+83,Female,Asian,1,1,Care Home,0
+54,Female,White,5,3,Home,0
+54,Male,White,3,2,Home,1
+81,Female,White,5,2,Home,0
+71,Male,White,2,1,Care Home,0
+41,Male,White,4,1,Home,0
+56,Female,White,2,3,Home,0
+70,Female,White,3,1,Home,0
+77,Male,White,3,4,Care Home,0
+54,Male,Black,5,1,Home,1
+21,Female,White,3,0,Home,0
+72,Male,Mixed,2,2,Home,0
+46,Female,White,5,6,Home,0
+34,Female,White,2,2,Home,0
+22,Male,Black,2,2,Home,0
+77,Female,White,1,4,Home,1
+66,Female,Asian,5,7,Home,1
+61,Male,White,2,3,Home,0
+85,Female,White,2,4,Care Home,0
+74,Female,White,5,1,Home,0
+89,Female,Black,4,4,Home,0
+44,Female,Black,1,5,Home,0
+64,Male,White,4,2,Home,1
+40,Male,White,5,1,Rehabilitation,0
+61,Male,White,1,3,Care Home,0
+61,Male,Other,4,3,Home,1
+74,Male,White,3,4,Care Home,1
+65,Female,White,3,3,Rehabilitation,0
+74,Female,White,2,4,Home,0
+75,Female,White,3,3,Home,1
+95,Female,White,1,1,Home,0
+60,Female,Mixed,4,4,Deceased,1
+50,Female,White,1,2,Home,0
+68,Female,Mixed,2,2,Home,0
+52,Male,White,1,2,Care Home,0
+87,Female,White,4,3,Home,0
+60,Female,White,2,3,Home,1
+56,Male,White,2,1,Home,1
+57,Female,Black,2,3,Home,1
+75,Female,White,4,2,Home,0
+62,Male,White,2,6,Home,1
+55,Female,White,4,0,Home,1
+89,Male,White,1,3,Rehabilitation,1
+52,Male,Other,1,3,Home,0
+65,Female,White,3,5,Home,0
+74,Female,White,5,2,Home,0
+40,Female,White,1,2,Rehabilitation,0
+72,Female,White,1,4,Care Home,0
+49,Male,White,1,5,Home,1
+77,Female,White,3,1,Home,1
+50,Female,White,2,5,Care Home,0
+75,Female,White,4,4,Home,0
+81,Male,Other,1,1,Home,0
+77,Female,White,1,2,Home,1
+68,Female,White,2,1,Deceased,0
+61,Female,Other,3,3,Care Home,0
+56,Female,Asian,3,1,Home,0
+87,Male,Other,1,3,Home,0
+54,Female,Mixed,5,2,Care Home,0
+49,Female,White,2,4,Home,0
+74,Male,White,4,3,Home,0
+53,Female,White,3,3,Home,0
+50,Female,White,1,4,Home,1
+43,Male,Asian,4,1,Rehabilitation,0
+57,Female,White,4,2,Home,1
+63,Male,White,2,2,Home,0
+68,Male,White,3,2,Home,0
+79,Female,White,2,2,Rehabilitation,0
+72,Male,Black,3,3,Rehabilitation,1
+62,Male,White,2,2,Home,1
+62,Male,White,4,2,Care Home,0
+72,Male,Black,1,3,Home,0
+84,Female,White,1,2,Rehabilitation,1
+66,Female,Asian,2,2,Home,0
+57,Female,White,1,1,Home,1
+50,Female,White,3,2,Home,0
+43,Male,Asian,1,7,Home,0
+74,Female,White,4,2,Care Home,0
+73,Female,White,1,1,Rehabilitation,0
+73,Female,White,4,3,Home,0
+63,Female,Black,3,2,Home,0
+86,Female,White,5,6,Deceased,1
+57,Female,Black,5,1,Home,0
+79,Male,White,5,1,Home,0
+64,Female,White,4,0,Care Home,1
+55,Male,Black,2,3,Home,1
+73,Male,White,4,2,Home,0
+71,Male,White,5,0,Home,0
+70,Male,Asian,1,2,Home,0
+66,Male,Asian,3,3,Rehabilitation,0
+64,Male,White,1,3,Home,0
+95,Female,White,3,0,Home,0
+82,Female,Asian,2,3,Home,0
+75,Female,Asian,3,0,Home,1
+66,Male,Asian,3,3,Home,1
+80,Female,White,5,4,Rehabilitation,1
+72,Female,Other,3,2,Home,0
+65,Male,White,4,3,Care Home,1
+60,Female,White,2,2,Home,0
+63,Female,White,2,6,Home,0
+18,Male,White,2,3,Care Home,1
+68,Female,White,2,0,Home,0
+57,Female,White,2,3,Home,0
+88,Male,White,3,2,Home,1
+65,Male,White,3,1,Home,1
+47,Male,White,3,1,Deceased,0
+64,Male,White,2,2,Home,1
+49,Female,White,2,2,Care Home,0
+72,Female,White,3,0,Home,1
+69,Male,White,1,0,Home,0
+79,Female,White,2,2,Care Home,1
+53,Male,Mixed,1,3,Deceased,1
+65,Male,Black,1,1,Care Home,0
+44,Male,Black,1,2,Home,1
+75,Female,White,1,3,Home,1
+72,Male,White,1,4,Home,0
+72,Male,White,3,1,Home,1
+65,Male,Asian,1,1,Home,1
+71,Female,White,2,2,Rehabilitation,0
+89,Female,White,5,3,Rehabilitation,0
+60,Male,White,4,5,Home,0
+67,Male,White,2,3,Home,0
+48,Female,Other,5,2,Deceased,0
+51,Female,Asian,2,3,Home,0
+66,Male,Asian,1,3,Home,1
+81,Female,White,5,2,Home,1
+61,Female,Black,5,1,Home,1
+61,Male,White,2,2,Home,1
+58,Female,Mixed,3,1,Home,0
+56,Female,White,3,2,Home,0
+69,Female,White,1,4,Home,0
+42,Male,White,1,4,Home,0
+84,Male,White,2,6,Home,0
+55,Male,Black,5,3,Care Home,0
+75,Male,Other,1,1,Home,0
+45,Female,White,4,1,Home,0
+75,Female,White,1,1,Care Home,1
+75,Female,White,2,2,Home,0
+70,Female,Black,3,2,Home,0
+50,Male,White,3,1,Care Home,0
+68,Female,White,1,3,Home,0
+47,Female,White,2,2,Care Home,1
+61,Male,White,3,3,Care Home,0
+80,Female,Asian,1,4,Home,0
+76,Male,White,1,0,Home,0
+65,Female,White,3,3,Home,0
+50,Female,Asian,3,0,Home,0
+74,Male,White,1,2,Care Home,0
+65,Female,White,3,1,Home,1
+30,Female,White,5,3,Home,0
+76,Male,White,1,4,Home,0
+64,Male,White,3,4,Home,1
+83,Male,Other,1,0,Home,0
+48,Female,Asian,1,2,Home,0
+18,Female,Black,1,2,Rehabilitation,0
+69,Female,Mixed,2,5,Home,0
+69,Female,White,4,2,Home,1
+39,Female,White,2,2,Home,1
+50,Male,White,3,0,Home,0
+95,Female,Asian,2,4,Home,1
+60,Male,White,1,0,Home,0
+75,Male,White,3,1,Home,0
+55,Female,White,4,1,Home,1
+33,Male,White,4,3,Home,0
+62,Female,White,4,1,Rehabilitation,1
+61,Female,Black,2,2,Home,0
+59,Male,White,4,1,Rehabilitation,0
+63,Male,Black,1,5,Home,1
+68,Female,White,4,5,Care Home,1
+62,Female,White,5,4,Home,1
+46,Male,Mixed,1,5,Home,1
+72,Male,Black,2,1,Care Home,0
+35,Female,White,3,0,Rehabilitation,1
+34,Female,White,4,3,Deceased,1
+76,Male,White,1,2,Home,0
+72,Male,White,5,2,Home,1
+64,Female,White,3,3,Home,1
+44,Female,Mixed,1,2,Home,0
+54,Female,White,1,0,Deceased,0
+61,Female,White,4,3,Home,0
+41,Female,White,1,3,Home,0
+53,Male,Black,1,4,Home,0
+74,Female,Mixed,3,4,Home,1
+86,Male,White,3,2,Home,0
+58,Female,White,3,7,Home,0
+76,Male,Asian,2,1,Home,0
+36,Male,White,4,0,Home,0
+74,Female,White,5,3,Home,1
+52,Female,Black,2,3,Home,0
+69,Male,Other,4,3,Rehabilitation,0
+61,Female,White,5,2,Home,0
+84,Male,White,3,1,Home,1
+51,Male,White,3,1,Home,1
+74,Female,White,1,5,Care Home,1
+60,Male,White,3,1,Home,0
+62,Female,White,3,3,Deceased,1
+62,Male,White,4,3,Home,0
+52,Female,White,5,4,Home,0
+64,Female,White,1,2,Home,0
+64,Male,White,1,4,Home,0
+68,Male,White,1,2,Home,0
+66,Female,White,4,5,Home,0
+76,Female,White,1,3,Home,0
+78,Male,White,3,4,Home,1
+49,Female,Asian,2,4,Home,0
+78,Male,White,2,3,Care Home,1
+47,Male,Other,1,0,Home,0
+73,Female,White,5,3,Home,0
+74,Male,White,3,0,Home,0
+36,Female,White,5,0,Home,0
+66,Female,White,3,2,Rehabilitation,1
+57,Female,Black,1,1,Home,1
+53,Female,Mixed,1,1,Home,0
+85,Female,Other,5,6,Home,0
+55,Female,White,4,5,Home,0
+52,Female,White,1,3,Care Home,0
+66,Female,White,4,2,Home,1
+75,Female,White,2,4,Deceased,0
+62,Male,White,2,3,Deceased,0
+82,Female,Black,1,1,Care Home,0
+72,Female,Black,4,4,Home,0
+32,Female,White,1,2,Home,1
+57,Female,White,2,0,Home,0
+56,Female,White,2,3,Deceased,0
+72,Female,White,1,2,Home,1
+25,Male,White,3,3,Rehabilitation,0
+95,Female,Black,1,5,Deceased,0
+72,Male,White,2,1,Care Home,0
+67,Female,White,5,4,Home,1
+82,Female,White,2,3,Home,1
+95,Male,White,2,1,Home,1
+78,Male,Mixed,2,1,Home,0
+79,Female,White,3,2,Deceased,0
+66,Male,Other,4,5,Care Home,0
+62,Male,White,1,2,Home,1
+57,Female,White,5,7,Home,0
+52,Male,White,4,4,Home,0
+54,Female,White,4,3,Home,1
+44,Female,Asian,1,4,Home,0
+63,Male,Asian,1,0,Home,0
+39,Male,Asian,3,3,Deceased,1
+67,Female,White,5,0,Deceased,1
+64,Female,Other,3,2,Home,0
+67,Female,Other,1,1,Home,0
+57,Female,White,1,1,Home,0
+95,Female,Mixed,3,3,Rehabilitation,0
+85,Male,White,4,2,Home,0
+46,Male,White,1,1,Home,1
+68,Male,White,1,2,Home,0
+55,Male,Mixed,2,2,Home,1
+49,Female,White,3,4,Care Home,1
+44,Female,White,4,2,Deceased,0
+71,Male,White,4,0,Home,0
+54,Female,White,3,2,Rehabilitation,0
+79,Male,White,1,0,Home,1
+79,Male,White,3,1,Home,1
+85,Female,White,5,1,Rehabilitation,0
+52,Male,Other,5,0,Home,1
+72,Male,Asian,5,4,Home,0
+74,Male,Black,2,1,Rehabilitation,1
+57,Male,White,4,5,Home,0
+53,Female,White,5,2,Home,1
+89,Female,White,3,2,Home,1
+68,Male,White,2,2,Home,1
+74,Male,Mixed,5,4,Home,1
+52,Female,White,2,1,Home,0
+46,Female,Black,1,4,Home,0
+56,Male,White,1,2,Deceased,0
+63,Male,Asian,3,5,Care Home,0
+49,Female,White,2,0,Home,0
+64,Female,White,1,2,Rehabilitation,0
+39,Male,White,4,1,Home,0
+48,Female,White,4,3,Rehabilitation,0
+75,Male,White,4,2,Care Home,0
+74,Female,White,1,4,Home,1
+59,Female,White,3,3,Home,0
+49,Female,Mixed,1,3,Care Home,0
+49,Male,White,2,6,Home,1
+59,Male,White,2,4,Home,0
+74,Male,White,4,3,Home,0
+78,Female,White,2,5,Home,0
+57,Male,White,1,4,Home,0
+47,Male,White,2,7,Home,0
+69,Male,White,2,1,Home,0
+52,Female,White,5,6,Home,0
+57,Male,White,5,2,Home,1
+84,Male,White,1,3,Deceased,0
+77,Male,White,1,1,Care Home,0
+67,Female,White,1,3,Home,0
+45,Female,White,4,0,Rehabilitation,0
+68,Female,White,1,2,Care Home,0
+80,Female,White,1,3,Care Home,0
+59,Female,White,3,2,Care Home,1
+85,Male,White,1,3,Rehabilitation,0
+84,Female,Other,1,1,Home,0
+89,Male,White,2,2,Home,1
+69,Male,White,2,2,Home,0
+73,Female,White,3,5,Home,1
+86,Male,White,5,0,Deceased,0
+71,Male,White,1,1,Home,1
+57,Male,Asian,2,1,Deceased,1
+58,Female,Black,5,1,Rehabilitation,0
+68,Male,White,5,3,Home,0
+45,Female,White,2,5,Home,0
+62,Female,Asian,3,0,Home,1
+81,Female,Mixed,1,2,Home,0
+32,Male,White,4,1,Care Home,1
+88,Female,White,5,2,Deceased,1
+81,Male,White,3,3,Home,0
+58,Male,White,2,2,Home,1
+73,Male,White,1,2,Home,0
+65,Female,Black,3,1,Home,0
+83,Male,White,3,0,Care Home,0
+79,Male,Asian,3,1,Home,0
+43,Male,White,1,1,Home,0
+73,Male,White,3,0,Home,0
+61,Female,White,3,6,Home,0
+66,Female,White,1,5,Home,1
+54,Female,White,1,1,Home,1
+91,Male,White,2,1,Home,1
+80,Male,Asian,4,4,Home,0
+53,Female,Asian,3,0,Home,0
+44,Male,White,4,3,Home,0
+59,Female,White,2,2,Deceased,0
+71,Male,White,5,4,Rehabilitation,0
+68,Female,Other,4,0,Home,0
+83,Male,White,2,4,Rehabilitation,0
+76,Male,White,1,1,Care Home,1
+79,Female,White,2,2,Home,0
+69,Female,White,5,1,Rehabilitation,0
+44,Male,White,2,5,Home,1
+62,Female,Asian,2,5,Care Home,0
+80,Female,Asian,1,4,Home,0
+64,Male,White,4,4,Care Home,1
+72,Male,White,2,4,Home,0
+60,Male,White,2,4,Home,1
+49,Male,Black,2,2,Home,1
+63,Female,White,2,6,Home,0
+69,Male,White,2,1,Home,0
+55,Male,White,3,3,Home,1
+61,Male,White,4,2,Home,1
+50,Female,White,4,2,Home,0
+81,Male,White,4,3,Home,0
+60,Male,White,1,2,Home,0
+86,Male,White,4,5,Home,1
+87,Female,White,1,1,Home,0
+63,Male,White,1,4,Home,0
+49,Female,White,5,1,Home,0
+33,Male,White,4,3,Home,0
+42,Male,White,3,3,Home,1
+44,Female,Black,5,0,Home,1
+85,Male,White,5,2,Home,0
+66,Female,White,3,5,Home,0
+70,Female,White,3,4,Home,0
+31,Female,White,4,0,Home,0
+47,Female,White,1,2,Care Home,0
+78,Male,White,1,4,Rehabilitation,0
+69,Male,White,4,5,Deceased,0
+62,Female,White,2,4,Home,0
+73,Female,Black,1,1,Home,0
+89,Female,Black,2,6,Care Home,0
+61,Male,Mixed,2,2,Home,0
+66,Male,Asian,5,3,Home,0
+67,Female,Black,3,2,Home,0
+95,Male,White,3,3,Home,1
+33,Male,White,5,4,Home,1
+75,Male,White,5,2,Rehabilitation,0
+63,Female,White,3,3,Deceased,0
+73,Male,Mixed,5,8,Home,0
+55,Female,White,2,2,Care Home,0
+64,Male,White,1,4,Home,1
+75,Female,White,1,4,Home,0
+95,Female,Black,3,4,Home,0
+77,Male,White,3,4,Home,1
+52,Female,Other,3,3,Home,1
